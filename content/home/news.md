@@ -1,6 +1,6 @@
 +++
 # A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/post/`.
+# This section displays recent blog posts from `content/news/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "News"
-subtitle = ""
+subtitle = "Dongjin will server as SPC for AAAI 2021"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
