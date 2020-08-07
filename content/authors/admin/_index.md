@@ -75,4 +75,6 @@ user_groups:
 
 I am an assistant professor in Department of Computer Science and Engineering, [University of Connecticut](https://uconn.edu) (UCONN) since August 2020. Before that, I was a research staff member at [NEC Labs America](http://www.nec-labs.com) in Princeton, NJ since July 2016. In June 2016, I received my Ph.D. degree in Department of Electrical and Computer Engineering from [University of California San Diego](https://www.ucsd.edu) (UCSD) with the guidance of [Prof. David A. Meyer](https://math.ucsd.edu/people/profiles/david-meyer/). My thesis committee includes [Prof. Lawrence Saul](https://cseweb.ucsd.edu/~saul/), [Prof. Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/), [Prof. Gert Lanckriet](http://eceweb.ucsd.edu/~gert/), and [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). I also work closely with [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) from the University of Sydney.
 
+***Multiple Ph.D. positions are available for Spring/Fall 2021! If you are interested in joining UCONN, please send me an email. Master/undergraduate students, and visitors are also welcome!***
+
 This website is still under construction ...
