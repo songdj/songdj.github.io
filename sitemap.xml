@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://songdj.github.io/</loc>
-  </url>
-  
-  <url>
     <loc>https://songdj.github.io/authors/</loc>
   </url>
   
@@ -19,7 +15,11 @@
   </url>
   
   <url>
-    <loc>https://songdj.github.io/author/nelson-bighetti/</loc>
+    <loc>https://songdj.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/dongjin-song/</loc>
   </url>
   
   <url>
