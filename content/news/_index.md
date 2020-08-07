@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: News
 
 # View.
 #   1 = List
@@ -9,6 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ""
+  caption: "Dongjin will server as SPC for AAAI 2021."
   image: ""
 ---
