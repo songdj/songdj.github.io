@@ -8,7 +8,10 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "News"
-subtitle = "Dongjin will server as SPC for AAAI 2021"
+subtitle = "1. I will server as a SPC for AAAI 2021. 2020-08"
+subtitle = "2. Multiple Ph.D. positions are available for Spring/Fall 2021. 2020-07"
+subtitle = "3. I will join UCONN CSE as an assistant professor in this Fall. 2020-07"
+
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
