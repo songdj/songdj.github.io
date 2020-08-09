@@ -5,7 +5,7 @@
     <link>https://songdj.github.io/author/wenchao-yu/</link>
       <atom:link href="https://songdj.github.io/author/wenchao-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenchao Yu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2020 05:33:56 +0000</lastBuildDate>
     <image>
       <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Wenchao Yu</title>
@@ -13,17 +13,33 @@
     </image>
     
     <item>
+      <title>Deep Co-Clustering</title>
+      <link>https://songdj.github.io/publication/sdm-19/</link>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/sdm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Inductive  and  Unsupervised  Representation  Learning  on  Graph Structured Objects</title>
       <link>https://songdj.github.io/publication/iclr-20-a/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
       <guid>https://songdj.github.io/publication/iclr-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning  Deep  Network  Representations  with  Adversarially  Regularized Autoencoders</title>
+      <link>https://songdj.github.io/publication/kdd-18-b/</link>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-18-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Node Classification in Temporal Graphs through Stochastic Sparsification and Temporal Structural Convolution</title>
       <link>https://songdj.github.io/publication/ecml-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
       <guid>https://songdj.github.io/publication/ecml-20/</guid>
       <description></description>
     </item>
@@ -31,32 +47,16 @@
     <item>
       <title>Robust Graph Representation Learning via Neural Sparsification</title>
       <link>https://songdj.github.io/publication/icml-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
       <guid>https://songdj.github.io/publication/icml-20/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tensorized  LSTM  with  Adaptive  Shared  Memory  for  LearningTrends in Multivariate Time Series</title>
+      <title>Tensorized  LSTM  with  Adaptive  Shared  Memory  for  Learning Trends in Multivariate Time Series</title>
       <link>https://songdj.github.io/publication/aaai-20-b/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
       <guid>https://songdj.github.io/publication/aaai-20-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Co-Clustering</title>
-      <link>https://songdj.github.io/publication/sdm-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/sdm-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Learning  Deep  Network  Representations  with  Adversarially  Regularized Autoencoders</title>
-      <link>https://songdj.github.io/publication/kdd-18-b/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/kdd-18-b/</guid>
       <description></description>
     </item>
     

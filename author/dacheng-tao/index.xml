@@ -5,7 +5,7 @@
     <link>https://songdj.github.io/author/dacheng-tao/</link>
       <atom:link href="https://songdj.github.io/author/dacheng-tao/index.xml" rel="self" type="application/rss+xml" />
     <description>Dacheng Tao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Aug 2020 05:33:56 +0000</lastBuildDate>
     <image>
       <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Dacheng Tao</title>
@@ -13,25 +13,41 @@
     </image>
     
     <item>
-      <title>Multi-task Recurrent Neural Network and Higher-order Markov Random Fields for Stock Price Prediction</title>
-      <link>https://songdj.github.io/publication/kdd-19-b/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/kdd-19-b/</guid>
+      <title>Biologically Inspired Feature Manifold for Scene Classification</title>
+      <link>https://songdj.github.io/publication/tip-10/</link>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/tip-10/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Deepr-th Root of Rank Supervised  Binary  Embedding  for  Multivariate  Time  Series  Retrieval</title>
+      <title>C1 Units for Scene Classification</title>
+      <link>https://songdj.github.io/publication/icpr-08/</link>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icpr-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep r-th Root of Rank Supervised  Binary  Embedding  for  Multivariate  Time  Series  Retrieval</title>
       <link>https://songdj.github.io/publication/kdd-18-a/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
       <guid>https://songdj.github.io/publication/kdd-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative Geometry Preserving Projections</title>
+      <link>https://songdj.github.io/publication/icip-09/</link>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icip-09/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Efficient Latent Link Recommendation in Signed Networks</title>
       <link>https://songdj.github.io/publication/kdd-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
       <guid>https://songdj.github.io/publication/kdd-15/</guid>
       <description></description>
     </item>
@@ -39,15 +55,23 @@
     <item>
       <title>Efficient Robust Conditional Random Fields</title>
       <link>https://songdj.github.io/publication/tip-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
       <guid>https://songdj.github.io/publication/tip-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task Recurrent Neural Network and Higher-order Markov Random Fields for Stock Price Prediction</title>
+      <link>https://songdj.github.io/publication/kdd-19-b/</link>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-19-b/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rank Preserving Hashing for Rapid Image Search</title>
       <link>https://songdj.github.io/publication/dcc-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
       <guid>https://songdj.github.io/publication/dcc-15/</guid>
       <description></description>
     </item>
@@ -55,32 +79,8 @@
     <item>
       <title>Top-$k$ Link Recommendation in Social Networks</title>
       <link>https://songdj.github.io/publication/icdm-15/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
       <guid>https://songdj.github.io/publication/icdm-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Biologically Inspired Feature Manifold for Scene Classification</title>
-      <link>https://songdj.github.io/publication/tip-10/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/tip-10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discriminative Geometry Preserving Projections</title>
-      <link>https://songdj.github.io/publication/icip-09/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/icip-09/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>C1 Units for Scene Classification</title>
-      <link>https://songdj.github.io/publication/icpr-08/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/icpr-08/</guid>
       <description></description>
     </item>
     
