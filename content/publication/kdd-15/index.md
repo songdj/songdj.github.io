@@ -1,7 +1,7 @@
 ---
 title: "Efficient Latent Link Recommendation in Signed Networks"
 date: 2015-08-01
-publishDate: 2020-08-09T05:50:45.343304Z
+publishDate: 2020-08-09T05:55:58.262974Z
 authors: ["Dongjin Song", "David A. Meyer", "Dacheng Tao"]
 publication_types: ["1"]
 abstract: ""

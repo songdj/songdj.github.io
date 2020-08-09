@@ -1,7 +1,7 @@
 ---
 title: "Analyzing Social Divisions Using Cell Phone Data"
 date: 2013-05-01
-publishDate: 2020-08-09T05:50:45.352275Z
+publishDate: 2020-08-09T05:55:58.268973Z
 authors: ["Orest Bucicovschi", "Rex W. Douglass", "David A. Meyer", "Megha Ram", "David Rideout", "Dongjin Song"]
 publication_types: ["1"]
 abstract: ""
