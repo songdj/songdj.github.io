@@ -108,41 +108,6 @@
   </url>
   
   <url>
-    <loc>https://songdj.github.io/publication-type/2/</loc>
-    <lastmod>2020-08-09T05:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/publication/tip-10/</loc>
-    <lastmod>2020-08-09T05:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/dacheng-tao/</loc>
-    <lastmod>2020-08-09T05:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/david-a.-meyer/</loc>
-    <lastmod>2020-08-09T05:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/publication/tip-15/</loc>
-    <lastmod>2020-08-09T05:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/tianyi-zhou/</loc>
-    <lastmod>2020-08-09T05:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/wei-liu/</loc>
-    <lastmod>2020-08-09T05:33:56+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://songdj.github.io/publication/icml-20/</loc>
     <lastmod>2020-07-01T00:00:00+00:00</lastmod>
   </url>
@@ -239,6 +204,11 @@
   
   <url>
     <loc>https://songdj.github.io/author/chuxu-zhang/</loc>
+    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/dacheng-tao/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -368,7 +338,17 @@
   </url>
   
   <url>
+    <loc>https://songdj.github.io/author/david-a.-meyer/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://songdj.github.io/publication/ijcai-16/</loc>
+    <lastmod>2016-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/wei-liu/</loc>
     <lastmod>2016-07-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -403,7 +383,17 @@
   </url>
   
   <url>
+    <loc>https://songdj.github.io/publication-type/2/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://songdj.github.io/author/david-rideout/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication/tip-15/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -429,6 +419,11 @@
   
   <url>
     <loc>https://songdj.github.io/author/rex-douglass/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/tianyi-zhou/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -460,6 +455,11 @@
   <url>
     <loc>https://songdj.github.io/author/rex-w.-douglass/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication/tip-10/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
