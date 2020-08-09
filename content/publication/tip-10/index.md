@@ -1,7 +1,7 @@
 ---
 title: "Biologically Inspired Feature Manifold for Scene Classification"
-date: 2010-01-01
-publishDate: 2020-08-09T04:53:02.199638Z
+date: September 2010-01-01
+publishDate: 2020-08-09T05:33:56.681262Z
 authors: ["Dongjin Song", "Dacheng Tao"]
 publication_types: ["2"]
 abstract: ""

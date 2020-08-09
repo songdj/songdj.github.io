@@ -1,7 +1,7 @@
 ---
 title: "Fast Structural Binary Coding"
-date: 2016-01-01
-publishDate: 2020-08-09T04:53:02.191788Z
+date: July 2016-01-01
+publishDate: 2020-08-09T05:33:56.673989Z
 authors: ["Dongjin Song", "Wei Liu", "David A. Meyer"]
 publication_types: ["1"]
 abstract: ""

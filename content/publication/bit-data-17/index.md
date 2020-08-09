@@ -1,7 +1,7 @@
 ---
 title: "Learning Structured and Interpretable Nonlinear Relationship in Complex Physical Systems"
-date: 2017-01-01
-publishDate: 2020-08-09T04:53:02.190785Z
+date: December 2017-01-01
+publishDate: 2020-08-09T05:33:56.672668Z
 authors: ["Tingyang Xu", "Tan Yan", "Dongjin Song", "Wei Cheng", "Haifeng Chen", "Guofei Jiang", " JinboBi"]
 publication_types: ["1"]
 abstract: ""
