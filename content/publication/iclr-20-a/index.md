@@ -1,7 +1,7 @@
 ---
 title: "Inductive  and  Unsupervised  Representation  Learning  on  Graph Structured Objects"
 date: 2020-01-01
-publishDate: 2020-08-09T04:41:19.903157Z
+publishDate: 2020-08-09T04:48:16.765679Z
 authors: ["Licheng Wang", "Bo Zong", "Qianqian Ma", "Wei Cheng", "Jingchao Ni", "Wenchao Yu", "Yanchi Liu", "Dongjin Song", "Haifeng Chen", "Yun Fu"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Fast Nonnegative Matrix Factorization with Rank-one ADMM"
 date: 2014-01-01
-publishDate: 2020-08-09T04:41:19.920840Z
+publishDate: 2020-08-09T04:48:16.788105Z
 authors: ["Dongjin Song", "David A. Meyer", "Martin Renqiang Min"]
 publication_types: ["1"]
 abstract: ""
