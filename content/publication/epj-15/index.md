@@ -1,7 +1,7 @@
 ---
 title: "High Resolution Population Estimates from Telecommunications Data"
 date: 2015-01-01
-publishDate: 2020-08-09T03:37:27.072558Z
+publishDate: 2020-08-09T04:41:19.919260Z
 authors: ["Rex Douglass", "David A. Meyer", "Megha Ram", "David Rideout", "Dongjin Song"]
 publication_types: ["2"]
 abstract: ""

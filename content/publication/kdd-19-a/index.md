@@ -1,7 +1,7 @@
 ---
 title: "Heterogeneous Graph Neural Network"
 date: 2019-01-01
-publishDate: 2020-08-09T03:37:27.061963Z
+publishDate: 2020-08-09T04:41:19.903974Z
 authors: ["Chuxu Zhang*", "Dongjin Song", "Chao Huang", "Ananthram Swami", "Nitesh V. Chawla"]
 publication_types: ["1"]
 abstract: ""

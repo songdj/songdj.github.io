@@ -1,7 +1,7 @@
 ---
 title: "Exemplar-Centered Supervised Shallow Para-metric  Data  Embedding"
 date: 2017-01-01
-publishDate: 2020-08-09T03:37:27.067225Z
+publishDate: 2020-08-09T04:41:19.908574Z
 authors: ["Renqiang Min", "Hongyu Guo", "Dongjin Song"]
 publication_types: ["1"]
 abstract: ""

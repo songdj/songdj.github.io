@@ -1,7 +1,7 @@
 ---
 title: "C1 Units for Scene Classification"
 date: 2008-01-01
-publishDate: 2020-08-09T03:37:27.074537Z
+publishDate: 2020-08-09T04:41:19.922509Z
 authors: ["Dongjin Song", "Dacheng Tao"]
 publication_types: ["1"]
 abstract: ""

@@ -1,7 +1,7 @@
 ---
 title: "Discriminative Geometry Preserving Projections"
 date: 2009-01-01
-publishDate: 2020-08-09T03:37:27.074099Z
+publishDate: 2020-08-09T04:41:19.921573Z
 authors: ["Dongjin Song", "Dacheng Tao"]
 publication_types: ["1"]
 abstract: ""
