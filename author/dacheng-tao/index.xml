@@ -21,38 +21,6 @@
     </item>
     
     <item>
-      <title>C1 Units for Scene Classification</title>
-      <link>https://songdj.github.io/publication/icpr-08/</link>
-      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/icpr-08/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep r-th Root of Rank Supervised  Binary  Embedding  for  Multivariate  Time  Series  Retrieval</title>
-      <link>https://songdj.github.io/publication/kdd-18-a/</link>
-      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/kdd-18-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Discriminative Geometry Preserving Projections</title>
-      <link>https://songdj.github.io/publication/icip-09/</link>
-      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/icip-09/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Efficient Latent Link Recommendation in Signed Networks</title>
-      <link>https://songdj.github.io/publication/kdd-15/</link>
-      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/kdd-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Efficient Robust Conditional Random Fields</title>
       <link>https://songdj.github.io/publication/tip-15/</link>
       <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
@@ -63,24 +31,56 @@
     <item>
       <title>Multi-task Recurrent Neural Network and Higher-order Markov Random Fields for Stock Price Prediction</title>
       <link>https://songdj.github.io/publication/kdd-19-b/</link>
-      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://songdj.github.io/publication/kdd-19-b/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Rank Preserving Hashing for Rapid Image Search</title>
-      <link>https://songdj.github.io/publication/dcc-15/</link>
-      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/dcc-15/</guid>
+      <title>Deep r-th Root of Rank Supervised  Binary  Embedding  for  Multivariate  Time  Series  Retrieval</title>
+      <link>https://songdj.github.io/publication/kdd-18-a/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-18-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Top-$k$ Link Recommendation in Social Networks</title>
       <link>https://songdj.github.io/publication/icdm-15/</link>
-      <pubDate>Sun, 09 Aug 2020 05:33:56 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
       <guid>https://songdj.github.io/publication/icdm-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Latent Link Recommendation in Signed Networks</title>
+      <link>https://songdj.github.io/publication/kdd-15/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank Preserving Hashing for Rapid Image Search</title>
+      <link>https://songdj.github.io/publication/dcc-15/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/dcc-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative Geometry Preserving Projections</title>
+      <link>https://songdj.github.io/publication/icip-09/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icip-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C1 Units for Scene Classification</title>
+      <link>https://songdj.github.io/publication/icpr-08/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icpr-08/</guid>
       <description></description>
     </item>
     
