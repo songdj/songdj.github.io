@@ -5,7 +5,6 @@ publishDate: 2020-08-09T05:55:58.255426Z
 authors: ["Dongkuan Xu", "Wei Cheng", "Bo Zong", "Dongjin Song", "Jingchao Ni", "Wenchao Yu", "Yanchi Liu", "Haifeng Chen", "Xiang Zhang"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Proceedings of the 34th AAAI Conference on Advance of Artificial Intelligence (AAAI)*"
 ---
-

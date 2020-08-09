@@ -5,7 +5,6 @@ publishDate: 2020-08-09T05:55:58.262422Z
 authors: ["Dongjin Song", "Wei Liu", "David A. Meyer"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Proceedings of International Joint Conference on Artificial Intelligence (IJCAI)*"
 ---
-
