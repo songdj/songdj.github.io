@@ -5,7 +5,6 @@ publishDate: 2020-08-09T05:55:58.257872Z
 authors: ["Chuxu Zhang*", "Dongjin Song", "Chao Huang", "Ananthram Swami", "Nitesh V. Chawla"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: True
 publication: "*Proceedings  of  the  25th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)*"
 ---
-

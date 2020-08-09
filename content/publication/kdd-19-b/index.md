@@ -5,7 +5,6 @@ publishDate: 2020-08-09T05:55:58.258305Z
 authors: ["Chang Li*", "Dongjin Song", "Dacheng Tao"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: True
 publication: "*Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery  and  Data  Mining  (KDD)*"
 ---
-

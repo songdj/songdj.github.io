@@ -5,7 +5,6 @@ publishDate: 2020-08-09T05:55:58.256912Z
 authors: ["Licheng Wang", "Bo Zong", "Qianqian Ma", "Wei Cheng", "Jingchao Ni", "Wenchao Yu", "Yanchi Liu", "Dongjin Song", "Haifeng Chen", "Yun Fu"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: True
 publication: "*Proceedings of International Conference on Learning Representations (ICLR)*"
 ---
-

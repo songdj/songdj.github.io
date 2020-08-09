@@ -5,7 +5,6 @@ publishDate: 2020-08-09T05:55:58.259606Z
 authors: ["Dongjin Song", "Ning Xia", "Wei Cheng", "Haifeng Chen", "Dacheng Tao"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Proceedings  of  the  24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)*"
 ---
-
