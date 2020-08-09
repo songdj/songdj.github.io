@@ -1,7 +1,7 @@
 ---
 title: "Node Classification in Temporal Graphs through Stochastic Sparsification and Temporal Structural Convolution"
-date: September 2020-01-01
-publishDate: 2020-08-09T05:33:56.665796Z
+date: 2020-09-01
+publishDate: 2020-08-09T05:50:45.334143Z
 authors: ["Cheng Zheng", "Bo Zong", "Wei Cheng", "Dongjin Song", "Jingchao Ni", "Wenchao Yu", "Haifeng Chen", "Wei Wang"]
 publication_types: ["1"]
 abstract: ""

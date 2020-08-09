@@ -1,7 +1,7 @@
 ---
 title: "Deep r-th Root of Rank Supervised  Binary  Embedding  for  Multivariate  Time  Series  Retrieval"
-date: August 2018-01-01
-publishDate: 2020-08-09T05:33:56.668549Z
+date: 2018-08-01
+publishDate: 2020-08-09T05:50:45.338939Z
 authors: ["Dongjin Song", "Ning Xia", "Wei Cheng", "Haifeng Chen", "Dacheng Tao"]
 publication_types: ["1"]
 abstract: ""

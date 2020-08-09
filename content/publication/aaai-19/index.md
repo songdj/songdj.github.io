@@ -1,7 +1,7 @@
 ---
 title: "A Deep Neural Network for Unsupervised Anomaly  Detection  and  Diagnosis  in  Multivariate  Time  Series  Data"
-date: January 2019-01-01
-publishDate: 2020-08-09T05:33:56.667728Z
+date: 2019-01-01
+publishDate: 2020-08-09T05:50:45.337736Z
 authors: ["Chuxu Zhang*", "Dongjin Song", "Yuncong Chen", "Xinyang Feng", "Cristian Lumezanu", "Wei Cheng", "Bo Zong", "Jingchao Ni", "Haifeng Chen", "Nitesh Chawla"]
 publication_types: ["1"]
 abstract: ""

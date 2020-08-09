@@ -1,7 +1,7 @@
 ---
 title: "Top Rank Supervised Binary Coding for Visual Search"
-date: December 2015-01-01
-publishDate: 2020-08-09T05:33:56.675778Z
+date: 2015-12-01
+publishDate: 2020-08-09T05:50:45.343934Z
 authors: ["Dongjin Song", "Wei Liu", "Rongrong Ji", "David A. Meyer", "John R. Smith"]
 publication_types: ["1"]
 abstract: ""

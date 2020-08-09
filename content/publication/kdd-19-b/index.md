@@ -1,7 +1,7 @@
 ---
 title: "Multi-task Recurrent Neural Network and Higher-order Markov Random Fields for Stock Price Prediction"
-date: August 2019-01-01
-publishDate: 2020-08-09T05:33:56.667349Z
+date: 2019-08-01
+publishDate: 2020-08-09T05:50:45.337094Z
 authors: ["Chang Li*", "Dongjin Song", "Dacheng Tao"]
 publication_types: ["1"]
 abstract: ""

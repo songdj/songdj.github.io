@@ -1,7 +1,7 @@
 ---
 title: "At the speed of sound efficient audio scene classification"
-date: October 2020-01-01
-publishDate: 2020-08-09T05:33:56.666587Z
+date: 2020-10-01
+publishDate: 2020-08-09T05:50:45.335432Z
 authors: ["Bo Dong", "Cristian Lumezanu", "Yuncong Chen", "Dongjin Song", "Takehiko Mizoguchi", "Haifeng Chen", "Latifur Khan"]
 publication_types: ["1"]
 abstract: ""
