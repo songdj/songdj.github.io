@@ -5,12 +5,268 @@
     <link>https://songdj.github.io/publication/</link>
       <atom:link href="https://songdj.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://songdj.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Asymmetrical  Hierarchical  Networks  with  Attentive  Interactions  for  Interpretable  Review-based  Recommendation</title>
+      <link>https://songdj.github.io/publication/aaai-20-c/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-20-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>At the speed of sound efficient audio scene classification</title>
+      <link>https://songdj.github.io/publication/icmr-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icmr-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep  Unsupervised  Binary  CodingNetworks  for  Multivariate  Time  Series  Retrieval</title>
+      <link>https://songdj.github.io/publication/aaai-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inductive  and  Unsupervised  Representation  Learning  on  Graph Structured Objects</title>
+      <link>https://songdj.github.io/publication/iclr-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/iclr-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node Classification in Temporal Graphs through Stochastic Sparsification and Temporal Structural Convolution</title>
+      <link>https://songdj.github.io/publication/ecml-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/ecml-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Graph Representation Learning via Neural Sparsification</title>
+      <link>https://songdj.github.io/publication/icml-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icml-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorized  LSTM  with  Adaptive  Shared  Memory  for  LearningTrends in Multivariate Time Series</title>
+      <link>https://songdj.github.io/publication/aaai-20-b/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-20-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Neural Network for Unsupervised Anomaly  Detection  and  Diagnosis  in  Multivariate  Time  Series  Data</title>
+      <link>https://songdj.github.io/publication/aaai-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Co-Clustering</title>
+      <link>https://songdj.github.io/publication/sdm-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/sdm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Graph Neural Network</title>
+      <link>https://songdj.github.io/publication/kdd-19-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task Recurrent Neural Network and Higher-order Markov Random Fields for Stock Price Prediction</title>
+      <link>https://songdj.github.io/publication/kdd-19-b/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-19-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepr-th Root of Rank Supervised  Binary  Embedding  for  Multivariate  Time  Series  Retrieval</title>
+      <link>https://songdj.github.io/publication/kdd-18-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning  Deep  Network  Representations  with  Adversarially  Regularized Autoencoders</title>
+      <link>https://songdj.github.io/publication/kdd-18-b/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-18-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Dual-Stage  Attention-Based  Recurrent  Neural  Network for  Time  Series Prediction</title>
+      <link>https://songdj.github.io/publication/ijcai-17-a/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/ijcai-17-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exemplar-Centered Supervised Shallow Para-metric  Data  Embedding</title>
+      <link>https://songdj.github.io/publication/ijcai-17-b/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/ijcai-17-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying  Multiple  Causal  Anomalies  by  Modeling  Local  Propagations</title>
+      <link>https://songdj.github.io/publication/icdm-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icdm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Structured and Interpretable Nonlinear Relationship in Complex Physical Systems</title>
+      <link>https://songdj.github.io/publication/bit-data-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/bit-data-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Structural Binary Coding</title>
+      <link>https://songdj.github.io/publication/ijcai-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/ijcai-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Latent Link Recommendation in Signed Networks</title>
+      <link>https://songdj.github.io/publication/kdd-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Robust Conditional Random Fields</title>
+      <link>https://songdj.github.io/publication/tip-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/tip-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Resolution Population Estimates from Telecommunications Data</title>
+      <link>https://songdj.github.io/publication/epj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/epj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Link Sign Prediction and Ranking in Signed Directed Social Networks</title>
+      <link>https://songdj.github.io/publication/snam-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/snam-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank Preserving Hashing for Rapid Image Search</title>
+      <link>https://songdj.github.io/publication/dcc-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/dcc-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recommending Positive Links in Signed Social Networks by Optimizing a Generalized AUC</title>
+      <link>https://songdj.github.io/publication/aaai-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top Rank Supervised Binary Coding for Visual Search</title>
+      <link>https://songdj.github.io/publication/iccv-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/iccv-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top-$k$ Link Recommendation in Social Networks</title>
+      <link>https://songdj.github.io/publication/icdm-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icdm-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Model of Consistent Node Types in Signed Directed Social Networks</title>
+      <link>https://songdj.github.io/publication/asonam-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/asonam-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast Nonnegative Matrix Factorization with Rank-one ADMM</title>
+      <link>https://songdj.github.io/publication/nipsw-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/nipsw-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Social Divisions Using Cell Phone Data.</title>
+      <link>https://songdj.github.io/publication/net-mob-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/net-mob-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biologically Inspired Feature Manifold for Scene Classification</title>
+      <link>https://songdj.github.io/publication/tip-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/tip-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative Geometry Preserving Projections</title>
+      <link>https://songdj.github.io/publication/icip-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icip-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C1 Units for Scene Classification</title>
+      <link>https://songdj.github.io/publication/icpr-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icpr-08/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
