@@ -5,7 +5,6 @@ publishDate: 2020-08-09T05:55:58.261062Z
 authors: ["Renqiang Min", "Hongyu Guo", "Dongjin Song"]
 publication_types: ["1"]
 abstract: ""
-featured: false
+featured: true
 publication: "*Proceedings  of  the  26th  International  Joint  Conference  on  Artificial Intelligence (IJCAI)*"
 ---
-
