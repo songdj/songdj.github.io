@@ -1,72 +1,43 @@
 +++
-# A Recent Blog Posts section created with the Pages widget.
-# This section displays recent blog posts from `content/news/`.
-
-widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = false  # This file represents a page section.
+# Accomplishments widget.
+widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
+#title = "Accomplish&shy;ments"
 title = "News"
-subtitle =""
-#subtitle = "1. I will server as a SPC for AAAI 2021. 2020-08"
-#subtitle = "2. Multiple Ph.D. positions are available for Spring/Fall 2021. 2020-07"
-#subtitle = "3. I will join UCONN CSE as an assistant professor in this Fall. 2020-07"
 
+subtitle = ""
 
-[content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "post"
+# Date format
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
-  # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+# Accomplishments.
+#   Add/remove as many `[[item]]` blocks below as you like.
+#   `title`, `organization` and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-  # Choose how many pages you would like to offset by
-  offset = 0
+[[item]]
+  organization = "AAAI 2021"
+  organization_url = "https://aaai.org/Conferences/AAAI-21/"
+  title = "I will server as an SPC for AAAI 2021."
+  url = ""
+  certificate_url = ""
+  date_start = "2018-08-06"
+  date_end = ""
+  description = ""
 
-  # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+[[item]]
+  organization = "UConn CSE"
+  organization_url = "https://www.cse.uconn.edu/"
+  title = "Multiple Ph.D. positions are available for Spring/Fall 2021!"
+  url = "songdj.github.io"
+  certificate_url = ""
+  date_start = "2018-08-01"
+  date_end = ""
+  description = ""
 
-  # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = ""
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
-
-[design]
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view = 2
-
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
-
-  # Background gradient.
-  # gradient_start = "DeepSkyBlue"
-  # gradient_end = "SkyBlue"
-
-  # Background image.
-  # image = "background.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-
-  # Text color (true=light or false=dark).
-  # text_color_light = true  
-
-[advanced]
- # Custom CSS.
- css_style = ""
-
- # CSS class.
- css_class = ""
 +++
