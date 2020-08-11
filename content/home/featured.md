@@ -68,6 +68,6 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-* denotes the student I supervised/mentored.
+Discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+** denotes the student I supervised/mentored.
 {{% /alert %}}

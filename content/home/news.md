@@ -21,22 +21,22 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "AAAI 2021"
-  organization_url = "https://aaai.org/Conferences/AAAI-21/"
-  title = "I will server as an SPC for AAAI 2021."
-  url = ""
-  certificate_url = ""
-  date_start = "2020-08-06"
-  date_end = ""
-  description = ""
-
-[[item]]
   organization = "UConn CSE"
   organization_url = "https://www.cse.uconn.edu/"
   title = "Multiple fully funded Ph.D. positions are available for Spring/Fall 2021!"
   url = "songdj.github.io"
   certificate_url = ""
-  date_start = "2020-08-01"
+  date_start = "2020-08-10"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "AAAI 2021"
+  organization_url = "https://aaai.org/Conferences/AAAI-21/"
+  title = "I will server as a SPC for AAAI 2021."
+  url = ""
+  certificate_url = ""
+  date_start = "2020-08-06"
   date_end = ""
   description = ""
 
