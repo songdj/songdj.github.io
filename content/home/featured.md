@@ -70,5 +70,5 @@ subtitle = ""
 {{% alert note %}}
 Discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
 
-$* denotes the student I supervised/mentored.
+\* denotes the student/intern I supervised/mentored.
 {{% /alert %}}
