@@ -7,5 +7,4 @@ publication_types: ["1"]
 abstract: ""
 featured: true
 publication: "*Proceedings  of  the  24th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)*"
-url_Media_Report: "https://www.nec.com/en/press/201812/global_20181212_01.html"
 ---
