@@ -228,19 +228,19 @@
   </url>
   
   <url>
-    <loc>https://songdj.github.io/courses/</loc>
+    <loc>https://songdj.github.io/teaching/</loc>
     <lastmod>2019-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://songdj.github.io/courses/example/</loc>
+    <loc>https://songdj.github.io/teaching/example/</loc>
     <lastmod>2019-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://songdj.github.io/courses/example/example/</loc>
+    <loc>https://songdj.github.io/teaching/example/example/</loc>
     <lastmod>2019-05-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -497,6 +497,11 @@
   <url>
     <loc>https://songdj.github.io/publication/icpr-08/</loc>
     <lastmod>2008-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/services/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
