@@ -487,6 +487,11 @@
   </url>
   
   <url>
+    <loc>https://songdj.github.io/projects/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://songdj.github.io/services/</loc>
     <priority>0</priority>
   </url>
