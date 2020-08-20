@@ -228,6 +228,23 @@
   </url>
   
   <url>
+    <loc>https://songdj.github.io/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/courses/intro/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/courses/intro/example/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://songdj.github.io/publication/sdm-19/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
   </url>
