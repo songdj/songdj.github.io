@@ -28,38 +28,37 @@
 ### Referee-Conferences
 
 #### Session Chairs
+
 * AAAI 2019: Transfer/Adaptation/Multitask Learning
 * AAAI 2019: Vision and Video Analysis
 
 #### Senior Program Committee Members
-* The 35rd AAAI Conference on Artificial Intelligence (AAAI) 2021
-* The 33rd AAAI Conference on Artificial Intelligence (AAAI) 2019
-* The 28th ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track)
+
+* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021
+* ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track)
 
 #### Program Committee Members
 
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2019, 2020
-* AAAI Conference on Artificial Intelligence (AAAI), 2017 - 2020
-* International Joint Conference on Artificial Intelligence (IJCAI) 2015,2017-2020
-* ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)
-2020
+* AAAI Conference on Artificial Intelligence (AAAI) 2017 - 2020
+* International Joint Conference on Artificial Intelligence (IJCAI) 2015, 2017-2020
+* ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2020
 * The 13th ACM International WSDM Conference (WSDM) 2020,2021
 * SIAM International Conference on Data Mining (SDM) 2017 - 2021
 * The European Conference on Machine Learning and Principles and Practice of Knowledge
 Discovery in Databases (ECML-PKDD) 2020
 * IEEE International Conference on Data Mining (ICDM) 2017 - 2020
-* Winter Conference on Applications of Computer Vision (WACV) 2021
 * The 28th ACM International Conference on Information and Knowledge Management (CIKM) 2019 [Research Track]
 * IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE) 2018, 2019
 * IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2018-2020
 * IEEE International Conference on Semantic Computing (ICSC) 2019, 2020
 * IEEE Transdiciplinary AI (TransAI) 2019
-* The Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2019, 2020
 * ACM Multimedia Conference (MM) 2018
 * International Conference on Pattern Recognition (ICPR) 2018
 * The CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC) 2015
 
 #### Reviewers
+
 * Neural Information Processing Systems (NeurIPS) 2020
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019, 2020
 * IEEE International Conference on Computer Vision (ICCV) 2019
@@ -67,3 +66,4 @@ Discovery in Databases (ECML-PKDD) 2020
 * Europe Conference on Computer Vision (ECCV) 2020
 * Asian Conference on Computer Vision (ACCV) 2021
 * Winter Conference on Applications of Computer Vision (WACV) 2021
+* Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2019, 2020
