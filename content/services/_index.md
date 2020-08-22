@@ -48,7 +48,7 @@
 * The European Conference on Machine Learning and Principles and Practice of Knowledge
 Discovery in Databases (ECML-PKDD) 2020
 * IEEE International Conference on Data Mining (ICDM) 2017 - 2020
-* The 28th ACM International Conference on Information and Knowledge Management (CIKM) 2019 [Research Track]
+* ACM International Conference on Information and Knowledge Management (CIKM) 2019 [Research Track]
 * IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE) 2018, 2019
 * IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2018-2020
 * IEEE International Conference on Semantic Computing (ICSC) 2019, 2020
