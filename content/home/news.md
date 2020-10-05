@@ -23,7 +23,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "UConn CSE"
   organization_url = "https://www.cse.uconn.edu/"
-  title = "Multiple fully funded Ph.D. positions are available for Spring/Fall 2021!"
+  title = "Multiple fully funded Ph.D. positions are available for Fall 2021!"
   url = "songdj.github.io"
   certificate_url = ""
   date_start = "2020-08-10"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "AAAI 2021"
   organization_url = "https://aaai.org/Conferences/AAAI-21/"
-  title = "I will serve as a SPC member for AAAI 2021."
+  title = "I will serve as a Senior PC member for AAAI 2021."
   url = ""
   certificate_url = ""
   date_start = "2020-08-06"
@@ -49,7 +49,7 @@ date_format = "Jan 2006"
     date_start = "2020-07-30"
     date_end = ""
     description = ""
-    
+
 [[item]]
     organization = "SDM 2021"
     organization_url = "https://www.siam.org/conferences/cm/conference/sdm21"
