@@ -1,10 +1,10 @@
-This page is still under construction ...
 
-| Command           | Description                    |
-| ------------------| ------------------------------ |
-| `hugo`            | Build your website.            |
-| `hugo serve -w`   | View your website.             |
+
+| Time         |  IDs          | Course Names                  |
+| ------------------| ------------------- |--------------------------------- |
+| `2020 Fall`       | CSE 5095    | Machine Learning for Time Series Data Analysis  |
+| `2021 Spring`     | CSE 2500    | Introduction to Discrete Systems             |
 
 {{% alert note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+Please refer to [HuskyCT](https://huskyct.uconn.edu/) for the course syllabus and related materials.
 {{% /alert %}}
