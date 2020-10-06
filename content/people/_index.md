@@ -1,10 +1,10 @@
 
-*Principle Investigator*
-* [Dongjin Song](https://songdj.github.io/)
+## Principle Investigator
+* ![Dongjin Song](avatar.png)(https://songdj.github.io/)
 
 
 
-*Interns worked with me*
+## Interns worked with me
 
 * Wei Zhu, May 2020 - Aug 2020,
   - Ph.D student, University of Rochester.
