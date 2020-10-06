@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://songdj.github.io/people/</loc>
-  </url>
-  
-  <url>
     <loc>https://songdj.github.io/publication-type/1/</loc>
     <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -488,6 +484,11 @@
   
   <url>
     <loc>https://songdj.github.io/courses/example/</loc>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/people/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
