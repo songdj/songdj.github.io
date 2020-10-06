@@ -1,6 +1,6 @@
 
 **Faculty**
-* ![](avatar.png)[**Dongjin Song**](https://songdj.github.io/)
+* ![[**Dongjin Song**](https://songdj.github.io/)](avatar.png | width=100)
 
 
 **Former Members/Interns Mentored**
