@@ -35,8 +35,8 @@
   weight = 60
 
 [[main]]
-    name = "People"
-    url = "people/"
+    name = "Group"
+    url = "group/"
     weight = 80
 
 [[main]]

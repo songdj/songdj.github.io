@@ -3,7 +3,7 @@
 * [**Dongjin Song**](https://songdj.github.io/)
 
 
-**Former Members/Interns Mentored**
+**Former Members/Interns**
 
 * **Wei Zhu**, May 2020 - Aug 2020, Intern at NEC Labs America
   * Ph.D student, University of Rochester
