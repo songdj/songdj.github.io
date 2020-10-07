@@ -70,7 +70,6 @@ subtitle = ""
 {{% alert note %}}
 \* denotes the student/intern I supervised/mentored.
 
-Full publication [list]({{< ref "/publication/_index.md" >}}).
-
+Discover [full publication list]({{< ref "/publication/_index.md" >}}).
 
 {{% /alert %}}
