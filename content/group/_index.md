@@ -20,7 +20,7 @@
   * Employment: [Facebook](www.facebook.com), Research Scientist
 * [**Yuanpu Xie**](https://www.linkedin.com/in/yuanpu-x-712a6353/), May 2017 - Aug 2017, Intern at NEC Labs America
   * Ph.D student, University of Florida
-  * Employment: [Twitter](https://twitter.com/), Machine Learning Engineering@Cortex
+  * Employment: [Twitter](https://twitter.com/), Senior Machine Learning Engineer@Cortex
 * [**Yao Qin**](http://cseweb.ucsd.edu/~yaq007/), June 2016 - Sep 2016, Intern at NEC Labs America
   * Ph.D student, University of California San Diego
   * **IJCAI** x 1, Patent x 1, Patent App x 1

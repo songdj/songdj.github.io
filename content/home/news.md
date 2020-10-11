@@ -23,10 +23,10 @@ date_format = "Jan 2006"
 [[item]]
   organization = "UConn CSE"
   organization_url = "https://www.cse.uconn.edu/"
-  title = "Multiple fully-funded Ph.D. positions are available for Fall 2021!"
+  title = "Multiple fully-funded Ph.D. positions are available for Spring/Fall 2021!"
   url = "songdj.github.io"
   certificate_url = ""
-  date_start = "2020-08-10"
+  date_start = "2020-09-10"
   date_end = ""
   description = ""
 
