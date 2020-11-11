@@ -79,6 +79,6 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 <span style="color: red"> Recruiting: </span> ***Multiple fully-funded Ph.D. positions are available for Fall 2021! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript. Master/undergraduate students, and visitors are also welcome (to work remotely)!***
 
 <span style="color: red"> News </span>
-| News              |
+| News              |                                   |
 | ------------------| --------------------------------- |
 | `November 2020`   | 1. Multiple fully-funded Ph.D. positions are available for Fall 2021!  |
