@@ -2,6 +2,7 @@
 
 ### Referee-Journals
 
+* Journal of Machine Learning Research
 * IEEE Transactions on Pattern Analysis and Machine Intelligence
 * IEEE Transactions on Knowledge and Data Engineering
 * IEEE Transactions on Neural Networks and Learning System
@@ -35,6 +36,7 @@
 #### Senior Program Committee Members
 
 * AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021
+* International Joint Conference on Artificial Intelligence (IJCAI) 2021
 * ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track)
 
 #### Program Committee Members
