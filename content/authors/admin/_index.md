@@ -81,10 +81,10 @@ link prediction, node classification, recommendation, etc.
 <span style="color: red"> Recruiting: </span> ***Multiple fully-funded Ph.D. positions are available for Fall 2021! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript. Master/undergraduate students, and visitors are also welcome (you could work remotely)!***
 
 
-| News              |                                   |
-| ------------------| --------------------------------- |
-| |`December 2020` | Two papers were accepted to AAAI 2021! |
-| |Deep Dynamic Gaussian Mixture GenerativeModel for Robust Forecasting on Sparse Multivariate Time Series |
-| |Multi-task Modular Recurrent Networks |
+| News            |                                   |
+| --------------------| --------------------------------- |
+| `December 2020` | Two papers were accepted to AAAI 2021! |
+|                 |Deep Dynamic Gaussian Mixture GenerativeModel for Robust Forecasting on Sparse Multivariate Time Series |
+|                 |Multi-task Modular Recurrent Networks |
 | `October 2020`  | Multiple fully-funded Ph.D. positions are available for Fall 2021! |
 | `August 2020`   | I joined UCONN CSE as an Assistant Professor!|
