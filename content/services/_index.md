@@ -30,6 +30,7 @@
 
 #### Session Chairs
 
+* ICDM 2021: E-Learning and E-Commerce
 * AAAI 2019: Transfer/Adaptation/Multitask Learning
 * AAAI 2019: Vision and Video Analysis
 
