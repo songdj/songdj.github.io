@@ -5,12 +5,20 @@
     <link>https://songdj.github.io/author/xin-dong/</link>
       <atom:link href="https://songdj.github.io/author/xin-dong/index.xml" rel="self" type="application/rss+xml" />
     <description>Xin Dong</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xin Dong</title>
       <link>https://songdj.github.io/author/xin-dong/</link>
     </image>
+    
+    <item>
+      <title>Multi-Task Recurrent Modular Networks</title>
+      <link>https://songdj.github.io/publication/aaai-21-b/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-21-b/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Asymmetrical  Hierarchical  Networks  with  Attentive  Interactions  for  Interpretable  Review-based  Recommendation</title>
