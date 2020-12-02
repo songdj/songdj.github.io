@@ -83,7 +83,7 @@ link prediction, node classification, recommendation, etc.
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-| `December 2020` | Two papers were accepted to AAAI 2021!|
+| `December 2020` | Two papers were accepted to AAAI 2021! Congrats to all collaborators!|
 |                 | 1. Deep Dynamic Gaussian Mixture Generative Model for Robust Forecasting on Sparse Multivariate Time Series |
 |                 | 2. Multi-task Modular Recurrent Networks |
 | `October 2020`  | Multiple fully-funded Ph.D. positions are available for Fall 2021! |
