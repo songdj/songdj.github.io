@@ -75,7 +75,7 @@ user_groups:
 
 I am an assistant professor in the Department of Computer Science and Engineering, [University of Connecticut](https://uconn.edu) (UConn). Before that, I was a research staff member at [NEC Labs America](http://www.nec-labs.com) in Princeton, NJ, since July 2016. In June 2016, I received my Ph.D. degree in the Department of Electrical and Computer Engineering from [University of California San Diego](https://www.ucsd.edu) (UCSD) with the guidance of [Prof. David A. Meyer](https://math.ucsd.edu/people/profiles/david-meyer/). My thesis committee includes [Prof. Lawrence Saul](https://cseweb.ucsd.edu/~saul/), [Prof. Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/), [Prof. Gert Lanckriet](http://eceweb.ucsd.edu/~gert/), and [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). I also work closely with [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) from the University of Sydney.
 
-I have broad research interests in machine learning, data mining, deep learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, etc.). I am also interested in graph representation learning with applications to
+I have broad research interests in machine learning, data mining, deep learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, environmental science, etc.). I am also interested in graph representation learning with applications to
 link prediction, node classification, recommendation, etc.
 
 <span style="color: red"> Recruiting: </span> ***Multiple fully-funded Ph.D. positions are available for Fall 2021! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript. Master/undergraduate students, and visitors are also welcome (you could work remotely)!***
@@ -83,8 +83,10 @@ link prediction, node classification, recommendation, etc.
 
 | News            |                                   |
 | --------------------| --------------------------------- |
+| `December 2020` | One paper is accepted to SDM 2021! Congrats to all co-authors!|
+|                 | - Deep Multi-Instance Contrastive Learning with Dual Attention for Anomaly Precursor Detection|
 | `December 2020` | Two papers are accepted to AAAI 2021! Congrats to all co-authors!|
-|                 | [1] Deep Dynamic Gaussian Mixture Generative Model for Robust Forecasting on Sparse Multivariate Time Series |
-|                 | [2] Multi-task Modular Recurrent Networks |
+|                 | - Deep Dynamic Gaussian Mixture Generative Model for Robust Forecasting on Sparse Multivariate Time Series |
+|                 | - Multi-task Modular Recurrent Networks |
 | `October 2020`  | Multiple fully-funded Ph.D. positions are available for Fall 2021! |
 | `August 2020`   | I joined UConn CSE as an Assistant Professor!|
