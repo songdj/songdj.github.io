@@ -84,9 +84,9 @@ link prediction, node classification, recommendation, etc.
 | News            |                                   |
 | --------------------| --------------------------------- |
 | `December 2020` | One paper is accepted to SDM 2021! Congrats to all co-authors!|
-|                 | * Deep Multi-Instance Contrastive Learning with Dual Attention for Anomaly Precursor Detection|
+|                 | [1] Deep Multi-Instance Contrastive Learning with Dual Attention for Anomaly Precursor Detection|
 | `December 2020` | Two papers are accepted to AAAI 2021! Congrats to all co-authors!|
-|                 | * Deep Dynamic Gaussian Mixture Generative Model for Robust Forecasting on Sparse Multivariate Time Series |
-|                 | * Multi-task Modular Recurrent Networks |
+|                 | [1] Deep Dynamic Gaussian Mixture Generative Model for Robust Forecasting on Sparse Multivariate Time Series |
+|                 | [2] Multi-task Modular Recurrent Networks |
 | `October 2020`  | Multiple fully-funded Ph.D. positions are available for Fall 2021! |
 | `August 2020`   | I joined UConn CSE as an Assistant Professor!|
