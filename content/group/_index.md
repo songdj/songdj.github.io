@@ -3,6 +3,9 @@
 * [**Dongjin Song**](https://songdj.github.io/)
 
 
+**Undergraduate Students**
+* [**Dylan Manchester**]
+
 **Former Members/Interns**
 
 * **Wei Zhu**, May 2020 - Aug 2020, Intern at NEC Labs America
