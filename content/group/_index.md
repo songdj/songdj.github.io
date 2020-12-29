@@ -4,7 +4,9 @@
 
 
 **Undergraduate Students**
-* [**Dylan Manchester**]
+* **Dylan Manchester**
+* **Varsha Rathore**
+
 
 **Former Members/Interns**
 
