@@ -30,7 +30,7 @@
 
 #### Session Chairs
 
-* ICDM 2021: E-Learning and E-Commerce
+* ICDM 2020: E-Learning and E-Commerce
 * AAAI 2019: Transfer/Adaptation/Multitask Learning
 * AAAI 2019: Vision and Video Analysis
 
@@ -42,7 +42,7 @@
 
 #### Program Committee Members
 
-* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2019, 2020
+* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2019 - 2021
 * AAAI Conference on Artificial Intelligence (AAAI) 2017 - 2020
 * International Joint Conference on Artificial Intelligence (IJCAI) 2015, 2017-2020
 * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2020
