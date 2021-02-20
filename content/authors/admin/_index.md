@@ -83,6 +83,8 @@ link prediction, node classification, recommendation, etc.
 
 | News            |                                   |
 | --------------------| --------------------------------- |
+| `February 2020` | One paper is accepted to ACM TOIS! Congrats to all co-authors!|
+|                 | [1] Inductive Contextual Relation Learning for Personalization|
 | `December 2020` | One paper is accepted to SDM 2021! Congrats to all co-authors!|
 |                 | [1] Deep Multi-Instance Contrastive Learning with Dual Attention for Anomaly Precursor Detection|
 | `December 2020` | Two papers are accepted to AAAI 2021! Congrats to all co-authors!|

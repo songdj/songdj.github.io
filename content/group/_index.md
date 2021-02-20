@@ -6,7 +6,7 @@
 **Undergraduate Students**
 * **Dylan Manchester**
 * **Varsha Rathore**
-
+* **Eric Wang**
 
 **Former Members/Interns**
 
