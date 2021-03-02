@@ -92,7 +92,7 @@ link prediction, node classification, recommendation, etc.
 | `December 2020` | Two papers are accepted to AAAI 2021! Congrats to all co-authors!|
 |                 | [1] Deep Dynamic Gaussian Mixture Generative Model for Robust Forecasting on Sparse Multivariate Time Series |
 |                 | [2] Multi-task Modular Recurrent Networks |
-| `November 2020` | Serve as Senior PC for IJCAI 2021.|
+| `November 2020` | I will serve as Senior PC for IJCAI 2021.|
 | `October 2020`  | Multiple fully-funded Ph.D. positions are available for Fall 2021! |
-| `August 2020`   | Serve as Senior PC for AAAI 2021.|
+| `August 2020`   | I will server as Senior PC for AAAI 2021.|
 | `August 2020`   | I join UConn CSE as an Assistant Professor!|
