@@ -2,11 +2,16 @@
 **Faculty**
 * [**Dongjin Song**](https://songdj.github.io/)
 
+**Ph.D. student**
+
+* **Xikun Zhang** (Co-supervised with Prof. Dacheng Tao), 2020 - Present, B.S. from USTC (Special Class for the Gifted Young)
+# * **Chang Li** (Co-supervised with Prof. Dacheng Tao), 2018 - Present, B.S. from HUST and M.S. from Australian National University
 
 **Undergraduate Students**
 * **Dylan Manchester**
 * **Varsha Rathore**
 * **Eric Wang**
+* **Andy Thin**
 
 **Former Members/Interns**
 
