@@ -30,6 +30,7 @@
 
 #### Session Chairs
 
+* SDM 2021: Time Series Analysis
 * ICDM 2020: E-Learning and E-Commerce
 * AAAI 2019: Transfer/Adaptation/Multitask Learning
 * AAAI 2019: Vision and Video Analysis
@@ -63,7 +64,7 @@ Discovery in Databases (ECML-PKDD) 2020
 #### Reviewers
 
 * International Conference on Machine Learning (ICML) 2021
-* Neural Information Processing Systems (NeurIPS) 2020
+* Neural Information Processing Systems (NeurIPS) 2020, 2021
 * International Conference on Learning Representations (ICLR) 2021
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019-2021
 * IEEE International Conference on Computer Vision (ICCV) 2019

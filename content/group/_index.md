@@ -2,9 +2,13 @@
 **Faculty**
 * [**Dongjin Song**](https://songdj.github.io/)
 
-**Ph.D. student**
+**Ph.D. Student**
 
-* **Xikun Zhang** (Co-supervised with Prof. Dacheng Tao), 2020 - Present, B.S. from USTC (Special Class for the Gifted Young)
+* **Yi Nian**, Fall 2021 - , B.S. from OSU, M.S. from University of Chicago
+
+* **Xikun Zhang** (Co-supervised), 2020 - present, B.S. from USTC (Special Class for the Gifted Young)
+
+* **Chang Li** (Co-supervised), 2018 - present, B.S. from HUST, M.S. from Australia National University
 
 **Undergraduate Students**
 * **Dylan Manchester**
