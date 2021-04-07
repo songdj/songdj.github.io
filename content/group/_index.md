@@ -5,9 +5,7 @@
 **Ph.D. Student**
 
 * **Yi Nian**, Fall 2021 - , B.S. from OSU, M.S. from University of Chicago
-
 * **Xikun Zhang** (Co-supervised), 2020 - present, B.S. from USTC (Special Class for the Gifted Young)
-
 * **Chang Li** (Co-supervised), 2018 - present, B.S. from HUST, M.S. from Australia National University
 
 **Undergraduate Students**
