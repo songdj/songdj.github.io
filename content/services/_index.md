@@ -47,11 +47,11 @@
 * AAAI Conference on Artificial Intelligence (AAAI) 2017 - 2020
 * International Joint Conference on Artificial Intelligence (IJCAI) 2015, 2017-2020
 * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2020
-* ACM International WSDM Conference (WSDM) 2020, 2021
+* IEEE International Conference on Data Mining (ICDM) 2017 - 2021
 * SIAM International Conference on Data Mining (SDM) 2017 - 2021
-* The European Conference on Machine Learning and Principles and Practice of Knowledge
-Discovery in Databases (ECML-PKDD) 2020
-* IEEE International Conference on Data Mining (ICDM) 2017 - 2020
+* ACM International WSDM Conference (WSDM) 2020, 2021
+* Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021
+* The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2020
 * ACM International Conference on Information and Knowledge Management (CIKM) 2019 [Research Track]
 * IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE) 2018, 2019
 * IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2018-2020

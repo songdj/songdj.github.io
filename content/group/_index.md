@@ -6,7 +6,9 @@
 
 * **Yi Nian**, Fall 2021 - ,
   * M.S. from University of Chicago
-  * B.S. from OSU,
+  * B.S. from Ohio State University,
+* **Qianying Ren**, Fall 2021 - ,
+  * B.S. from Huazhong Agricultural University  
 * **Xikun Zhang** (Co-supervised), 2020 - present,
   * B.S. from USTC (Special Class for the Gifted Young)
 * **Chang Li** (Co-supervised), 2018 - present,
