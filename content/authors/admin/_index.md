@@ -78,11 +78,11 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 I have broad research interests in machine learning, data mining, deep learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, environmental science, etc.). I am also interested in graph representation learning with applications to
 link prediction, node classification, recommendation, etc.
 
-<span style="color: red"> Recruiting: </span> ***Multiple fully-funded Ph.D. positions are available for Fall 2021! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
-
+<span style="color: red"> Recruiting: </span> ***Multiple fully-funded Ph.D. positions are available for Fall 2021/Spring 2022! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
 
 | News            |                                   |
 | --------------------| --------------------------------- |
+| `May 2021`   | I won the Research Excellent Award at UConn! Thanks for the support, OVPR!|
 | `March 2021` | One paper is accepted to CVPR 2021! Congrats to all co-authors!|
 |                 | [1] FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems|
 | `February 2021` | One paper is accepted to ACM Transactions on Information Systems! Congrats to all co-authors!|
