@@ -1,5 +1,5 @@
 
-**Faculty**
+**<span style="color:red">Faculty</span>**
 * [**Dongjin Song**](https://songdj.github.io/)
 
 **Ph.D. Students**
