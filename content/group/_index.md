@@ -1,32 +1,27 @@
 
-**<span style="color:Gray">Faculty</span>**
+**<span style="color:Teal">Faculty</span>**
 * [**Dongjin Song**](https://songdj.github.io/)
 
-**<span style="color:Gray">Ph.D. Students</span>**
+**<span style="color:Teal">Ph.D. Students</span>**
 
 * **Binghao Lu**, Fall 2021 - ,
 * **Qianying Ren**, Fall 2021 - ,
 * **Xikun Zhang** (Co-supervised), June 2020 - present,
 
-**<span style="color:Gray">Undergraduate Students</span>**
+**<span style="color:Teal">Undergraduate Students</span>**
 * **Varsha Rathore**
 
-**<span style="color:Gray">Former Members</span>**
+**<span style="color:Teal">Former Members</span>**
 
-***Ph.D. students***
-* **Chang Li** 2018 - 2021, Co-supervisor
+* **Chang Li**, 2018 - 2021, Co-supervisor
   * Ph.D. Student, University of Sydney
   * **KDD** x 1
   * Employment: JD Exploration Research Institute, Research Scientist
-
-***Undergraduate Students***
-* **Dylan Manchester** 2021 Spring
+* **Dylan Manchester**, 2021 Spring
   * Undergraduate Student, University of Connecticut
-* **Eric Wang** 2021 Spring, Honors Thesis
+* **Eric Wang**, 2021 Spring, Honors Thesis
   * Undergraduate Student, University of Connecticut
   * Employment: Epic Systems, Software Engineer
-
-***Interns***
 * **Wei Zhu**, May 2020 - Aug 2020, Intern at NEC Labs America
   * Ph.D student, University of Rochester
 * **Dixian Zhu**, May 2019 - Aug 2019, Intern at NEC Labs America
