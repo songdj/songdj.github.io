@@ -1,20 +1,20 @@
 
-**<span style="color:Teal">Faculty</span>**
+**<span style="color:#FF7F50">Faculty</span>**
 * [**Dongjin Song**](https://songdj.github.io/)
 
-**<span style="color:Teal">Ph.D. Students</span>**
+**<span style="color:#FF7F50">Ph.D. Students</span>**
 
 * **Binghao Lu**, Fall 2021 - ,
 * **Qianying Ren**, Fall 2021 - ,
 * **Xikun Zhang** (Co-supervised), June 2020 - present,
 
-**<span style="color:Teal">Undergraduate Students</span>**
+**<span style="color:#FF7F50">Undergraduate Students</span>**
 * **Varsha Rathore**
 
-**<span style="color:Teal">Former Members</span>**
+**<span style="color:#FF7F50">Former Members</span>**
 
 * **Chang Li**, 2018 - 2021, Co-supervisor
-  * Ph.D. Student, University of Sydney
+  * Ph.D Student, University of Sydney
   * **KDD** x 1
   * Employment: JD Exploration Research Institute, Research Scientist
 * **Dylan Manchester**, 2021 Spring
