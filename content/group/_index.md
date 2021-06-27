@@ -4,19 +4,23 @@
 
 **Ph.D. Students**
 
-* **Yi Nian**, Fall 2021 - ,
+* **Binghao Lu**, Fall 2021 - ,
 * **Qianying Ren**, Fall 2021 - ,
 * **Xikun Zhang** (Co-supervised), 2020 - present,
-* **Chang Li** (Co-supervised), 2018 - present,
 
 **Undergraduate Students**
-* **Dylan Manchester**
 * **Varsha Rathore**
-* **Eric Wang**
-* **Andy Thin**
 
 **Former Members/Interns**
-
+* **Dylan Manchester** 2021 Spring
+  * Undergraduate Student, University of Connecticut
+* **Eric Wang** 2021 Spring, Honors Thesis
+  * Undergraduate Student, University of Connecticut
+  * Employment: Epic Systems, Software Engineer
+* **Chang Li** 2018 - 2021, Co-supervisor
+  * Ph.D. Student, University of Sydney
+  * **KDD** x 1
+  * Employment: JD Exploration Research Institute, Researcher
 * **Wei Zhu**, May 2020 - Aug 2020, Intern at NEC Labs America
   * Ph.D student, University of Rochester
 * **Dixian Zhu**, May 2019 - Aug 2019, Intern at NEC Labs America
