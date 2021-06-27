@@ -1,17 +1,17 @@
 
-**<span style="color:#FF7F50">Faculty</span>**
+**<span style="color:#DE3163">Faculty</span>**
 * [**Dongjin Song**](https://songdj.github.io/)
 
-**<span style="color:#FF7F50">Ph.D. Students</span>**
+**<span style="color:#DE3163">Ph.D. Students</span>**
 
 * **Binghao Lu**, Fall 2021 - ,
 * **Qianying Ren**, Fall 2021 - ,
 * **Xikun Zhang** (Co-supervised), June 2020 - present,
 
-**<span style="color:#FF7F50">Undergraduate Students</span>**
+**<span style="color:#DE3163">Undergraduate Students</span>**
 * **Varsha Rathore**
 
-**<span style="color:#FF7F50">Former Members</span>**
+**<span style="color:#DE3163">Former Members</span>**
 
 * **Chang Li**, 2018 - 2021, Co-supervisor
   * Ph.D Student, University of Sydney
