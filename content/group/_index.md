@@ -1,17 +1,17 @@
 
-**<span style="color:red">Faculty</span>**
+**<span style="color:Maroon">Faculty</span>**
 * [**Dongjin Song**](https://songdj.github.io/)
 
-**Ph.D. Students**
+**<span style="color:Maroon">Ph.D. Students</span>**
 
 * **Binghao Lu**, Fall 2021 - ,
 * **Qianying Ren**, Fall 2021 - ,
 * **Xikun Zhang** (Co-supervised), 2020 - present,
 
-**Undergraduate Students**
+**<span style="color:Maroon">Undergraduate Students</span>**
 * **Varsha Rathore**
 
-**Former Members/Interns**
+**<span style="color:Maroon">Former Members/Interns</span>**
 * **Dylan Manchester** 2021 Spring
   * Undergraduate Student, University of Connecticut
 * **Eric Wang** 2021 Spring, Honors Thesis
