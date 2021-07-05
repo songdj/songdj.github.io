@@ -4,17 +4,72 @@
   
   <url>
     <loc>https://songdj.github.io/publication-type/1/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://songdj.github.io/authors/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://songdj.github.io/authors/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/dongjin-song/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication/cvpr-21/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/haifeng-chen/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/jingchao-ni/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/liang-tong/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication_types/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/wei-cheng/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/yevgeniy-vorobeychik/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/zhengzhang-chen/</loc>
+    <lastmod>2021-06-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -24,16 +79,6 @@
   
   <url>
     <loc>https://songdj.github.io/publication/sdm-21/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/dongjin-song/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,38 +93,53 @@
   </url>
   
   <url>
-    <loc>https://songdj.github.io/author/haifeng-chen/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/jingchao-ni/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://songdj.github.io/author/masanao-natsumeda/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/publication_types/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/publication/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/wei-cheng/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://songdj.github.io/author/xiang-zhang/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication-type/2/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/chao-huang/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/chuxu-zhang/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/huaxiu-yao/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication/tios-21/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/lu-yu/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/meng-jiang/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/nitesh-v.-chawla/</loc>
+    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -104,11 +164,6 @@
   
   <url>
     <loc>https://songdj.github.io/author/yinjun-wu/</loc>
-    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/zhengzhang-chen/</loc>
     <lastmod>2021-02-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -238,16 +293,6 @@
   </url>
   
   <url>
-    <loc>https://songdj.github.io/author/chao-huang/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/chuxu-zhang/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://songdj.github.io/author/dacheng-tao/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
@@ -259,11 +304,6 @@
   
   <url>
     <loc>https://songdj.github.io/publication/kdd-19-b/</loc>
-    <lastmod>2019-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/nitesh-v.-chawla/</loc>
     <lastmod>2019-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -420,11 +460,6 @@
   <url>
     <loc>https://songdj.github.io/publication/dcc-15/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/publication-type/2/</loc>
-    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
