@@ -6,20 +6,20 @@
 
 * **Binghao Lu**, Fall 2021 - ,
 * **Qianying Ren**, Fall 2021 - ,
-* **Xikun Zhang** (Co-supervised), June 2020 - present,
+* **Xikun Zhang** (Co-advisor), June 2020 - present,
 
 **<span style="color:#DE3163">Undergraduate Students</span>**
 * **Varsha Rathore**
 
 **<span style="color:#DE3163">Former Members</span>**
 
-* **Chang Li**, 2018 - 2021, Co-supervisor
+* **Chang Li**, 2018 - 2021, Co-advisor
   * Ph.D Student, University of Sydney
   * **KDD** x 1
   * Employment: JD Exploration Research Institute, Research Scientist
-* **Dylan Manchester**, 2021 Spring
+* **Dylan Manchester**, Spring 2021
   * Undergraduate Student, University of Connecticut
-* **Eric Wang**, 2021 Spring, Honors Thesis
+* **Eric Wang**, Spring 2021, Honors Thesis
   * Undergraduate Student, University of Connecticut
   * Employment: Epic Systems, Software Engineer
 * **Wei Zhu**, May 2020 - Aug 2020, Intern at NEC Labs America
