@@ -33,7 +33,7 @@
   * Employment: [Brandies University](https://www.brandeis.edu/), Assistant Professor
 * [**Xinyang Feng**](http://www.columbia.edu/~xf2143/), May 2018 - Aug 2018, Intern at NEC Labs America
   * Ph.D student, Columbia University
-  * **AAAI** x 1, Patent App x 1
+  * **ACM MM** x 1, **AAAI** x 1, Patent App x 1
   * Employment: [Facebook](www.facebook.com), Research Scientist
 * [**Yuanpu Xie**](https://www.linkedin.com/in/yuanpu-x-712a6353/), May 2017 - Aug 2017, Intern at NEC Labs America
   * Ph.D student, University of Florida

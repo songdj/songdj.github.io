@@ -80,8 +80,9 @@ I have broad research interests in machine learning, data mining, deep learning,
 **<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students to enroll in Spring/Fall 2022! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
 
 | News            |                                   |
+| `July 2021`   | I will server as Senior PC for AAAI 2022.|
 | --------------------| --------------------------------- |
-| `July 2021` | One paper is accepted to ACM Multimedia 2021! Congrats to all co-authors!|
+| `July 2021` | One paper is accepted to ACM Multimedia 2021! Congrats to Xinyang and all co-authors!|
 |                 | [1] Convolutional Transformer based Dual Discriminator General Adversarial Networks for Video Anomaly Detection|
 | `May 2021`   | I am honored to win the Research Excellent Award at UConn as PI! Thanks for the support, OVPR!|
 | `March 2021` | One paper is accepted to CVPR 2021! Congrats to all co-authors!|
