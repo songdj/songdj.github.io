@@ -81,6 +81,8 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
+| `August 2021` | One paper is accepted to ACM CIKM 2021! Congrats to all co-authors! |
+|                 | [1] Interpreting Convolutional Sequence Model by Learning Local Prototypes with Adaptation Regularization|
 | `July 2021` | I will server as Senior PC for AAAI 2022. |
 | `July 2021` | One paper is accepted to ACM Multimedia 2021! Congrats to Xinyang and all co-authors! |
 |                 | [1] Convolutional Transformer based Dual Discriminator General Adversarial Networks for Video Anomaly Detection|
