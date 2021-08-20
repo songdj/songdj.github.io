@@ -30,6 +30,7 @@
 
 #### Session Chairs
 
+* KDD2021:  Graphs and Networks
 * SDM 2021: Time Series Analysis
 * ICDM 2020: E-Learning and E-Commerce
 * AAAI 2019: Transfer/Adaptation/Multitask Learning
@@ -37,7 +38,7 @@
 
 #### Senior Program Committee Members
 
-* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021
+* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021, 2022
 * International Joint Conference on Artificial Intelligence (IJCAI) 2021
 * ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track)
 
@@ -65,7 +66,7 @@
 
 * International Conference on Machine Learning (ICML) 2021
 * Neural Information Processing Systems (NeurIPS) 2020, 2021
-* International Conference on Learning Representations (ICLR) 2021
+* International Conference on Learning Representations (ICLR) 2021, 2022
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019-2021
 * IEEE International Conference on Computer Vision (ICCV) 2019
 * Europe Conference on Computer Vision (ECCV) 2020

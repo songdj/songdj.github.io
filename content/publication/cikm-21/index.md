@@ -6,5 +6,5 @@ authors: ["Jingchao Ni", "Zhengzhang Chen", "Wei Cheng", "Bo Zong", "Dongjin Son
 publication_types: ["1"]
 abstract: ""
 featured: True
-publication: "*To appear in Proceedings of the 30th ACM International Conference on Information and Knowledge Management*"
+publication: "*To appear in Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM)*"
 ---
