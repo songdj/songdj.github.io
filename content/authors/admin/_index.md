@@ -81,7 +81,7 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-| `September 2021` | I am honored to win a Research Grant from Travelers as Co-PI! Thanks for the support, Travelers!|
+| `September 2021` | I am honored to receive the Research Grant from Travelers as Co-PI! Thanks for the support, Travelers!|
 | `August 2021` | Welcome Qianying and Binghao to join our group! |
 | `August 2021` | One paper is accepted to ACM CIKM 2021! Congrats to all co-authors! |
 |                 | [1] Interpreting Convolutional Sequence Model by Learning Local Prototypes with Adaptation Regularization|
