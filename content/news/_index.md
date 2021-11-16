@@ -1,6 +1,6 @@
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`November 2021`| Our workshop proposal `Federated Learning for Private Web Search and Data Mining (FL4P-WSDM)` is accepted to WSDM 2022! CFP will be release soon!|
+|`November 2021`| Our workshop proposal **Federated Learning for Private Web Search and Data Mining (FL4P-WSDM)** is accepted to WSDM 2022! CFP will be released soon!|
 | `September 2021` | I am honored to receive the Research Grant from Travelers as Co-PI! Thanks for the support, Travelers!|
 | `August 2021` | Welcome Qianying and Binghao to join our group! |
 | `August 2021` | One paper is accepted to ACM CIKM 2021! Congrats to all co-authors! |
