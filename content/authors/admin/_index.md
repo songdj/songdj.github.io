@@ -103,3 +103,4 @@ I have broad research interests in machine learning, data mining, deep learning,
 | `October 2020`  | Multiple fully-funded Ph.D. positions are available for Fall 2021! |
 | `August 2020`   | I will server as Senior PC for AAAI 2021.|
 | `August 2020`   | I join UConn CSE as an Assistant Professor!|
+[More News](https://songdj.github.io/teaching/)
