@@ -94,4 +94,4 @@ I have broad research interests in machine learning, data mining, deep learning,
 |                 | [1] FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems|
 | `February 2021` | One paper is accepted to ACM Transactions on Information Systems! Congrats to all co-authors!|
 |                 | [1] Inductive Contextual Relation Learning for Personalization|
-**[More News...](https://songdj.github.io/News/)**
+**[More News...](https://songdj.github.io/news/)**
