@@ -77,11 +77,14 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 
 I have broad research interests in machine learning, data mining, deep learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, environmental science, etc.). I am also interested in graph representation learning with applications to link prediction, node classification, recommendation, etc.
 
+**<span style="color:#DE3163"> Call for Paper: FL4P-WSDM 2022: </span>** ***Please consider contributing to the **Federated Learning for Private Web Search and Data Mining (FL4P)** workshop at WSDM 2022 [link](https://fl4p-wsdm.github.io/).***
+
 **<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students to enroll in Fall 2022! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
+
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`November 2021`| Our workshop proposal **Federated Learning for Private Web Search and Data Mining (FL4P)** is accepted to WSDM 2022! CFP will be released soon!|
+|`November 2021`| Our workshop proposal **Federated Learning for Private Web Search and Data Mining (FL4P)** is accepted to WSDM 2022! Please consider contributing to the workshop [link](https://fl4p-wsdm.github.io/)!|
 | `September 2021` | I am honored to receive the Research Grant from Travelers as Co-PI! Thanks for the support, Travelers!|
 | `August 2021` | Welcome Qianying and Binghao to join our group! |
 | `August 2021` | One paper is accepted to ACM CIKM 2021! Congrats to all co-authors! |

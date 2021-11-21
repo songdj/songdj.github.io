@@ -29,11 +29,12 @@
 ### Referee-Conferences
 
 #### Organizers
-WSDM 2022 Workshop: Federated Learning for Private Web Search and Data Mining (FL4P-WSDM)
+* WSDM 2022 Workshop: Federated Learning for Private Web Search and Data Mining (FL4P-WSDM)
 
 #### Session Chairs
-
-* KDD2021:  Graphs and Networks
+* ICDM 2021: Sequences and Time Series
+* ICDM 2021: Networks
+* KDD 2021:  Graphs and Networks
 * SDM 2021: Time Series Analysis
 * ICDM 2020: E-Learning and E-Commerce
 * AAAI 2019: Transfer/Adaptation/Multitask Learning

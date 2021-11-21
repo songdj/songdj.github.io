@@ -6,5 +6,5 @@ authors: ["Xinyang Feng*", "Dongjin  Song", "Yuncong Chen", "Zhengzheng Chen", "
 publication_types: ["1"]
 abstract: ""
 featured: True
-publication: "*To appear in Proceedings  of  the  29th  ACM  International  Conference  on Multimedia (MM)*"
+publication: "*Proceedings  of  the  29th  ACM  International  Conference  on Multimedia (MM)*"
 ---
