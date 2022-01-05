@@ -87,7 +87,7 @@ I have broad research interests in machine learning, data mining, deep learning,
 |`January 2022`| Welcome Yushan to join our group!|
 |`December 2021`| I am honored to receive a Gift Fund from NEC Labs America (NECLA)! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
 |`November 2021`| Our workshop proposal **Federated Learning for Private Web Search and Data Mining (FL4P)** is accepted to WSDM 2022! Please consider contributing submissions to the workshop! [Link](https://fl4p-wsdm.github.io/)|
-| `September 2021` | I am honored to receive the Research Grant from Travelers as Co-PI! Thanks for the support, [Travelers](https://www.travelers.com/)!|
+| `September 2021` | I am honored to receive a Research Grant from Travelers as Co-PI! Thanks for the support, [Travelers](https://www.travelers.com/)!|
 | `August 2021` | Welcome Qianying and Binghao to join our group! |
 | `August 2021` | One paper is accepted to ACM CIKM 2021! Congrats to all co-authors! |
 |                 | [1] Interpreting Convolutional Sequence Model by Learning Local Prototypes with Adaptation Regularization|
