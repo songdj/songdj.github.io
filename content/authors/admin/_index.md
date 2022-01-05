@@ -84,7 +84,7 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`January 2022`| I am honored to receive a Research Grant from USDA-NIFA Agriculture and Food Research Initiative ( Award No.: 2022-67023-36399) as Co-PI! [Link](https://www.sandrosteinbach.com/preferential-trade-agreements)|
+|`January 2022`| I am honored to receive a Research Grant from USDA-NIFA Agriculture and Food Research Initiative (Award No.: 2022-67023-36399) as Co-PI! [Link](https://www.sandrosteinbach.com/preferential-trade-agreements)|
 |`January 2022`| Welcome Yushan to join our group!|
 |`December 2021`| I am honored to receive a Gift Fund from NEC Labs America (NECLA)! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
 |`November 2021`| Our workshop proposal **Federated Learning for Private Web Search and Data Mining (FL4P)** is accepted to WSDM 2022! Please consider contributing submissions to the workshop! [Link](https://fl4p-wsdm.github.io/)|
