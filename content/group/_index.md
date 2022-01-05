@@ -4,6 +4,7 @@
 
 **<span style="color:#DE3163">Ph.D. Students</span>**
 
+* [**Yushan Jiang**](https://sites.google.com/view/jayjiang/home), Spring 2022 - ,
 * **Binghao Lu**, Fall 2021 - ,
   * Cigna Fellowship, 2021
 * **Qianying Ren**, Fall 2021 - ,
@@ -15,17 +16,15 @@
 
 **<span style="color:#DE3163">Former Members</span>**
 
-* **Chang Li**, 2018 - 2021, Co-advisor
-  * Ph.D Student, University of Sydney
-  * **KDD** x 1
-  * Employment: JD Exploration Research Institute, Research Scientist
-
 * **Dylan Manchester**, Spring 2021
     * Undergraduate Student, University of Connecticut
 * **Eric Wang**, Spring 2021, Honors Thesis
     * Undergraduate Student, University of Connecticut
     * Employment: Epic Systems, Software Engineer
-  
+* **Chang Li**, 2018 - 2021, Co-advisor
+  * Ph.D Student, University of Sydney
+  * **KDD** x 1
+  * Employment: JD Explore Academy, Research Scientist
 * **Wei Zhu**, May 2020 - Aug 2020, Intern at NEC Labs America
   * Ph.D student, University of Rochester
 * **Dixian Zhu**, May 2019 - Aug 2019, Intern at NEC Labs America
