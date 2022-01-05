@@ -13,12 +13,12 @@
 
 **<span style="color:#DE3163">Undergraduate Students</span>**
 
-* * **John Coleman**, Spring 2022 -
+* **John Coleman**, Spring 2022 -
 
 **<span style="color:#DE3163">Intern & High School Students</span>**
 
-* * **Hangyue Li**, Summer 2021 -
-* * **Jason Zhou**, Fall 2021 -
+* **Hangyue Li**, Summer 2021 -
+* **Jason Zhou**, Fall 2021 -
   * Glastonbury High School
 
 **<span style="color:#DE3163">Former Members</span>**
