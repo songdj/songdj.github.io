@@ -95,7 +95,7 @@ I have broad research interests in machine learning, data mining, deep learning,
 | `July 2021` | I will server as Senior PC for AAAI 2022. |
 | `July 2021` | One paper is accepted to ACM Multimedia 2021! Congrats to Xinyang and all co-authors! |
 |                 | [1] Convolutional Transformer based Dual Discriminator General Adversarial Networks for Video Anomaly Detection|
-| `May 2021`   | I am honored to win the Research Excellent Program (REP) Award at UConn as PI! Thanks for the support, OVPR!|
+| `May 2021`   | I am honored to win the Research Excellent Program (REP) Award at UConn as PI! Thanks for the support, OVPR! [Link](https://today.uconn.edu/2021/10/ovpr-announces-new-round-of-rep-funded-projects/)|
 | `March 2021` | One paper is accepted to CVPR 2021! Congrats to all co-authors!|
 |                 | [1] FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems|
 | `February 2021` | One paper is accepted to ACM Transactions on Information Systems! Congrats to all co-authors!|
