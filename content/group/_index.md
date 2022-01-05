@@ -12,10 +12,19 @@
 * **Xikun Zhang** (Co-advisor), June 2020 - present,
 
 **<span style="color:#DE3163">Undergraduate Students</span>**
-* **Varsha Rathore**
+
+* * **John Coleman**, Spring 2022 -
+
+**<span style="color:#DE3163">Intern & High School Students</span>**
+
+* * **Hangyue Li**, Summer 2021 -
+* * **Jason Zhou**, Fall 2021 -
+  * Glastonbury High School
 
 **<span style="color:#DE3163">Former Members</span>**
 
+* **Varsha Rathore**, Fall 2020 - Spring 2021
+    * Undergraduate Student, University of Connecticut
 * **Dylan Manchester**, Spring 2021
     * Undergraduate Student, University of Connecticut
 * **Eric Wang**, Spring 2021, Honors Thesis
