@@ -82,8 +82,14 @@ I have broad research interests in machine learning, data mining, deep learning,
 **<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students to enroll in Fall 2022! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
 
 
+
 | News            |                                   |
 | --------------------| --------------------------------- |
+| `January 2022` | One paper is accepted to IEEE Transactions on Network Science and Engineering! Congrats to all co-authors! |
+|                 | [1] TimeAutoAD: Autonomous Anomaly Detection with Self-supervised Contrastive Loss for Multivariate Time Series |
+|`January 2022`| I am honored to receive the Scholarship Facilitation Fund (SFF) Award at UConn! Thanks for the support, OVPR!|
+| `January 2022` | Our survey paper is accepted to Sensors and Actuators Reports! Congrats to all co-authors! |
+|                 | [1] Multimodal Sensing and Therapeutic Systems for Wound Healing and Management: A Review [Link](https://doi.org/10.1016/j.snr.2022.100075)|
 |`January 2022`| I am honored to receive a Research Grant from USDA-NIFA Agriculture and Food Research Initiative (Award No.: 2022-67023-36399) as Co-PI! [Link](https://www.sandrosteinbach.com/preferential-trade-agreements)|
 |`January 2022`| Welcome Yushan to join our group!|
 |`December 2021`| I am honored to receive a Gift Fund from NEC Labs America (NECLA)! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
