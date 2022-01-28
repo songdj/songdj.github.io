@@ -85,7 +85,7 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`January 2022` | One paper is accepted to IEEE Transactions on Network Science and Engineering (TNSE)! Congrats to all co-authors! |
+|`January 2022` | One paper is accepted to IEEE Transactions on Network Science and Engineering (TNSE)! Congrats to Yang and all co-authors! |
 |            | [1] TimeAutoAD: Autonomous Anomaly Detection with Self-supervised Contrastive Learning for Multivariate Time Series|
 |`January 2022`| I am honored to receive the Scholarship Facilitation Fund (SFF) Award at UConn! Thanks for the support, OVPR!|
 | `January 2022` | Our survey paper is accepted to Sensors and Actuators Reports! Congrats to all co-authors! |
