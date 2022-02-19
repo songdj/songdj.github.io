@@ -5,10 +5,12 @@
 **<span style="color:#DE3163">Ph.D. Students</span>**
 
 * [**Yushan Jiang**](https://sites.google.com/view/jayjiang/home), Spring 2022 - ,
+  * GE Fellowship, 2022
 * **Binghao Lu**, Fall 2021 - ,
   * Cigna Fellowship, 2021
 * **Qianying Ren**, Fall 2021 - ,
   * Cigna Fellowship, 2021
+  * GE Fellowship, 2022
 * **Xikun Zhang** (Co-advisor), June 2020 - present,
 
 **<span style="color:#DE3163">Undergraduate Students</span>**

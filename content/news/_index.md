@@ -1,8 +1,10 @@
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`February 2022` | My data mining course (CSE 5713) gets sponsored by Google Cloud (with Google Cloud Education Credits)! Thanks for the support, Google! |
+|`February 2022` | My student Yushan Jiang is awarded with General Electric (GE) Graduate Fellowship for Next Gen Scholar! Congrats to Yushan!|
+|`February 2022` | My student Qianying Ren is awarded with General Electric (GE) Graduate Fellowship for Inclusion and Equity! Congrats to Qianying!|
+|`February 2022` | My data mining course (CSE 5713) gets sponsored by Google Cloud Education Credits! Thanks for the support, Google! |
 |`January 2022` | One paper is accepted to IEEE Transactions on Network Science and Engineering (TNSE)! Congrats to Yang and all co-authors! |
-|            | [1] TimeAutoAD: Autonomous Anomaly Detection with Self-supervised Contrastive Loss for Multivariate Time Series|
+|            | [1] TimeAutoAD: Autonomous Anomaly Detection with Self-supervised Contrastive Loss for Multivariate Time Series [Link](https://ieeexplore.ieee.org/document/9705079/)|
 |`January 2022`| I am honored to receive the Scholarship Facilitation Fund (SFF) Award at UConn! Thanks for the support, OVPR!|
 | `January 2022` | Our survey paper is accepted to Sensors and Actuators Reports! Congrats to all co-authors! |
 |                 | [1] Multimodal Sensing and Therapeutic Systems for Wound Healing and Management: A Review [Link](https://doi.org/10.1016/j.snr.2022.100075)|

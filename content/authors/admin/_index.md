@@ -26,6 +26,7 @@ interests:
 - Deep Learning
 - Time Series Analysis
 - Graph Representation Learning
+- Federated Learning
 
 education:
   courses:
@@ -75,7 +76,7 @@ user_groups:
 
 I am an assistant professor in the Department of Computer Science and Engineering, [University of Connecticut](https://uconn.edu) (UConn). Before that, I was a research staff member at [NEC Labs America](http://www.nec-labs.com) in Princeton, NJ, since July 2016. In June 2016, I received my Ph.D. degree in the Department of Electrical and Computer Engineering from [University of California San Diego](https://www.ucsd.edu) (UCSD) with the guidance of [Prof. David A. Meyer](https://math.ucsd.edu/people/profiles/david-meyer/). My thesis committee includes [Prof. Lawrence Saul](https://cseweb.ucsd.edu/~saul/), [Prof. Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/), [Prof. Gert Lanckriet](http://eceweb.ucsd.edu/~gert/), and [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). I also work closely with [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) from the University of Sydney.
 
-I have broad research interests in machine learning, data mining, deep learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, environmental science, etc.). I am also interested in graph representation learning with applications to link prediction, node classification, recommendation, etc.
+I have broad research interests in machine learning, data mining, deep learning, federated learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, environmental science, etc.). I am also interested in graph representation learning with applications to link prediction, node classification, recommendation, dynamic systems, etc.
 
 **<span style="color:#DE3163"> Call for Paper: </span>** **FL4P-WSDM 2022** ***Please consider contributing submissions to the **Federated Learning for Private Web Search and Data Mining (FL4P)** workshop at WSDM 2022. [Link](https://fl4p-wsdm.github.io/)***
 
@@ -85,9 +86,11 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`February 2022` | My data mining course (CSE 5713) gets sponsored by Google Cloud (with Google Cloud Education Credits)! Thanks for the support, Google! |
+|`February 2022` | My student Yushan Jiang is awarded with General Electric (GE) Graduate Fellowship for Next Gen Scholar! Congrats to Yushan!|
+|`February 2022` | My student Qianying Ren is awarded with General Electric (GE) Graduate Fellowship for Inclusion and Equity! Congrats to Qianying!|
+|`February 2022` | My data mining course (CSE 5713) gets sponsored by Google Cloud Education Credits! Thanks for the support, Google! |
 |`January 2022` | One paper is accepted to IEEE Transactions on Network Science and Engineering (TNSE)! Congrats to Yang and all co-authors! |
-|            | [1] TimeAutoAD: Autonomous Anomaly Detection with Self-supervised Contrastive Loss for Multivariate Time Series|
+|            | [1] TimeAutoAD: Autonomous Anomaly Detection with Self-supervised Contrastive Loss for Multivariate Time Series [Link](https://ieeexplore.ieee.org/document/9705079/)|
 |`January 2022`| I am honored to receive the Scholarship Facilitation Fund (SFF) Award at UConn! Thanks for the support, OVPR!|
 | `January 2022` | Our survey paper is accepted to Sensors and Actuators Reports! Congrats to all co-authors! |
 |                 | [1] Multimodal Sensing and Therapeutic Systems for Wound Healing and Management: A Review [Link](https://doi.org/10.1016/j.snr.2022.100075)|
