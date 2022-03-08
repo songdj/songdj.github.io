@@ -78,14 +78,13 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 
 I have broad research interests in machine learning, data mining, deep learning, federated learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, environmental science, etc.). I am also interested in graph representation learning with applications to link prediction, node classification, recommendation, dynamic systems, etc.
 
-**<span style="color:#DE3163"> Call for Paper: </span>** **FL4P-WSDM 2022** ***Please consider contributing submissions to the **Federated Learning for Private Web Search and Data Mining (FL4P)** workshop at WSDM 2022. [Link](https://fl4p-wsdm.github.io/)***
-
-**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students to enroll in Fall 2022! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
-
+**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students to enroll in Fall 2022! Summer interns and visitors are also welcome! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
 
 
 | News            |                                   |
 | --------------------| --------------------------------- |
+|`March 2021`| Our workshop proposal **AI for Time Series Analysis (AI4TS)** is accepted to IJCAI 2022! Congrats to all co-organizers!|
+|`March 2022`| Received a Gift Fund from NEC Labs America (NECLA)! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
 |`February 2022` | My student Yushan Jiang is awarded with General Electric (GE) Graduate Fellowship for Next Gen Scholar! Congrats to Yushan!|
 |`February 2022` | My student Qianying Ren is awarded with General Electric (GE) Graduate Fellowship for Inclusion and Equity! Congrats to Qianying!|
 |`February 2022` | My data mining course (CSE 5713) gets sponsored by Google Cloud Education Credits! Thanks for the support, Google! |
@@ -96,5 +95,4 @@ I have broad research interests in machine learning, data mining, deep learning,
 |                 | [1] Multimodal Sensing and Therapeutic Systems for Wound Healing and Management: A Review [Link](https://doi.org/10.1016/j.snr.2022.100075)|
 |`January 2022`| I am honored to receive a Research Grant from USDA-NIFA Agriculture and Food Research Initiative (Award No.: 2022-67023-36399) as Co-PI! [Link](https://www.sandrosteinbach.com/preferential-trade-agreements)|
 |`January 2022`| Welcome Yushan to join our group!|
-|`December 2021`| I am honored to receive a Gift Fund from NEC Labs America (NECLA)! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
 **[More News...](https://songdj.github.io/news/)**

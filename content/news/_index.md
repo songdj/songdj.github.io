@@ -1,5 +1,7 @@
 | News            |                                   |
 | --------------------| --------------------------------- |
+|`March 2021`| Our workshop proposal **AI for Time Series Analysis (AI4TS)** is accepted to IJCAI 2022! Congrats to all co-organizers!|
+|`March 2022`| Received a Gift Fund from NEC Labs America (NECLA)! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
 |`February 2022` | My student Yushan Jiang is awarded with General Electric (GE) Graduate Fellowship for Next Gen Scholar! Congrats to Yushan!|
 |`February 2022` | My student Qianying Ren is awarded with General Electric (GE) Graduate Fellowship for Inclusion and Equity! Congrats to Qianying!|
 |`February 2022` | My data mining course (CSE 5713) gets sponsored by Google Cloud Education Credits! Thanks for the support, Google! |
