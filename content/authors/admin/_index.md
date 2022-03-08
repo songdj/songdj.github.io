@@ -78,7 +78,7 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 
 I have broad research interests in machine learning, data mining, deep learning, federated learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, environmental science, etc.). I am also interested in graph representation learning with applications to link prediction, node classification, recommendation, dynamic systems, etc.
 
-**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students to enroll in Fall 2022! Summer interns and visitors are also welcome! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
+**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students to enroll in Fall 2022! Visiting students, scholars, and remote interns are also welcome! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
 
 
 | News            |                                   |
