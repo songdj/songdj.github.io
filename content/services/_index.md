@@ -29,7 +29,8 @@
 ### Referee-Conferences
 
 #### Organizers
-* WSDM 2022 Workshop: Federated Learning for Private Web Search and Data Mining (FL4P-WSDM)
+* IJCAI 2022 Workshop: AI for Time Series Analysis
+* WSDM 2022 Workshop: Federated Learning for Private Web Search and Data Mining (FL4P-WSDM) [Link](https://fl4p-wsdm.github.io/)
 
 #### Session Chairs
 * ICDM 2021: Sequences and Time Series
@@ -51,6 +52,7 @@
 * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2019 - 2022
 * AAAI Conference on Artificial Intelligence (AAAI) 2017 - 2020
 * International Joint Conference on Artificial Intelligence (IJCAI) 2015, 2017-2020, 2022
+* International Joint Conference on Artificial Intelligence (IJCAI) - Survey Track 2019-2022
 * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2020
 * IEEE International Conference on Data Mining (ICDM) 2017 - 2021
 * SIAM International Conference on Data Mining (SDM) 2017 - 2022
@@ -74,7 +76,7 @@
 * International Conference on Learning Representations (ICLR) 2021, 2022
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019-2022
 * IEEE International Conference on Computer Vision (ICCV) 2019
-* Europe Conference on Computer Vision (ECCV) 2020
+* Europe Conference on Computer Vision (ECCV) 2020, 2022
 * Asian Conference on Computer Vision (ACCV) 2021
 * Winter Conference on Applications of Computer Vision (WACV) 2021, 2022
 * Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2019, 2020

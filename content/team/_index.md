@@ -13,9 +13,14 @@
   * GE Fellowship, 2022
 * **Xikun Zhang** (Co-advisor), June 2020 - present,
 
+**<span style="color:#DE3163">Master Students</span>**
+
+* **Mohammad Maldani**, Spring 2022-
+
 **<span style="color:#DE3163">Undergraduate Students</span>**
 
 * **John Coleman**, Spring 2022 -
+* **Rahul Bhagwani**, Spring 2022-
 
 **<span style="color:#DE3163">Intern & High School Students</span>**
 
