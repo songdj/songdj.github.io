@@ -29,7 +29,7 @@
 ### Referee-Conferences
 
 #### Organizers
-* IJCAI 2022 Workshop: AI for Time Series Analysis
+* IJCAI 2022 Workshop: AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS)
 * WSDM 2022 Workshop: Federated Learning for Private Web Search and Data Mining (FL4P-WSDM) [Link](https://fl4p-wsdm.github.io/)
 
 #### Session Chairs
@@ -59,7 +59,7 @@
 * ACM International WSDM Conference (WSDM) 2020, 2021
 * Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021
 * The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2020
-* ACM International Conference on Information and Knowledge Management (CIKM) 2019 [Research Track]
+* ACM International Conference on Information and Knowledge Management (CIKM) 2019
 * Design Automation Conference (DAC) 2022
 * IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE) 2018, 2019
 * IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2018-2020

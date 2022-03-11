@@ -1,7 +1,8 @@
 | News            |                                   |
 | --------------------| --------------------------------- |
+|`March 2022`| I am honored to receive a Research Grant from USDA as Co-PI! Congrats to all collaborators and thanks for the support, USDA!|
 |`March 2022`| I will give a talk at Morgan Stanley on March 17th!|
-|`March 2022`| Our workshop proposal **AI for Time Series Analysis (AI4TS)** is accepted to IJCAI 2022! Congrats to all co-organizers!|
+|`March 2022`| Our workshop proposal **AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications** is accepted to IJCAI 2022! Congrats to all co-organizers!|
 |`March 2022`| I am honored to received a Gift Fund from NEC Labs America (NECLA) as Sole PI! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
 |`February 2022` | My student Yushan Jiang is awarded with General Electric (GE) Graduate Fellowship for Next Gen Scholar! Congrats to Yushan!|
 |`February 2022` | My student Qianying Ren is awarded with General Electric (GE) Graduate Fellowship for Inclusion and Equity! Congrats to Qianying!|
@@ -11,7 +12,7 @@
 |`January 2022`| I am honored to receive the Scholarship Facilitation Fund (SFF) Award as Sole PI at UConn! Thanks for the support, OVPR!|
 | `January 2022` | Our survey paper is accepted to Sensors and Actuators Reports! Congrats to all co-authors! |
 |                 | [1] Multimodal Sensing and Therapeutic Systems for Wound Healing and Management: A Review [Link](https://doi.org/10.1016/j.snr.2022.100075)|
-|`January 2022`| I am honored to receive a Research Grant from USDA-NIFA Agriculture and Food Research Initiative (Award No.: 2022-67023-36399) as Co-PI! [Link](https://www.sandrosteinbach.com/preferential-trade-agreements)|
+|`January 2022`| I am honored to receive a Research Grant from USDA-NIFA Agriculture and Food Research Initiative (Award No.: 2022-67023-36399) as Co-PI! Congrats to all collaborators and thanks for the support, USDA! [Link](https://www.sandrosteinbach.com/preferential-trade-agreements)|
 |`January 2022`| Welcome Yushan to join our group!|
 |`December 2021`| I am honored to receive a Gift Fund from NEC Labs America (NECLA) as Sole PI! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
 |`November 2021`| Our workshop proposal **Federated Learning for Private Web Search and Data Mining (FL4P)** is accepted to WSDM 2022! Please consider contributing submissions to the workshop! [Link](https://fl4p-wsdm.github.io/)|
