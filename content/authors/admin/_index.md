@@ -88,7 +88,7 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`April 2022`| I am honored to receive a Research Grant from NSF as Co-PI! Congrats to all collaborators and thanks for the support, NSF![Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2154191&HistoricalAwards=false)|
+|`April 2022`| I am honored to receive a Research Grant from NSF as Co-PI! Congrats to all collaborators and thanks for the support, NSF! [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2154191)|
 |`April 2022`| Our workshop proposal **8th International Workshop on Mining and Learning from Time Series -- Deep Forecasting: Models, Interpretability, and Applications** is accepted to KDD 2022! Please consider contributing submissions to the workshop! [Link](https://kdd-milets.github.io/milets2022/)|
 |`March 2022`| I am honored to receive a Research Grant from USDA as Co-PI! Congrats to all collaborators and thanks for the support, USDA!|
 |`March 2022`| I will give a talk at Morgan Stanley on March 17th!|
@@ -96,5 +96,4 @@ I have broad research interests in machine learning, data mining, deep learning,
 |`March 2022`| I am honored to received a Gift Fund from NEC Labs America (NECLA) as Sole PI! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
 |`February 2022` | My student Yushan Jiang is awarded with General Electric (GE) Graduate Fellowship for Next Gen Scholar! Congrats to Yushan!|
 |`February 2022` | My student Qianying Ren is awarded with General Electric (GE) Graduate Fellowship for Inclusion and Equity! Congrats to Qianying!|
-|`February 2022` | My data mining course (CSE 5713) gets sponsored by Google Cloud Education Credits! Thanks for the support, Google! |
 **[More News...](https://songdj.github.io/news/)**
