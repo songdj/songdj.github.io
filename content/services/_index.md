@@ -54,7 +54,7 @@
 * International Joint Conference on Artificial Intelligence (IJCAI) 2015, 2017-2020, 2022
 * International Joint Conference on Artificial Intelligence (IJCAI) - Survey Track 2019-2022
 * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2020
-* IEEE International Conference on Data Mining (ICDM) 2017 - 2021
+* IEEE International Conference on Data Mining (ICDM) 2017 - 2022
 * SIAM International Conference on Data Mining (SDM) 2017 - 2022
 * ACM International WSDM Conference (WSDM) 2020, 2021
 * Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021
@@ -72,7 +72,7 @@
 #### Reviewers
 
 * International Conference on Machine Learning (ICML) 2021, 2022
-* Neural Information Processing Systems (NeurIPS) 2020, 2021
+* Neural Information Processing Systems (NeurIPS) 2020-2022
 * International Conference on Learning Representations (ICLR) 2021, 2022
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019-2022
 * IEEE International Conference on Computer Vision (ICCV) 2019
