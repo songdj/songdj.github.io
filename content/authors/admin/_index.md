@@ -78,23 +78,22 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 
 I have broad research interests in machine learning, data mining, deep learning, federated learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, environmental science, etc.). I am also interested in graph representation learning with applications to link prediction, node classification, recommendation, dynamic systems, etc.
 
-**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students to enroll in Fall 2022! Visiting students, scholars, and remote interns are also welcome! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
+**<span style="color:#DE3163"> Call for Papers: </span>**
+1.  ***AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications @ IJCAI 2022*** [Link](https://ai4ts.github.io/)
+
+2. ***8th International Workshop on Mining and Learning from Time Series -- Deep Forecasting: Models, Interpretability, and Applications @ KDD 2022*** [Link](https://kdd-milets.github.io/milets2022/)
+
+**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students, visiting scholars, and students. Interns are also welcome! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
 
 
 | News            |                                   |
 | --------------------| --------------------------------- |
+|`April 2022`| Our workshop proposal **8th International Workshop on Mining and Learning from Time Series -- Deep Forecasting: Models, Interpretability, and Applications** is accepted to KDD 2022! Please consider contributing submissions to the workshop! [Link](https://kdd-milets.github.io/milets2022/)|
 |`March 2022`| I am honored to receive a Research Grant from USDA as Co-PI! Congrats to all collaborators and thanks for the support, USDA!|
 |`March 2022`| I will give a talk at Morgan Stanley on March 17th!|
-|`March 2022`| Our workshop proposal **AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications** is accepted to IJCAI 2022! Congrats to all co-organizers!|
+|`March 2022`| Our workshop proposal **AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications** is accepted to IJCAI 2022! Please consider contributing submissions to the workshop! [Link](https://ai4ts.github.io/)|
 |`March 2022`| I am honored to received a Gift Fund from NEC Labs America (NECLA) as Sole PI! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
 |`February 2022` | My student Yushan Jiang is awarded with General Electric (GE) Graduate Fellowship for Next Gen Scholar! Congrats to Yushan!|
 |`February 2022` | My student Qianying Ren is awarded with General Electric (GE) Graduate Fellowship for Inclusion and Equity! Congrats to Qianying!|
 |`February 2022` | My data mining course (CSE 5713) gets sponsored by Google Cloud Education Credits! Thanks for the support, Google! |
-|`January 2022` | One paper is accepted to IEEE Transactions on Network Science and Engineering (TNSE)! Congrats to Yang and all co-authors! |
-|            | [1] TimeAutoAD: Autonomous Anomaly Detection with Self-supervised Contrastive Loss for Multivariate Time Series [Link](https://ieeexplore.ieee.org/document/9705079/)|
-|`January 2022`| I am honored to receive the Scholarship Facilitation Fund (SFF) Award as Sole PI at UConn! Thanks for the support, OVPR!|
-| `January 2022` | Our survey paper is accepted to Sensors and Actuators Reports! Congrats to all co-authors! |
-|                 | [1] Multimodal Sensing and Therapeutic Systems for Wound Healing and Management: A Review [Link](https://doi.org/10.1016/j.snr.2022.100075)|
-|`January 2022`| I am honored to receive a Research Grant from USDA-NIFA Agriculture and Food Research Initiative (Award No.: 2022-67023-36399) as Co-PI! [Link](https://www.sandrosteinbach.com/preferential-trade-agreements)|
-|`January 2022`| Welcome Yushan to join our group!|
 **[More News...](https://songdj.github.io/news/)**
