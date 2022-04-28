@@ -81,8 +81,7 @@ I have broad research interests in machine learning, data mining, deep learning,
 **<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students, visiting scholars, and students. Interns are also welcome! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
 
 **<span style="color:#DE3163"> Call for Papers: </span>**
-1.  ***AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications @ IJCAI 2022*** [Link](https://ai4ts.github.io/)
-
+1. ***AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications @ IJCAI 2022*** [Link](https://ai4ts.github.io/)
 2. ***8th International Workshop on Mining and Learning from Time Series -- Deep Forecasting: Models, Interpretability, and Applications @ KDD 2022*** [Link](https://kdd-milets.github.io/milets2022/)
 
 
