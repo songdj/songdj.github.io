@@ -4,7 +4,7 @@
 
 **<span style="color:#DE3163">Ph.D. Students</span>**
 
-* Zijie Pan, Fall 2022 - ,
+* **Zijie Pan**, Fall 2022 - ,
 * [**Yushan Jiang**](https://sites.google.com/view/jayjiang/home), Spring 2022 - ,
   * GE Fellowship, 2022
 * **Binghao Lu**, Fall 2021 - ,
@@ -26,9 +26,9 @@
 **<span style="color:#DE3163">Intern & High School Students</span>**
 
 * **Hangyue Li**, Summer 2021 -
-  * UESTC -> Ph.D. student @ University of Washington at St. Louis (Computer Science)
+  * UESTC -> Ph.D. student @ Washington University in St. Louis (CS Major)
 * **Jason Zhou**, Fall 2021 -
-  * Glastonbury High School -> B.S. @ University of Michigan (Computer Science)
+  * Glastonbury High School -> B.S. student @ University of Michigan (CS Major)
 
 **<span style="color:#DE3163">Former Members</span>**
 
