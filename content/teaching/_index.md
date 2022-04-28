@@ -2,6 +2,7 @@
 
 | Time         |  IDs          | Course Names                  |
 | ------------------| ------------------- |--------------------------------- |
+| `Fall 2022`     | CSE 2500    | Introduction to Discrete Systems       |
 |`Spring 2022` |  CSE 5713 | Data Mining |
 |`Spring 2022` |  CSE 4940  | Computer Science and Engineering Design Project II |
 |`Fall 2021` |  CSE 4939W  | Computer Science and Engineering Design Project I |
