@@ -28,8 +28,9 @@
 
 ### Referee-Conferences
 
-#### Organizers
-* IJCAI 2022 Workshop: AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS)
+#### Organizers/Program (Co-)Chairs
+* KDD 2022 Workshop: 8th International Workshop on Mining and Learning from Time Series -- Deep Forecasting: Models, Interpretability, and Applications [Link](https://kdd-milets.github.io/milets2022/)
+* IJCAI 2022 Workshop: AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/)
 * WSDM 2022 Workshop: Federated Learning for Private Web Search and Data Mining (FL4P-WSDM) [Link](https://fl4p-wsdm.github.io/)
 
 #### Session Chairs
