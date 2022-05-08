@@ -78,7 +78,9 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 
 I have broad research interests in machine learning, data mining, deep learning, federated learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, environmental science, etc.). I am also interested in graph representation learning with applications to link prediction, node classification, recommendation, dynamic systems, etc.
 
+<!-- +
 **<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students, visiting scholars, and students. Interns are also welcome! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
++ -->
 
 **<span style="color:#DE3163"> Call for Papers: </span>**
 1. ***AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications @ IJCAI 2022*** [Link](https://ai4ts.github.io/)
