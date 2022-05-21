@@ -80,11 +80,12 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 <!-- +
 **<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students, visiting scholars, and students. Interns are also welcome! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
+
+1. ***AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications @ IJCAI 2022*** [Link](https://ai4ts.github.io/)
 + -->
 
 **<span style="color:#DE3163"> Call for Papers: </span>**
-1. ***AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications @ IJCAI 2022*** [Link](https://ai4ts.github.io/)
-2. ***8th International Workshop on Mining and Learning from Time Series -- Deep Forecasting: Models, Interpretability, and Applications @ KDD 2022*** [Link](https://kdd-milets.github.io/milets2022/)
+***8th International Workshop on Mining and Learning from Time Series -- Deep Forecasting: Models, Interpretability, and Applications @ KDD 2022*** [Link](https://kdd-milets.github.io/milets2022/)
 
 
 | News            |                                   |
@@ -92,7 +93,7 @@ I have broad research interests in machine learning, data mining, deep learning,
 |`April 2022`| I am honored to receive a Research Grant from NSF as Co-PI! Congrats to all collaborators and thanks for the support, NSF! [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2154191)|
 |`April 2022`| I am honored to receive the Scholarship Facilitation Award at UConn! Thanks for the support, OVPR! [Link](https://today.uconn.edu/2022/04/ovpr-announces-scholarship-facilitation-awards-for-2021-22-academic-year/)|
 |`April 2022`| Our workshop proposal **8th International Workshop on Mining and Learning from Time Series -- Deep Forecasting: Models, Interpretability, and Applications** is accepted to KDD 2022! Please consider contributing submissions to the workshop! [Link](https://kdd-milets.github.io/milets2022/)|
-|`March 2022`| I am honored to receive a Research Grant from USDA as Co-PI! Congrats to all collaborators and thanks for the support, USDA!|
+|`March 2022`| I am honored to receive a Research Grant from USDA as Co-PI! Congrats to all collaborators and thanks for the support, USDA![Link](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=95159&format=WEBLINK)|
 |`March 2022`| I will give a talk at Morgan Stanley on March 17th!|
 |`March 2022`| Our workshop proposal **AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications** is accepted to IJCAI 2022! Please consider contributing submissions to the workshop! [Link](https://ai4ts.github.io/)|
 |`March 2022`| I am honored to received a Gift Fund from NEC Labs America (NECLA) as Sole PI! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
