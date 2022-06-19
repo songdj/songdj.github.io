@@ -90,10 +90,13 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
+|`May 2022`| Two of our papers has been selected as the most influential papers on [KDD](https://www.paperdigest.org/2022/05/most-influential-kdd-papers-2022-05/) and [IJCAI](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/) by paperdigest.org! |
+|`May 2022`| My SDP students won the second place in UCONN CSE’s 2022 Senior Design Project competition! Congratulations to all! [Link](https://www.cse.uconn.edu/2022-senior-design-project-competition-winners/)|
+|`May 2022`| Hangyue was admitted to the Ph.D. program in the CS department of Washington University in St. Louis and Jason was admitted to the CS undergraduate program at the University of Michigan - Ann Arbor! Congratulations! |
 |`April 2022`| I am honored to receive a Research Grant from NSF as Co-PI! Congrats to all collaborators and thanks for the support, NSF! [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2154191)|
 |`April 2022`| I am honored to receive the Scholarship Facilitation Award at UConn! Thanks for the support, OVPR! [Link](https://today.uconn.edu/2022/04/ovpr-announces-scholarship-facilitation-awards-for-2021-22-academic-year/)|
 |`April 2022`| Our workshop proposal **8th International Workshop on Mining and Learning from Time Series -- Deep Forecasting: Models, Interpretability, and Applications** is accepted to KDD 2022! Please consider contributing submissions to the workshop! [Link](https://kdd-milets.github.io/milets2022/)|
-|`March 2022`| I am honored to receive a Research Grant from USDA as Co-PI! Congrats to all collaborators and thanks for the support, USDA![Link](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=95159&format=WEBLINK)|
+|`March 2022`| I am honored to receive a Research Grant from USDA as Co-PI! Congrats to all collaborators and thanks for the support, USDA! [Link](https://cris.nifa.usda.gov/cgi-bin/starfinder/0?path=fastlink1.txt&id=anon&pass=&search=R=95159&format=WEBLINK)|
 |`March 2022`| I will give a talk at Morgan Stanley on March 17th!|
 |`March 2022`| Our workshop proposal **AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications** is accepted to IJCAI 2022! Please consider contributing submissions to the workshop! [Link](https://ai4ts.github.io/)|
 |`March 2022`| I am honored to received a Gift Fund from NEC Labs America (NECLA) as Sole PI! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
