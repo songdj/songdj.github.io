@@ -84,13 +84,15 @@ I have broad research interests in machine learning, data mining, deep learning,
 1. ***AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications @ IJCAI 2022*** [Link](https://ai4ts.github.io/)
 + -->
 
-**<span style="color:#DE3163"> Call for Papers: </span>**
-***8th International Workshop on Mining and Learning from Time Series -- Deep Forecasting: Models, Interpretability, and Applications @ KDD 2022*** [Link](https://kdd-milets.github.io/milets2022/)
+**<span style="color:#DE3163">Call for Participation: </span>**
+1. ***AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications @ IJCAI 2022*** [Link](https://ai4ts.github.io/)
+
+2. ***8th International Workshop on Mining and Learning from Time Series -- Deep Forecasting: Models, Interpretability, and Applications @ KDD 2022*** [Link](https://kdd-milets.github.io/milets2022/)
 
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`May 2022`| Two of our papers has been selected as the most influential papers on [KDD](https://www.paperdigest.org/2022/05/most-influential-kdd-papers-2022-05/) and [IJCAI](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/) by paperdigest.org! |
+|`May 2022`| Two of our papers have been selected as the most influential papers on [KDD](https://www.paperdigest.org/2022/05/most-influential-kdd-papers-2022-05/) and [IJCAI](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/) by paperdigest.org! [HetGNN@KDD 2019](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf)[DA-RNN@IJCAI 2017](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf)|
 |`May 2022`| My SDP students won the second place in UCONN CSE’s 2022 Senior Design Project competition! Congratulations to all! [Link](https://www.cse.uconn.edu/2022-senior-design-project-competition-winners/)|
 |`May 2022`| Hangyue was admitted to the Ph.D. program in the CS department of Washington University in St. Louis and Jason was admitted to the CS undergraduate program at the University of Michigan - Ann Arbor! Congratulations! |
 |`April 2022`| I am honored to receive a Research Grant from NSF as Co-PI! Congrats to all collaborators and thanks for the support, NSF! [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2154191)|
