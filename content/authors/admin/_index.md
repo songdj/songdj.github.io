@@ -92,7 +92,7 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`June 2022`| One paper is accepted to IEEE T-PAMI! Congratulations to Xikun! |
+|`June 2022`| One paper is accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)! Congratulations to Xikun! |
 |            | [1] Hierarchical Prototype Networks for Continual Graph Representation Learning [Link](https://arxiv.org/pdf/2111.15422v1.pdf)|
 |`May 2022`| Two of our papers have been selected as the most influential papers on [KDD](https://www.paperdigest.org/2022/05/most-influential-kdd-papers-2022-05/) and [IJCAI](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/) by paperdigest.org! [1][HetGNN@KDD 2019](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf) [2][DA-RNN@IJCAI 2017](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf)|
 |`May 2022`| My SDP students won the second place in UCONN CSE’s 2022 Senior Design Project competition! Congratulations to all! [Link](https://www.cse.uconn.edu/2022-senior-design-project-competition-winners/)|
