@@ -92,6 +92,8 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
+|`June 2022`| One paper is accepted to IEEE T-PAMI! Congratulations to Xikun! |
+|            | * Hierarchical Prototype Networks for Continual Graph Representation Learning [Link](https://arxiv.org/pdf/2111.15422v1.pdf)|
 |`May 2022`| Two of our papers have been selected as the most influential papers on [KDD](https://www.paperdigest.org/2022/05/most-influential-kdd-papers-2022-05/) and [IJCAI](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/) by paperdigest.org! [HetGNN@KDD 2019](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf)[DA-RNN@IJCAI 2017](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf)|
 |`May 2022`| My SDP students won the second place in UCONN CSE’s 2022 Senior Design Project competition! Congratulations to all! [Link](https://www.cse.uconn.edu/2022-senior-design-project-competition-winners/)|
 |`May 2022`| Hangyue was admitted to the Ph.D. program in the CS department of Washington University in St. Louis and Jason was admitted to the CS undergraduate program at the University of Michigan - Ann Arbor! Congratulations! |
@@ -102,6 +104,4 @@ I have broad research interests in machine learning, data mining, deep learning,
 |`March 2022`| I will give a talk at Morgan Stanley on March 17th!|
 |`March 2022`| Our workshop proposal **AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications** is accepted to IJCAI 2022! Please consider contributing submissions to the workshop! [Link](https://ai4ts.github.io/)|
 |`March 2022`| I am honored to received a Gift Fund from NEC Labs America (NECLA) as Sole PI! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
-|`February 2022` | My student Yushan Jiang is awarded with General Electric (GE) Graduate Fellowship for Next Gen Scholar! Congrats to Yushan!|
-|`February 2022` | My student Qianying Ren is awarded with General Electric (GE) Graduate Fellowship for Inclusion and Equity! Congrats to Qianying!|
 **[More News...](https://songdj.github.io/news/)**
