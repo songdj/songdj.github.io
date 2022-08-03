@@ -44,7 +44,7 @@
 
 #### Senior Program Committee Members
 
-* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021, 2022
+* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021, 2022, 2023
 * International Joint Conference on Artificial Intelligence (IJCAI) 2021
 * ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track)
 
