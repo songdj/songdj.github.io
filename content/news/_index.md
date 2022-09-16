@@ -1,12 +1,12 @@
 | News            |                                   |
 | --------------------| --------------------------------- |
 |`Sep 2022`| One paper about Distributed Robust Optimization (DRO) is accepted to NeurIPS 2022! Congratulations to Yang! |
-|`Sep 2022`| One paper about Continual Graph Learning (CGL) is accepted to ICDM 2022! Congratulations to Xikun!|
-|`Sep 2022`| One paper is accepted to Artificial Intelligence for the Earth Systems Journal! Congratulations to all collaborators!|
-|`Aug 2022`| I am honored to receive a Gift Fund from Morgan Stanley as Sole PI! Thanks for the support, [Morgan Stanley](https://www.morganstanley.com/)!|
-|`July 2022`| I will server as Senior PC for AAAI 2023.|
+|`Sep 2022`| One paper about Continual Graph Learning (CGL) is accepted to ICDM 2022! Congratulations to Xikun! |
+|`Sep 2022`| One paper is accepted to Artificial Intelligence for the Earth Systems Journal! Congratulations to all collaborators! |
+|`Aug 2022`| I am honored to receive a Gift Fund from Morgan Stanley as Sole PI! Thanks for the support, [Morgan Stanley](https://www.morganstanley.com/)! |
+|`July 2022`| I will server as Senior PC for AAAI 2023. |
 |`June 2022`| One paper is accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**)! Congratulations to Xikun! |
-|            | [1] Hierarchical Prototype Networks for Continual Graph Representation Learning [Link](https://www.computer.org/csdl/journal/tp/5555/01/09808404/1EzDOB5o5oI)|
+|            | [1] Hierarchical Prototype Networks for Continual Graph Representation Learning [Link](https://www.computer.org/csdl/journal/tp/5555/01/09808404/1EzDOB5o5oI) |
 |`May 2022`| Two of our papers have been selected as the most influential papers on [KDD](https://www.paperdigest.org/2022/05/most-influential-kdd-papers-2022-05/) and [IJCAI](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/) by paperdigest.org! |
 | |[1][Heterogeneous Graph Neural Network](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf) Ranked at 4th @ KDD 2019 [Link](https://www.paperdigest.org/2022/05/most-influential-kdd-papers-2022-05/)|
 | |[2][A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf) Ranked at 4th @ IJCAI 2017 [Link](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/)|
