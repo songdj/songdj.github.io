@@ -1,5 +1,8 @@
 | News            |                                   |
 | --------------------| --------------------------------- |
+|`Sep 2022`| One paper about Distributed Robust Optimization (DRO) is accepted to NeurIPS 2022! Congratulations to Yang! |
+|`Sep 2022`| One paper about Continual Graph Learning (CGL) is accepted to ICDM 2022! Congratulations to Xikun!|
+|`Sep 2022`| One paper is accepted to Artificial Intelligence for the Earth Systems Journal! Congratulations to all collaborators!|
 |`Aug 2022`| I am honored to receive a Gift Fund from Morgan Stanley as Sole PI! Thanks for the support, [Morgan Stanley](https://www.morganstanley.com/)!|
 |`July 2022`| I will server as Senior PC for AAAI 2023.|
 |`June 2022`| One paper is accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**)! Congratulations to Xikun! |

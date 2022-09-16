@@ -13,7 +13,7 @@
   * Cigna Fellowship, 2021
   * GE Fellowship, 2022
 * **Xikun Zhang** (Co-advisor), June 2020 - present,
-  * **IEEE T-PAMI** x 1
+  * **IEEE T-PAMI** x 1, **ICDM** x 1
 
 **<span style="color:#DE3163">Master Students</span>**
 

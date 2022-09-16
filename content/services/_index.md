@@ -56,7 +56,7 @@
 * International Joint Conference on Artificial Intelligence (IJCAI) - Survey Track 2019-2022
 * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2020
 * IEEE International Conference on Data Mining (ICDM) 2017 - 2022
-* SIAM International Conference on Data Mining (SDM) 2017 - 2022
+* SIAM International Conference on Data Mining (SDM) 2017 - 2023
 * ACM International WSDM Conference (WSDM) 2020, 2021
 * Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021
 * The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2020
