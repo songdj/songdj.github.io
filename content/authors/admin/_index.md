@@ -27,6 +27,7 @@ interests:
 - Time Series Analysis
 - Graph Representation Learning
 - Federated Learning
+- IoT
 
 education:
   courses:
