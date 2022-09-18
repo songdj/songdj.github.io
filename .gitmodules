@@ -1,4 +1,4 @@
-[submodule "themes_1/academic"]
+[submodule "themes/academic"]
         url = https://github.com/songdj/songdj.github.io.git
 [submodule "public"]
 	path = public
