@@ -93,8 +93,8 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`Sep 2022`| One paper about Distributed Robust Optimization (DRO) is accepted to NeurIPS 2022! Congratulations to Yang! |
-|`Sep 2022`| One paper about Continual Graph Learning (CGL) is accepted to ICDM 2022! Congratulations to Xikun! |
+|`Sep 2022`| One paper about Distributed Robust Optimization is accepted to NeurIPS 2022! Congratulations to Yang! |
+|`Sep 2022`| One paper about Continual Graph Learning is accepted to ICDM 2022! Congratulations to Xikun! |
 |`Sep 2022`| One paper is accepted to Artificial Intelligence for the Earth Systems Journal! Congratulations to all collaborators! |
 |`Aug 2022`| I am honored to receive a Gift Fund from Morgan Stanley as Sole PI! Thanks for the support, [Morgan Stanley](https://www.morganstanley.com/)! |
 |`July 2022`| I will server as Senior PC for AAAI 2023. |
