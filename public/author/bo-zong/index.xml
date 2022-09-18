@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bo Zong | Dongjin Song</title>
+    <link>https://songdj.github.io/author/bo-zong/</link>
+      <atom:link href="https://songdj.github.io/author/bo-zong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bo Zong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Bo Zong</title>
+      <link>https://songdj.github.io/author/bo-zong/</link>
+    </image>
+    
+    <item>
+      <title>Interpreting Convolutional Sequence Model by Learning Local Prototypes with Adaptation Regularization</title>
+      <link>https://songdj.github.io/publication/cikm-21/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/cikm-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Multi-Instance Contrastive Learning with Dual Attention for Anomaly Precursor Detection</title>
+      <link>https://songdj.github.io/publication/sdm-21/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/sdm-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Gaussian Mixture based Deep Generative Model For Robust Forecasting on Sparse Multivariate Time Series</title>
+      <link>https://songdj.github.io/publication/aaai-21-a/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-21-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Task Recurrent Modular Networks</title>
+      <link>https://songdj.github.io/publication/aaai-21-b/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-21-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Node Classification in Temporal Graphs through Stochastic Sparsification and Temporal Structural Convolution</title>
+      <link>https://songdj.github.io/publication/ecml-20/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/ecml-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Graph Representation Learning via Neural Sparsification</title>
+      <link>https://songdj.github.io/publication/icml-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icml-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inductive  and  Unsupervised  Representation  Learning  on  Graph Structured Objects</title>
+      <link>https://songdj.github.io/publication/iclr-20-a/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/iclr-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetrical  Hierarchical  Networks  with  Attentive  Interactions  for  Interpretable  Review-based  Recommendation</title>
+      <link>https://songdj.github.io/publication/aaai-20-c/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-20-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep  Unsupervised  Binary  Coding Networks  for  Multivariate  Time  Series  Retrieval</title>
+      <link>https://songdj.github.io/publication/aaai-20-a/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorized  LSTM  with  Adaptive  Shared  Memory  for  Learning Trends in Multivariate Time Series</title>
+      <link>https://songdj.github.io/publication/aaai-20-b/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-20-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Co-Clustering</title>
+      <link>https://songdj.github.io/publication/sdm-19/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/sdm-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Deep Neural Network for Unsupervised Anomaly  Detection  and  Diagnosis  in  Multivariate  Time  Series  Data</title>
+      <link>https://songdj.github.io/publication/aaai-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning  Deep  Network  Representations  with  Adversarially  Regularized Autoencoders</title>
+      <link>https://songdj.github.io/publication/kdd-18-b/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-18-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

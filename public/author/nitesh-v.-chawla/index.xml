@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nitesh V. Chawla | Dongjin Song</title>
+    <link>https://songdj.github.io/author/nitesh-v.-chawla/</link>
+      <atom:link href="https://songdj.github.io/author/nitesh-v.-chawla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nitesh V. Chawla</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Nitesh V. Chawla</title>
+      <link>https://songdj.github.io/author/nitesh-v.-chawla/</link>
+    </image>
+    
+    <item>
+      <title>Inductive Contextual Relation Learning for Personalization</title>
+      <link>https://songdj.github.io/publication/tios-21/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/tios-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneous Graph Neural Network</title>
+      <link>https://songdj.github.io/publication/kdd-19-a/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-19-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
