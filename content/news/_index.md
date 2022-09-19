@@ -1,6 +1,6 @@
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`Sep 2022`| Two papers are accepted to NeurIPS 2022! One in the main track and another in the Datasets and Benchmarks Track. Congratulations to Yang, Xikun, and all collaborators! |
+|`Sep 2022`| Two papers are accepted to NeurIPS 2022! One about Distributed Distributionally Robust Optimization (DDRO) is accepted to the main track and the other about Continual Graph Learning (CGL) in the Datasets and Benchmarks Track. Congratulations to Yang, Xikun, and all collaborators! |
 |`Sep 2022`| One paper about Continual Graph Learning (CGL) is accepted to ICDM 2022! Congratulations to Xikun! |
 |`Sep 2022`| One paper is accepted to Artificial Intelligence for the Earth Systems Journal! Congratulations to all collaborators! |
 |`Aug 2022`| I am honored to receive a Gift Fund from Morgan Stanley as Sole PI! Thanks for the support, [Morgan Stanley](https://www.morganstanley.com/)! |

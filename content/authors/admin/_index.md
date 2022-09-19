@@ -78,8 +78,10 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 
 I have broad research interests in machine learning, data mining, deep learning, federated learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, environmental science, etc.). I am also interested in graph representation learning with applications to link prediction, node classification, recommendation, dynamic systems, etc.
 
+
+**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students to jointly work with Prof. Bing Wang at UCONN CSE on a NSF project! If you are interested in working on machine learning/deep learning/reinforcement learning/federated learning, please send me an email with your CV and transcript.***
+
 <!-- +
-**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students, visiting scholars, and students. Interns are also welcome! If you are interested in working on machine learning/deep learning/data mining projects in my group, please send me an email with your CV and transcript.***
 
 1. ***AI4TS: AI for Time Series Analysis: Theory, Algorithms, and Applications @ IJCAI 2022*** [Link](https://ai4ts.github.io/)
 
@@ -93,7 +95,7 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`Sep 2022`| Two papers are accepted to NeurIPS 2022! One in the main track and another in the Datasets and Benchmarks Track. Congratulations to Yang, Xikun, and all collaborators! |
+|`Sep 2022`| Two papers are accepted to NeurIPS 2022! One about Distributed Distributionally Robust Optimization (DDRO) is accepted to the main track and the other about Continual Graph Learning (CGL) in the Datasets and Benchmarks Track. Congratulations to Yang, Xikun, and all collaborators! |
 |`Sep 2022`| One paper about Continual Graph Learning (CGL) is accepted to ICDM 2022! Congratulations to Xikun! |
 |`Sep 2022`| One paper is accepted to Artificial Intelligence for the Earth Systems Journal! Congratulations to all collaborators! |
 |`Aug 2022`| I am honored to receive a Gift Fund from Morgan Stanley as Sole PI! Thanks for the support, [Morgan Stanley](https://www.morganstanley.com/)! |
@@ -103,8 +105,4 @@ I have broad research interests in machine learning, data mining, deep learning,
 |`May 2022`| Two of our papers have been selected as the most influential papers on [KDD](https://www.paperdigest.org/2022/05/most-influential-kdd-papers-2022-05/) and [IJCAI](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/) by paperdigest.org! |
 | |[1][Heterogeneous Graph Neural Network](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf) Ranked at 4th @ KDD 2019 [Link](https://www.paperdigest.org/2022/05/most-influential-kdd-papers-2022-05/)|
 | |[2][A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf) Ranked at 4th @ IJCAI 2017 [Link](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/)|
-|`May 2022`| My SDP students won the second place in UCONN CSE’s 2022 Senior Design Project competition! Congratulations to all! [Link](https://www.cse.uconn.edu/2022-senior-design-project-competition-winners/)|
-|`May 2022`| Hangyue was admitted to the Ph.D. program in the CS department of Washington University in St. Louis and Jason was admitted to the CS undergraduate program at the University of Michigan - Ann Arbor! Congratulations! |
-|`April 2022`| I am honored to receive a Research Grant from NSF as Co-PI! Congrats to all collaborators and thanks for the support, NSF! [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2154191)|
-|`April 2022`| I am honored to receive the Scholarship Facilitation Award at UConn! Thanks for the support, OVPR! [Link](https://today.uconn.edu/2022/04/ovpr-announces-scholarship-facilitation-awards-for-2021-22-academic-year/)|
 **[More News...](https://songdj.github.io/news/)**
