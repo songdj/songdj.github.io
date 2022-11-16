@@ -34,6 +34,7 @@
 * WSDM 2022 Workshop: Federated Learning for Private Web Search and Data Mining (FL4P-WSDM) [Link](https://fl4p-wsdm.github.io/)
 
 #### Session Chairs
+* ICDM 2022: Graph Learning II
 * ICDM 2021: Sequences and Time Series
 * ICDM 2021: Networks
 * KDD 2021:  Graphs and Networks
@@ -57,11 +58,11 @@
 * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2020
 * IEEE International Conference on Data Mining (ICDM) 2017 - 2022
 * SIAM International Conference on Data Mining (SDM) 2017 - 2023
-* ACM International WSDM Conference (WSDM) 2020, 2021
-* Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021
+* ACM International WSDM Conference (WSDM) 2020, 2021, 2023
+* Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021, 2023
 * The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2020
 * ACM International Conference on Information and Knowledge Management (CIKM) 2019
-* Design Automation Conference (DAC) 2022
+* Design Automation Conference (DAC) 2022, 2023
 * IEEE International Conference on Artificial Intelligence and Knowledge Engineering (AIKE) 2018, 2019
 * IEEE International Conference on Data Science and Advanced Analytics (DSAA) 2018-2020
 * IEEE International Conference on Semantic Computing (ICSC) 2019, 2020
@@ -74,8 +75,8 @@
 
 * International Conference on Machine Learning (ICML) 2021, 2022
 * Neural Information Processing Systems (NeurIPS) 2020-2022
-* International Conference on Learning Representations (ICLR) 2021, 2022
-* IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019-2022
+* International Conference on Learning Representations (ICLR) 2021-2023
+* IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019-2023
 * IEEE International Conference on Computer Vision (ICCV) 2019
 * Europe Conference on Computer Vision (ECCV) 2020, 2022
 * Asian Conference on Computer Vision (ACCV) 2021
