@@ -79,7 +79,7 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 I have broad research interests in machine learning, data mining, deep learning, federated learning, and related applications for time series representation, similarity search, prediction/forecasting, and anomaly detection (with data from IoT devices, healthcare, smart city, environmental science, etc.). I am also interested in graph representation learning with applications to link prediction, node classification, recommendation, dynamic systems, etc.
 
 
-**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students to jointly work with Prof. Bing Wang at UCONN CSE on a NSF project! If you are interested in working on machine learning/deep learning/reinforcement learning/federated learning, please send me an email with your CV and transcript.***
+**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students to jointly work with Prof. [Bing Wang](https://bing.cse.uconn.edu/) at UCONN CSE! If you are interested in working on machine learning/deep learning/reinforcement learning/federated learning, please send me an email with your CV and transcript.***
 
 <!-- +
 
@@ -95,14 +95,18 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`Sep 2022`| Two papers are accepted to NeurIPS 2022! One about Distributed Distributionally Robust Optimization (DDRO) is accepted to the main track and the other about Continual Graph Learning (CGL) in the Datasets and Benchmarks Track. Congratulations to Yang, Xikun, and all collaborators! |
-|`Sep 2022`| One paper about Continual Graph Learning (CGL) is accepted to ICDM 2022! Congratulations to Xikun! |
+|`Nov 2022`| I am invited to give a talk about "Continual Graph Learning" at the CS department of University of Central Florida on November 17th, 2022! |
+|`Nov 2022`| Our tutorial proposal about "Continual Graph Learning" is accepted to SDM 2023! Congratulations to Xikun, Yushan, Zijie and all co-authors. |
+|`Nov 2022`| One paper is accepted to Smart Health and another paper gets accepted to Computational and Structural Biotechnology Journal! Congratulations to all collaborators! |
+|`Oct 2022`| One paper is accepted to IEEE International Conference on Big Data! Congratulations to Wei and all co-authors! |
+|`Oct 2022`| I am invited to give a talk about "Harnessing Deep Neural Networks forMultivariate Time Series Analysis" at the CS department of University of Georgia on Oct 28th, 2022! [Link](https://cps.uga.edu/index.php/data-science-and-ai-seminars/) |
+|`Oct 2022`| I am honored to received another Gift Fund from NEC Labs America (NECLA) as Sole PI! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
+|`Oct 2022`| I am invited to give a talk about "Harnessing Deep Neural Networks forMultivariate Time Series Analysis" at the CS department of University of Georgia on Oct 28th, 2022! [Link](https://cps.uga.edu/index.php/data-science-and-ai-seminars/) |
+|`Sep 2022`| Two papers are accepted to NeurIPS 2022! One about Distributed Distributionally Robust Optimization **(DDRO)** is accepted to the main track and the other about **(CGL)** is accepted to the Datasets and Benchmarks Track. Congratulations to Yang, Xikun, and all collaborators! |
+|`Sep 2022`| One paper about Continual Graph Learning **(CGL)** is accepted to ICDM 2022! Congratulations to Xikun! |
 |`Sep 2022`| One paper is accepted to Artificial Intelligence for the Earth Systems Journal! Congratulations to all collaborators! |
 |`Aug 2022`| I am honored to receive a Gift Fund from Morgan Stanley as Sole PI! Thanks for the support, [Morgan Stanley](https://www.morganstanley.com/)! |
 |`July 2022`| I will server as Senior PC for AAAI 2023. |
 |`June 2022`| One paper is accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**)! Congratulations to Xikun! |
 |            | [1] Hierarchical Prototype Networks for Continual Graph Representation Learning [Link](https://www.computer.org/csdl/journal/tp/5555/01/09808404/1EzDOB5o5oI) |
-|`May 2022`| Two of our papers have been selected as the most influential papers on [KDD](https://www.paperdigest.org/2022/05/most-influential-kdd-papers-2022-05/) and [IJCAI](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/) by paperdigest.org! |
-| |[1][Heterogeneous Graph Neural Network](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf) Ranked at 4th @ KDD 2019 [Link](https://www.paperdigest.org/2022/05/most-influential-kdd-papers-2022-05/)|
-| |[2][A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf) Ranked at 4th @ IJCAI 2017 [Link](https://www.paperdigest.org/2022/05/most-influential-ijcai-papers-2022-05/)|
 **[More News...](https://songdj.github.io/news/)**

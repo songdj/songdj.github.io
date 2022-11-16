@@ -1,6 +1,12 @@
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`Sep 2022`| Two papers are accepted to NeurIPS 2022! One about Distributed Distributionally Robust Optimization (DDRO) is accepted to the main track and the other about Continual Graph Learning (CGL) in the Datasets and Benchmarks Track. Congratulations to Yang, Xikun, and all collaborators! |
+|`Nov 2022`| I am invited to give a talk about "Continual Graph Learning" at the CS department of University of Central Florida on November 17th, 2022! |
+|`Nov 2022`| Our tutorial proposal about "Continual Graph Learning" is accepted to SDM 2023! Congratulations to Xikun, Yushan, Zijie and all co-authors. |
+|`Nov 2022`| One paper is accepted to Smart Health and another paper gets accepted to Computational and Structural Biotechnology Journal! Congratulations to all collaborators! |
+|`Oct 2022`| One paper is accepted to IEEE International Conference on Big Data! Congratulations to Wei and all co-authors! |
+|`Oct 2022`| I am invited to give a talk about "Harnessing Deep Neural Networks forMultivariate Time Series Analysis" at the CS department of University of Georgia on Oct 28th, 2022! [Link](https://cps.uga.edu/index.php/data-science-and-ai-seminars/) |
+|`Oct 2022`| I am honored to received another Gift Fund from NEC Labs America (NECLA) as Sole PI! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
+|`Sep 2022`| Two papers are accepted to NeurIPS 2022!  Congratulations to Yang, Xikun, and all co-authors! |
 |`Sep 2022`| One paper about Continual Graph Learning (CGL) is accepted to ICDM 2022! Congratulations to Xikun! |
 |`Sep 2022`| One paper is accepted to Artificial Intelligence for the Earth Systems Journal! Congratulations to all collaborators! |
 |`Aug 2022`| I am honored to receive a Gift Fund from Morgan Stanley as Sole PI! Thanks for the support, [Morgan Stanley](https://www.morganstanley.com/)! |
