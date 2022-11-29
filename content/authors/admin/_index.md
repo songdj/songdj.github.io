@@ -101,12 +101,6 @@ I have broad research interests in machine learning, data mining, deep learning,
 |`Oct 2022`| One paper is accepted to IEEE International Conference on Big Data! Congratulations to Wei and all co-authors! |
 |`Oct 2022`| I am invited to give a talk about "Harnessing Deep Neural Networks forMultivariate Time Series Analysis" at the CS department of University of Georgia on Oct 28th, 2022! [Link](https://cps.uga.edu/index.php/data-science-and-ai-seminars/) |
 |`Oct 2022`| I am honored to received another Gift Fund from NEC Labs America (NECLA) as Sole PI! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
-|`Oct 2022`| I am invited to give a talk about "Harnessing Deep Neural Networks forMultivariate Time Series Analysis" at the CS department of University of Georgia on Oct 28th, 2022! [Link](https://cps.uga.edu/index.php/data-science-and-ai-seminars/) |
 |`Sep 2022`| Two papers are accepted to NeurIPS 2022 (one to the main track and one to the dataset and benchmark track)! Congratulations to Yang, Xikun, and all collaborators! |
 |`Sep 2022`| One paper about Continual Graph Learning **(CGL)** is accepted to ICDM 2022! Congratulations to Xikun! |
-|`Sep 2022`| One paper is accepted to Artificial Intelligence for the Earth Systems Journal! Congratulations to all collaborators! |
-|`Aug 2022`| I am honored to receive a Gift Fund from Morgan Stanley as Sole PI! Thanks for the support, [Morgan Stanley](https://www.morganstanley.com/)! |
-|`July 2022`| I will server as Senior PC for AAAI 2023. |
-|`June 2022`| One paper is accepted to IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI**)! Congratulations to Xikun! |
-|            | [1] Hierarchical Prototype Networks for Continual Graph Representation Learning [Link](https://www.computer.org/csdl/journal/tp/5555/01/09808404/1EzDOB5o5oI) |
 **[More News...](https://songdj.github.io/news/)**

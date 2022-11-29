@@ -6,8 +6,8 @@
 |`Oct 2022`| One paper is accepted to IEEE International Conference on Big Data! Congratulations to Wei and all co-authors! |
 |`Oct 2022`| I am invited to give a talk about "Harnessing Deep Neural Networks forMultivariate Time Series Analysis" at the CS department of University of Georgia on Oct 28th, 2022! [Link](https://cps.uga.edu/index.php/data-science-and-ai-seminars/) |
 |`Oct 2022`| I am honored to received another Gift Fund from NEC Labs America (NECLA) as Sole PI! Thanks for the support, [NECLA](https://www.nec-labs.com/)!|
-|`Sep 2022`| Two papers are accepted to NeurIPS 2022!  Congratulations to Yang, Xikun, and all co-authors! |
-|`Sep 2022`| One paper about Continual Graph Learning (CGL) is accepted to ICDM 2022! Congratulations to Xikun! |
+|`Sep 2022`| Two papers are accepted to NeurIPS 2022 (one to the main track and one to the dataset and benchmark track)! Congratulations to Yang, Xikun, and all collaborators! |
+|`Sep 2022`| One paper about Continual Graph Learning **(CGL)** is accepted to ICDM 2022! Congratulations to Xikun! |
 |`Sep 2022`| One paper is accepted to Artificial Intelligence for the Earth Systems Journal! Congratulations to all collaborators! |
 |`Aug 2022`| I am honored to receive a Gift Fund from Morgan Stanley as Sole PI! Thanks for the support, [Morgan Stanley](https://www.morganstanley.com/)! |
 |`July 2022`| I will server as Senior PC for AAAI 2023. |
