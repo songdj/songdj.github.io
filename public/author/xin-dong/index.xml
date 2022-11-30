@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xin Dong | Dongjin Song</title>
+    <link>https://songdj.github.io/author/xin-dong/</link>
+      <atom:link href="https://songdj.github.io/author/xin-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xin Dong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xin Dong</title>
+      <link>https://songdj.github.io/author/xin-dong/</link>
+    </image>
+    
+    <item>
+      <title>Multi-Task Recurrent Modular Networks</title>
+      <link>https://songdj.github.io/publication/aaai-21-b/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-21-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetrical  Hierarchical  Networks  with  Attentive  Interactions  for  Interpretable  Review-based  Recommendation</title>
+      <link>https://songdj.github.io/publication/aaai-20-c/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/aaai-20-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

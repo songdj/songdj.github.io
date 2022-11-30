@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Megha Ram | Dongjin Song</title>
+    <link>https://songdj.github.io/author/megha-ram/</link>
+      <atom:link href="https://songdj.github.io/author/megha-ram/index.xml" rel="self" type="application/rss+xml" />
+    <description>Megha Ram</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Megha Ram</title>
+      <link>https://songdj.github.io/author/megha-ram/</link>
+    </image>
+    
+    <item>
+      <title>High Resolution Population Estimates from Telecommunications Data</title>
+      <link>https://songdj.github.io/publication/epj-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/epj-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing Social Divisions Using Cell Phone Data</title>
+      <link>https://songdj.github.io/publication/net-mob-13/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/net-mob-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

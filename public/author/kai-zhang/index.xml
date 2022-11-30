@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kai Zhang | Dongjin Song</title>
+    <link>https://songdj.github.io/author/kai-zhang/</link>
+      <atom:link href="https://songdj.github.io/author/kai-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kai Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kai Zhang</title>
+      <link>https://songdj.github.io/author/kai-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Identifying  Multiple  Causal  Anomalies  by  Modeling  Local  Propagations</title>
+      <link>https://songdj.github.io/publication/icdm-17/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icdm-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

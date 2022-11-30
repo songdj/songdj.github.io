@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dacheng Tao | Dongjin Song</title>
+    <link>https://songdj.github.io/author/dacheng-tao/</link>
+      <atom:link href="https://songdj.github.io/author/dacheng-tao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dacheng Tao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Dacheng Tao</title>
+      <link>https://songdj.github.io/author/dacheng-tao/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical Prototype Networks for Continual Graph Representation Learning</title>
+      <link>https://songdj.github.io/publication/tpami-22/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/tpami-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TimeAutoAD: Autonomous Anomaly Detection with Self-supervised Contrastive Loss for Multivariate Time Series</title>
+      <link>https://songdj.github.io/publication/tnse-22/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/tnse-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CGLB: Benchmark Tasks for Continual Graph Learning</title>
+      <link>https://songdj.github.io/publication/neurips-22-b/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/neurips-22-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparsified Subgraph Memory for Continual Graph Learning</title>
+      <link>https://songdj.github.io/publication/icdm-22/</link>
+      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icdm-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-task Recurrent Neural Network and Higher-order Markov Random Fields for Stock Price Prediction</title>
+      <link>https://songdj.github.io/publication/kdd-19-b/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-19-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep r-th Root of Rank Supervised  Binary  Embedding  for  Multivariate  Time  Series  Retrieval</title>
+      <link>https://songdj.github.io/publication/kdd-18-a/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Top-k Link Recommendation in Social Networks</title>
+      <link>https://songdj.github.io/publication/icdm-15/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icdm-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Latent Link Recommendation in Signed Networks</title>
+      <link>https://songdj.github.io/publication/kdd-15/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/kdd-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank Preserving Hashing for Rapid Image Search</title>
+      <link>https://songdj.github.io/publication/dcc-15/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/dcc-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Robust Conditional Random Fields</title>
+      <link>https://songdj.github.io/publication/tip-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/tip-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biologically Inspired Feature Manifold for Scene Classification</title>
+      <link>https://songdj.github.io/publication/tip-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/tip-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative Geometry Preserving Projections</title>
+      <link>https://songdj.github.io/publication/icip-09/</link>
+      <pubDate>Sun, 01 Nov 2009 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icip-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C1 Units for Scene Classification</title>
+      <link>https://songdj.github.io/publication/icpr-08/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icpr-08/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
