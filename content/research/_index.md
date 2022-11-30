@@ -1,4 +1,4 @@
-My research is generously supported by [**NSF**](https://www.nsf.gov/), [**USDA**](https://www.usda.gov/), [**Morgan Stanley**](https://www.morganstanley.com/) [**NEC Labs America**](https://www.nec-labs.com/), [**Travelers**](https://www.travelers.com/), **UConn Foundation**, and **UConn OVPR**.
+My research is generously supported by [**NSF**](https://www.nsf.gov/), [**USDA**](https://www.usda.gov/), [**Morgan Stanley**](https://www.morganstanley.com/), [**NEC Labs America**](https://www.nec-labs.com/), [**Travelers**](https://www.travelers.com/), **UConn Foundation**, and **UConn OVPR**.
 
 | Role   | Source            | Project | Time         |
 | -------- | -----------------------| ------------------------------------------------- |--------------|---------------|
