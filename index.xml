@@ -5,12 +5,36 @@
     <link>https://songdj.github.io/</link>
       <atom:link href="https://songdj.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dongjin Song</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Dongjin Song</title>
       <link>https://songdj.github.io/</link>
     </image>
+    
+    <item>
+      <title>CGLB: Benchmark Tasks for Continual Graph Learning</title>
+      <link>https://songdj.github.io/publication/neurips-22-b/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/neurips-22-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Distributionally Robust Optimization with Non-Convex Objectives</title>
+      <link>https://songdj.github.io/publication/neurips-22-a/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/neurips-22-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparsified Subgraph Memory for Continual Graph Learning</title>
+      <link>https://songdj.github.io/publication/icdm-22/</link>
+      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/icdm-22/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hierarchical Prototype Networks for Continual Graph Representation Learning</title>
@@ -89,30 +113,6 @@
       <link>https://songdj.github.io/publication/aaai-21-b/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://songdj.github.io/publication/aaai-21-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CGLB: Benchmark Tasks for Continual Graph Learning</title>
-      <link>https://songdj.github.io/publication/neurips-22-b/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/neurips-22-b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributed Distributionally Robust Optimization with Non-Convex Objectives</title>
-      <link>https://songdj.github.io/publication/neurips-22-a/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/neurips-22-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sparsified Subgraph Memory for Continual Graph Learning</title>
-      <link>https://songdj.github.io/publication/icdm-22/</link>
-      <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/icdm-22/</guid>
       <description></description>
     </item>
     
