@@ -3,32 +3,77 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://songdj.github.io/publication-type/2/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <loc>https://songdj.github.io/publication-type/1/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://songdj.github.io/authors/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://songdj.github.io/authors/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication/neurips-22-b/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://songdj.github.io/author/dacheng-tao/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://songdj.github.io/author/dongjin-song/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://songdj.github.io/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication_types/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/xikun-zhang/</loc>
+    <lastmod>2022-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication/neurips-22-a/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/kai-yang/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/author/yang-jiao/</loc>
+    <lastmod>2022-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication/icdm-22/</loc>
+    <lastmod>2022-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songdj.github.io/publication-type/2/</loc>
     <lastmod>2022-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,32 +83,7 @@
   </url>
   
   <url>
-    <loc>https://songdj.github.io/publication_types/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/publication/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/xikun-zhang/</loc>
-    <lastmod>2022-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/kai-yang/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://songdj.github.io/publication/tnse-22/</loc>
-    <lastmod>2022-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/author/yang-jiao/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -105,11 +125,6 @@
   <url>
     <loc>https://songdj.github.io/author/yi-zhang/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/publication-type/1/</loc>
-    <lastmod>2021-11-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -275,21 +290,6 @@
   <url>
     <loc>https://songdj.github.io/author/xin-dong/</loc>
     <lastmod>2021-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/publication/neurips-22-b/</loc>
-    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/publication/neurips-22-a/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://songdj.github.io/publication/icdm-22/</loc>
-    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
