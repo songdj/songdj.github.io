@@ -5,7 +5,7 @@
     <link>https://songdj.github.io/author/dongjin-song/</link>
       <atom:link href="https://songdj.github.io/author/dongjin-song/index.xml" rel="self" type="application/rss+xml" />
     <description>Dongjin Song</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Dongjin Song</title>
@@ -15,7 +15,7 @@
     <item>
       <title>CGLB: Benchmark Tasks for Continual Graph Learning</title>
       <link>https://songdj.github.io/publication/neurips-22-b/</link>
-      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://songdj.github.io/publication/neurips-22-b/</guid>
       <description></description>
     </item>
@@ -23,7 +23,7 @@
     <item>
       <title>Distributed Distributionally Robust Optimization with Non-Convex Objectives</title>
       <link>https://songdj.github.io/publication/neurips-22-a/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://songdj.github.io/publication/neurips-22-a/</guid>
       <description></description>
     </item>
@@ -31,8 +31,16 @@
     <item>
       <title>Sparsified Subgraph Memory for Continual Graph Learning</title>
       <link>https://songdj.github.io/publication/icdm-22/</link>
-      <pubDate>Mon, 07 Nov 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://songdj.github.io/publication/icdm-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Federated Anomaly Detection for Multivariate Time Series Data</title>
+      <link>https://songdj.github.io/publication/bigdata-22/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/bigdata-22/</guid>
       <description></description>
     </item>
     
@@ -222,9 +230,9 @@
     
     <item>
       <title>Learning Structured and Interpretable Nonlinear Relationship in Complex Physical Systems</title>
-      <link>https://songdj.github.io/publication/bit-data-17/</link>
+      <link>https://songdj.github.io/publication/bigdata-17/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>https://songdj.github.io/publication/bit-data-17/</guid>
+      <guid>https://songdj.github.io/publication/bigdata-17/</guid>
       <description></description>
     </item>
     
