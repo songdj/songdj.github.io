@@ -2,6 +2,7 @@ My research is generously supported by [**NSF**](https://www.nsf.gov/), [**USDA*
 
 | Role   | Source            | Project | Time         |
 | -------- | -----------------------| ------------------------------------------------- |--------------|---------------|
+| PI | NEC Labs America | Gift Fund | 2022.10 - 2023.3 |
 | Co-PI | NSF | Collaborative Research: CNS: CORE: Small: Hierarchical Deep Reinforcement Learning for Routing in Mobile Wireless Networks | 2022.4 - 2025.3 |
 | PI | Morgan Stanley | Gift Fund | 2022 - 2023 |
 | PI | NEC Labs America | Gift Fund | 2022.1 - 2022.12 |
@@ -9,4 +10,4 @@ My research is generously supported by [**NSF**](https://www.nsf.gov/), [**USDA*
 | Co-PI | USDA-NIFA | Evaluating the Impact of Preferential Trade Agreements on Agricultural and Food Trade: New Insights from Natural Language Processing and Machine Learning | 2022.1-2025.12 |
 | Co-PI | Travelers | Change and Damage Detection from Aerial Images | 2021.8-2023.2 |
 | PI | UConn OVPR | UConn Scholarship Facilitation Fund Award | 2022 |
-| PI | UConn OVPR | UConn Research Excellence Program Award | 2021.5-2023.5 |
+| PI | UConn OVPR | UConn Research Excellence Program Award | 2021.5-2023.8 |

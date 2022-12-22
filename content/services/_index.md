@@ -1,5 +1,9 @@
 ## Services
 
+### Editorial Board - Journals
+
+* Associate Editor, Neurocomputing (Elsevier) (IF=5.719), from 12/2022 - Present
+
 ### Referee-Journals
 
 * Journal of Machine Learning Research
@@ -45,8 +49,8 @@
 
 #### Senior Program Committee Members
 
-* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021, 2022, 2023
-* International Joint Conference on Artificial Intelligence (IJCAI) 2021
+* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021 - 2023
+* International Joint Conference on Artificial Intelligence (IJCAI) 2021, 2023
 * ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track)
 
 #### Program Committee Members

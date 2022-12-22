@@ -1,7 +1,10 @@
 | News            |                                   |
 | --------------------| --------------------------------- |
+|`Dec 2022`| Our tutorial proposal about "Continual Graph Learning" is accepted to WWW 2023! Congratulations to Xikun, Yushan, and Zijie!|
+|`Dec 2022`| I am invited to serve as Associate Editor for Neurocomputing journal (IF=5.719)! |
+|`Dec 2022`| I will serve as Senior PC for IJCAI 2023! |
 |`Nov 2022`| I am invited to give a talk about "Continual Graph Learning" at the CS department of University of Central Florida on November 17th, 2022! |
-|`Nov 2022`| Our tutorial proposal about "Continual Graph Learning" is accepted to SDM 2023! Congratulations to Xikun, Yushan, Zijie and all co-authors. |
+|`Nov 2022`| Our tutorial proposal about "Continual Graph Learning" is accepted to SDM 2023! Congratulations to Xikun, Yushan, and Zijie!|
 |`Nov 2022`| One paper is accepted to Smart Health and another paper gets accepted to Computational and Structural Biotechnology Journal! Congratulations to all collaborators! |
 |`Oct 2022`| One paper is accepted to IEEE International Conference on Big Data! Congratulations to Wei and all co-authors! |
 |`Oct 2022`| I am invited to give a talk about "Harnessing Deep Neural Networks forMultivariate Time Series Analysis" at the CS department of University of Georgia on Oct 28th, 2022! [Link](https://cps.uga.edu/index.php/data-science-and-ai-seminars/) |

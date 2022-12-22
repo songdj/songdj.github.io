@@ -1,7 +1,7 @@
 ---
 title: "CGLB: Benchmark Tasks for Continual Graph Learning"
-date: 2022-11-10
-publishDate: 2022-11-10T05:55:58.252795Z
+date: 2022-12-10
+publishDate: 2022-12-10T05:55:58.252795Z
 authors: ["Xikun Zhang*", "Dongjin Song", "Dacheng Tao"]
 publication_types: ["1"]
 abstract: ""
