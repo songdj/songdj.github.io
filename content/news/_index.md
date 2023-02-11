@@ -1,7 +1,6 @@
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`Feb 2023`| One paper is accepted to Annual Conference
-on Information Sciences and System (CISS) 2023, Congratulations to Yushan!|
+|`Feb 2023`| One paper is accepted to Annual Conference on Information Sciences and System (CISS) 2023, Congratulations to Yushan!|
 |`Jan 2023`| Two papers are accepted to ICLR 2023! Congratulations to Chang, Yang, and all collaborators!|
 |`Dec 2022`| Our tutorial proposal about "Continual Graph Learning" is accepted to WWW 2023! Congratulations to Xikun, Yushan, and Zijie!|
 |`Dec 2022`| I am invited to serve as an Associate Editor for Neurocomputing journal (IF=5.719)! |
