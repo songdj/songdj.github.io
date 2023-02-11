@@ -7,6 +7,7 @@
 * **Zijie Pan**, Fall 2022 - ,
 * [**Yushan Jiang**](https://sites.google.com/view/jayjiang/home), Spring 2022 - ,
   * GE Fellowship, 2022
+  * **CISS** x 1,
 * **Binghao Lu**, Fall 2021 - ,
   * Cigna Fellowship, 2021
 * **Qianying Ren**, Fall 2021 - ,
@@ -17,22 +18,22 @@
 
 **<span style="color:#DE3163">Master Students</span>**
 
-* **Mohammad Maldani**, Spring 2022-
+* **Sebastiano Alderucci**, Fall 2022-
 
 **<span style="color:#DE3163">Undergraduate Students</span>**
 
-* **John Coleman**, Spring 2022 -
 * **Rahul Bhagwani**, Spring 2022-
 
 **<span style="color:#DE3163">Intern & High School Students</span>**
 
-* **Hangyue Li**, Summer 2021 -
-  * UESTC -> Ph.D. student @ Washington University in St. Louis (CS Major)
-* **Jason Zhou**, Fall 2021 -
-  * Glastonbury High School -> B.S. student @ University of Michigan (CS Major)
+
 
 **<span style="color:#DE3163">Former Members</span>**
 
+* **Hangyue Li**, Summer 2021 - Spring 2022, Remote Intern
+  * UESTC -> Ph.D. student @ Washington University in St. Louis (CS Major)
+* **Jason Zhou**, Fall 2021 - Spring 2022,
+  * Glastonbury High School -> B.S. student @ University of Michigan (CS Major)
 * **Varsha Rathore**, Fall 2020 - Spring 2021
     * Undergraduate Student, University of Connecticut
 * **Dylan Manchester**, Spring 2021
@@ -42,7 +43,7 @@
     * Employment: Epic Systems, Software Engineer
 * **Chang Li**, 2018 - 2021, Co-advisor
   * Ph.D Student, University of Sydney
-  * **KDD** x 1
+  * **KDD** x 1, **ICLR** x 1
   * Employment: JD Explore Academy, Research Scientist
 * **Wei Zhu**, May 2020 - Aug 2020, Intern at NEC Labs America
   * Ph.D student, University of Rochester
