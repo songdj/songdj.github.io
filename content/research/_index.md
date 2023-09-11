@@ -1,5 +1,7 @@
 My research is generously supported by [**NSF**](https://www.nsf.gov/), [**USDA**](https://www.usda.gov/), [**Morgan Stanley**](https://www.morganstanley.com/), [**NEC Labs America**](https://www.nec-labs.com/), [**Travelers**](https://www.travelers.com/), **UConn Foundation**, and **UConn OVPR**.
 
+The following projects are active:
+
 | Role   | Source            | Project (Active)  | Time         |
 | -------- | -----------------------| ------------------------------------------------- |--------------|---------------|
 | PI | NEC Labs America | Gift Fund | 2023.9 - 2023.12 |
@@ -7,6 +9,8 @@ My research is generously supported by [**NSF**](https://www.nsf.gov/), [**USDA*
 | Co-PI | NSF | Collaborative Research: CNS: CORE: Small: Hierarchical Deep Reinforcement Learning for Routing in Mobile Wireless Networks | 2022.4 - 2025.3 |
 | Co-PI | USDA-NIFA | DSFAS-CIN: Harnessing Mobility Big Data and Artificial Intelligence Through a Transdisciplinary Research Network in Food Production, Processing, and Consumption Systems | 2022.1-2025.12 |
 | Co-PI | USDA-NIFA | Evaluating the Impact of Preferential Trade Agreements on Agricultural and Food Trade: New Insights from Natural Language Processing and Machine Learning | 2022.1-2025.12 |
+
+The following projects have been successfully finalized.
 
 | Role   | Source            | Project (Finalized)  | Time         |
 | -------- | -----------------------| ------------------------------------------------- |--------------|---------------|
