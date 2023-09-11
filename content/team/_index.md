@@ -5,28 +5,44 @@
 **<span style="color:#DE3163">Ph.D. Students</span>**
 
 * **Zijie Pan**, Fall 2022 - ,
+  * BS and MS from University of Virginia
+  * GE Fellowship for Excellence 2023
 * [**Yushan Jiang**](https://sites.google.com/view/jayjiang/home), Spring 2022 - ,
-  * GE Fellowship, 2022
-  * **CISS** x 1,
+  * BS from CAUC and MS from ERAU
+  * GE Fellowship for Excellence 2023
+  * GE Fellowship for Next Gen Scholar, 2022
+  * **KDD** x 1, **CISS** x 1,
 * **Binghao Lu**, Fall 2021 - ,
+  * BE from HIT and MS from UCF
   * Cigna Fellowship, 2021
 * **Qianying Ren**, Fall 2021 - ,
+  * BS from Huazhong Agricultural University
   * Cigna Fellowship, 2021
   * GE Fellowship, 2022
+  * GE Fellowship for Excellence, 2023
 * **Xikun Zhang** (Co-advisor), June 2020 - present,
-  * **IEEE T-PAMI** x 1, **NeurIPS** x 1, **ICDM** x 1
+  * BS from USTC and MS from University of Sydney
+  * **IEEE T-PAMI** x 1, **IEEE T-NNLS** x 1, **NeurIPS** x 1, **ICDM** x 1
+* **Mate Pavelic** (Visitor), August 2023,
+  * BS and MS from University of Zagreb  
 
 **<span style="color:#DE3163">Master Students</span>**
 
+* **Susmita Ojha**, Fall 2022-
 * **Sebastiano Alderucci**, Fall 2022-
+* **Madani Mohammad**, Fall 2022-
 
 **<span style="color:#DE3163">Undergraduate Students</span>**
 
 * **Rahul Bhagwani**, Spring 2022-
+* **Okem Chime**, Summer 2023-
 
-**<span style="color:#DE3163">Intern & High School Students</span>**
 
+**<span style="color:#DE3163">High School Students</span>**
 
+* **Spencer Danese**, Summer 2023-
+* **Jay Tummala**, Summer 2023-
+* **Arnav Kumar**, Summer 2023-
 
 **<span style="color:#DE3163">Former Members</span>**
 
