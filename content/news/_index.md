@@ -1,5 +1,6 @@
 | News            |                                   |
-| --------------------| --------------------------------- |`September 2023`| Received a Gift Fund from **Morgan Stanley**! |
+| --------------------| ---------------------------------------------------- |
+|`September 2023`| Received a Gift Fund from **Morgan Stanley**! |
 |`September 2023`| Received a Gift Fund from **NEC Labs America**! |
 |`August 2023`| One paper about Ricci Curvature based Continual Graph Learning is accepted to **IEEE TNNLS**! Congratulations to Xikun! |
 |`August 2023`| I will give a keynote talk about **Towards Continual Graph Learning** at Macau University! [Link](https://www.fst.um.edu.mo/event/towards-continual-graph-learning/) |
