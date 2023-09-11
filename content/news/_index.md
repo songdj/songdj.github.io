@@ -1,9 +1,11 @@
 | News            |                                   |
 | --------------------| --------------------------------- |
+|`September 2023`| Received a Gift Fund from Morgan Stanley!|
+|`September 2023`| Received a Gift Fund from NEC Labs America!|
 |`August 2023`| One paper about Ricci Curvature based Continual Graph Learning is accepted to IEEE TNNLS! Congratulations to Xikun!|
 |`August 2023`| I give a keynote talk about "Towards Continual Graph Learning" at Macau University!|
-|`August 2023`| I give a keynote talk about "Towards Continual Graph Learning" at the 1st International Workshop on Generalizing from Limited Resources in the Open World in IJCAI 2023. [Link][https://sites.google.com/view/glow-ijcai-23/home]|
-|`August 2023`| Our 2nd AI for Time Series (AI4TS) workshop was successfully hold in IJCAI 2023 at Macau. [Link][https://ai4ts.github.io/ijcai2023]|
+|`August 2023`| I give a keynote talk about "Towards Continual Graph Learning" at the 1st International Workshop on Generalizing from Limited Resources in the Open World in IJCAI 2023. [Link](https://sites.google.com/view/glow-ijcai-23/home)|
+|`August 2023`| Our 2nd AI for Time Series (AI4TS) workshop was successfully hold in IJCAI 2023 at Macau. [Link](https://ai4ts.github.io/ijcai2023)|
 |`July 2023`| I am invited to serve as Senior PC for AAAI 2024!|
 |`June 2023`| I win the UCONN Scholarship Facilitation Fund (SFF) Award!|
 |`June 2023`| One paper is accepted to ACM Transactions on Cyber Physical System (TCPS)! Congratulations to all co-authors!|
@@ -11,11 +13,11 @@
 |`June 2023`| One paper about Federated Learning is accepted to IROS 2023! Congratulations to all co-authors!|
 |`May 2023`| Yushan won CSE Predoctoral Fellowship for Outstanding Scholarly and Zijie won CSE Predoctoral Fellowship Honorable Mention! Congratulations to Yushan and Zijie! |
 |`May 2023`| One paper about Federated and Explainable Skill Learning is accepted to KDD 2023! Congratulations to Yushan and all co-authors!|
-|`May 2023`| Our AI for Time Series (AI4TS) workshop was accepted at ICDM 2023! Please consider contribute to our workshop! [Link][https://ai4ts.github.io/icdm2023]!|
-|`April 2023`| Our 9th Mining and Learning from Time Series Workshop was accepted at KDD 2023! Please consider contribute to our workshop! [Link][https://kdd-milets.github.io/milets2023/]!|
+|`May 2023`| Our AI for Time Series (AI4TS) workshop was accepted at ICDM 2023! Please consider contribute to our workshop! [Link](https://ai4ts.github.io/icdm2023)!|
+|`April 2023`| Our 9th Mining and Learning from Time Series Workshop was accepted at KDD 2023! Please consider contribute to our workshop! [Link](https://kdd-milets.github.io/milets2023/)!|
 |`April 2023`| I will present our "Continual Graph Learning" Tutorial at [The Web Conference](https://archives.iw3c2.org/www2023/) 2023 in Austin, Texas!|
-|`April 2023`| I will present our "Continual Graph Learning" Tutorial at [SDM][https://meetings.siam.org/program.cfm?CONFCODE=SDM23] 2023 in Minneapolis, MN!|
-|`March 2023`| Our 2nd AI for Time Series (AI4TS) workshop is accepted at IJCAI 2023! Welcome to contribute to our workshop! [Link][https://ai4ts.github.io/ijcai2023]|
+|`April 2023`| I will present our "Continual Graph Learning" Tutorial at [SDM](https://meetings.siam.org/program.cfm?CONFCODE=SDM23) 2023 in Minneapolis, MN!|
+|`March 2023`| Our 2nd AI for Time Series (AI4TS) workshop is accepted at IJCAI 2023! Welcome to contribute to our workshop! [Link](https://ai4ts.github.io/ijcai2023)|
 |`March 2023`| I am invited to serve as a panelist on a NSF panel.|
 |`Feb 2023`| One paper is accepted to Annual Conference on Information Sciences and System (CISS) 2023, Congratulations to Yushan!|
 |`Jan 2023`| Two papers are accepted to ICLR 2023! Congratulations to Chang, Yang, and all collaborators!|
