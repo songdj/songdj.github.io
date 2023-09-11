@@ -6,23 +6,28 @@
 
 * **Zijie Pan**, Fall 2022 - ,
   * BS and MS from University of Virginia
-  * GE Fellowship for Excellence 2023
+  * **GE Fellowship** for Excellence 2023
+  * **UConn CSE Predoctoral Fellowship** (Honorable Mention), 2023
+  * Tutorials at **WWW** 2023 and **SDM** 2023
 * [**Yushan Jiang**](https://sites.google.com/view/jayjiang/home), Spring 2022 - ,
   * BS from CAUC and MS from ERAU
-  * GE Fellowship for Excellence 2023
-  * GE Fellowship for Next Gen Scholar, 2022
+  * **GE Fellowship** for Excellence 2023
+  * **UConn CSE Predoctoral Fellowship** (Outstanding Scholarly and Research Accomplishments), 2023
+  * **GE Fellowship** for Next Gen Scholar, 2022
   * **KDD** x 1, **CISS** x 1,
+  * Tutorials at **WWW** 2023 and **SDM** 2023
 * **Binghao Lu**, Fall 2021 - ,
   * BE from HIT and MS from UCF
   * Cigna Fellowship, 2021
 * **Qianying Ren**, Fall 2021 - ,
   * BS from Huazhong Agricultural University
   * Cigna Fellowship, 2021
-  * GE Fellowship, 2022
-  * GE Fellowship for Excellence, 2023
+  * **GE Fellowship**, 2022
+  * **GE Fellowship** for Excellence, 2023
 * **Xikun Zhang** (Co-advisor), June 2020 - present,
   * BS from USTC and MS from University of Sydney
   * **IEEE T-PAMI** x 1, **IEEE T-NNLS** x 1, **NeurIPS** x 1, **ICDM** x 1
+  * Tutorials at **WWW** 2023 and **SDM** 2023
 * **Mate Pavelic** (Visitor), August 2023,
   * BS and MS from University of Zagreb  
 
@@ -41,15 +46,18 @@
 **<span style="color:#DE3163">High School Students</span>**
 
 * **Spencer Danese**, Summer 2023-
+  * Glastonbury High School
 * **Jay Tummala**, Summer 2023-
+  * Glastonbury High School
 * **Arnav Kumar**, Summer 2023-
+  * South Windsor High School
 
 **<span style="color:#DE3163">Former Members</span>**
 
 * **Hangyue Li**, Summer 2021 - Spring 2022, Remote Intern
-  * UESTC -> Ph.D. student @ Washington University in St. Louis (CS Major)
+  * UESTC -> CS Ph.D. student of CS @ Washington University in St. Louis
 * **Jason Zhou**, Fall 2021 - Spring 2022,
-  * Glastonbury High School -> B.S. student @ University of Michigan (CS Major)
+  * Glastonbury High School -> B.S. student of CS @ University of Michigan
 * **Varsha Rathore**, Fall 2020 - Spring 2021
     * Undergraduate Student, University of Connecticut
 * **Dylan Manchester**, Spring 2021
@@ -58,7 +66,7 @@
     * Undergraduate Student, University of Connecticut
     * Employment: Epic Systems, Software Engineer
 * **Chang Li**, 2018 - 2021, Co-advisor
-  * Ph.D Student, University of Sydney
+  * Ph.D. Student, University of Sydney
   * **KDD** x 1, **ICLR** x 1
   * Employment: JD Explore Academy, Research Scientist
 * **Wei Zhu**, May 2020 - Aug 2020, Intern at NEC Labs America

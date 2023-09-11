@@ -21,9 +21,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Machine Learning
-- Data Mining
-- Deep Learning
+- Machine Learning, Data Mining, Deep Learning
 - Time Series Analysis
 - Graph Representation Learning
 - Continual Learning
@@ -75,9 +73,9 @@ user_groups:
 #- Visitors
 ---
 
-I am an assistant professor in the Department of Computer Science and Engineering, [University of Connecticut](https://uconn.edu) (UConn). Before that, I was a research staff member at [NEC Labs America](http://www.nec-labs.com) in Princeton, NJ, since July 2016. In June 2016, I received my Ph.D. degree in the Department of Electrical and Computer Engineering from [University of California San Diego](https://www.ucsd.edu) (UCSD) with the guidance of [Prof. David A. Meyer](https://math.ucsd.edu/people/profiles/david-meyer/). My thesis committee includes [Prof. Lawrence Saul](https://cseweb.ucsd.edu/~saul/), [Prof. Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/), [Prof. Gert Lanckriet](http://eceweb.ucsd.edu/~gert/), and [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). I also work closely with [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) from the University of Sydney.
+I am an assistant professor in the Department of Computer Science and Engineering, [University of Connecticut](https://uconn.edu) (**UConn**). Before that, I was a research staff member at [NEC Labs America](http://www.nec-labs.com) in Princeton, NJ, since July 2016. In June 2016, I received my Ph.D. degree in the Department of Electrical and Computer Engineering from [University of California San Diego](https://www.ucsd.edu) (**UCSD**) with the guidance of [Prof. David A. Meyer](https://math.ucsd.edu/people/profiles/david-meyer/). My thesis committee includes [Prof. Lawrence Saul](https://cseweb.ucsd.edu/~saul/), [Prof. Nuno Vasconcelos](http://www.svcl.ucsd.edu/~nuno/), [Prof. Gert Lanckriet](http://eceweb.ucsd.edu/~gert/), and [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). I also work closely with [Prof. Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html) from the University of Sydney.
 
-I have broad research interests in machine learning, data mining, deep learning, time series analysis (e.g., representation, similarity search, prediction/forecasting, and anomaly detection), and graph representation learning. Recently, I am particular interested in continual learning on graphs, with a focus to evolving graphs, dynamic systems, and physical world (e.g., IoT systems, environmental science, etc.).
+I have broad research interests in **machine learning**, **data mining**, **deep learning**, **time series analysis** (e.g., representation, similarity search, prediction/forecasting, and anomaly detection), and **graph representation learning**. Recently, I am particular interested in **continual learning on graphs**, with a focus to evolving graphs, dynamic systems, and physical world (e.g., IoT systems, environmental science, etc.). Two of my papers [DARNN](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf) and [HetGNN](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf) have been ranked as the **most influential papers** in [IJCAI 2017](https://www.paperdigest.org/2023/04/most-influential-ijcai-papers-2023-04/) (2nd) and [KDD 2019](https://www.paperdigest.org/2023/04/most-influential-kdd-papers-2023-04/) (3rd) by paperdigest.org, respectively.
 
 **<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students in machine learning/graph representation learning/reinforcement learning to join our group at UCONN CSE! Please send me an email with your CV and transcript.***
 
@@ -93,13 +91,12 @@ I have broad research interests in machine learning, data mining, deep learning,
 
 + -->
 
-
 | News            |                                   |
 | --------------------| --------------------------------- |
-|`September 2023`| Received a Gift Fund from Morgan Stanley!|
-|`September 2023`| Received a Gift Fund from NEC Labs America!|
-|`August 2023`| One paper about Ricci Curvature based Continual Graph Learning is accepted to IEEE TNNLS! Congratulations to Xikun!|
-|`August 2023`| I will give a keynote talk about "Towards Continual Graph Learning" at Macau University!|
+|`September 2023`| Received a Gift Fund from **Morgan Stanley**!|
+|`September 2023`| Received a Gift Fund from **NEC Labs America**!|
+|`August 2023`| One paper about Ricci Curvature based Continual Graph Learning is accepted to **IEEE TNNLS**! Congratulations to Xikun!|
+|`August 2023`| I will give a keynote talk about "Towards Continual Graph Learning" at Macau University![Link](https://www.fst.um.edu.mo/event/towards-continual-graph-learning/)|
 |`August 2023`| I will give a keynote talk about "Towards Continual Graph Learning" at the 1st GLROW workshop in IJCAI 2023. [Link](https://sites.google.com/view/glow-ijcai-23/home)|
 |`August 2023`| Our 2nd AI for Time Series (AI4TS) workshop was successfully hold in IJCAI 2023 at Macau. [Link](https://ai4ts.github.io/ijcai2023)|
 |`July 2023`| I am invited to serve as Senior PC for AAAI 2024!|
@@ -109,4 +106,6 @@ I have broad research interests in machine learning, data mining, deep learning,
 |`June 2023`| One paper about Federated Learning is accepted to IROS 2023! Congratulations to all co-authors!|
 |`May 2023`| Yushan won CSE Predoctoral Fellowship for Outstanding Scholarly and Zijie won CSE Predoctoral Fellowship Honorable Mention! Congratulations to Yushan and Zijie! |
 |`May 2023`| One paper about Federated and Explainable Skill Learning is accepted to KDD 2023! Congratulations to Yushan and all co-authors!|
+|`April 2023`| I will present our "Continual Graph Learning" Tutorial at [SDM](https://meetings.siam.org/program.cfm?CONFCODE=SDM23) 2023 (Minneapolis, MN) and [The Web Conference](https://archives.iw3c2.org/www2023/) 2023 ( Austin, Texas)!|
+|`March 2023`|Invited to serve on a NSF IIS panel.|
 **[More News...](https://songdj.github.io/news/)**
