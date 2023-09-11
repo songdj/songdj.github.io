@@ -103,7 +103,7 @@ I have broad research interests in machine learning, data mining, deep learning,
 |`August 2023`| I will give a keynote talk about "Towards Continual Graph Learning" at the 1st GLROW workshop in IJCAI 2023. [Link](https://sites.google.com/view/glow-ijcai-23/home)|
 |`August 2023`| Our 2nd AI for Time Series (AI4TS) workshop was successfully hold in IJCAI 2023 at Macau. [Link](https://ai4ts.github.io/ijcai2023)|
 |`July 2023`| I am invited to serve as Senior PC for AAAI 2024!|
-|`June 2023`| I win the UCONN Scholarship Facilitation Fund (SFF) Award!|
+|`June 2023`| I won the UCONN Scholarship Facilitation Fund (SFF) Award!|
 |`June 2023`| One paper is accepted to ACM Transactions on Cyber Physical System (TCPS)! Congratulations to all co-authors!|
 |`June 2023`| Zijie, Yushan, and Qianying won GE Fellowship for Excellence! Congratulations to all!|
 |`June 2023`| One paper about Federated Learning is accepted to IROS 2023! Congratulations to all co-authors!|
