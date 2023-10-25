@@ -95,7 +95,7 @@ I have broad research interests in **machine learning**, **data mining**, **deep
 | News            |                                   |
 | --------------------| --------------------------------- |
 |`October 2023`| Our tutorial proposal entitled "Continual Learning on Graphs: Challenges, Solutions, and Opportunities" is accepted to **AAAI** 2024! |
-|`September 2023`| The 4th AI for Time Series (**AI4TS**) workshop will be hold in **AAAI** 2024! [Link](https://ai4ts.github.io/aaai2024)! |
+|`September 2023`| The 4th AI for Time Series (**AI4TS**) workshop will be hold in **AAAI** 2024! [Link](https://ai4ts.github.io/aaai2024) |
 |`September 2023`| Received a Gift Fund from **Morgan Stanley**! |
 |`September 2023`| Received a Gift Fund from **NEC Labs America**! |
 |`August 2023`| One paper about Ricci Curvature based Continual Graph Learning is accepted to **IEEE TNNLS**! Congratulations to Xikun! |
