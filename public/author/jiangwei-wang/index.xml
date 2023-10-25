@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jiangwei Wang | Dongjin Song</title>
+    <link>https://songdj.github.io/author/jiangwei-wang/</link>
+      <atom:link href="https://songdj.github.io/author/jiangwei-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jiangwei Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jiangwei Wang</title>
+      <link>https://songdj.github.io/author/jiangwei-wang/</link>
+    </image>
+    
+    <item>
+      <title>Towards Safe Autonomy in Hybrid Traffic Detecting Unpredictable Abnormal Behaviors of Human Drivers via Information Sharing</title>
+      <link>https://songdj.github.io/publication/tcps-23/</link>
+      <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/tcps-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy-preserving and Uncertainty-aware Federated Trajectory Prediction for Connected Autonomous Vehicles</title>
+      <link>https://songdj.github.io/publication/iros-23/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/iros-23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
