@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chang Li* | Dongjin Song</title>
+    <title>Chang Li | Dongjin Song</title>
     <link>https://songdj.github.io/author/chang-li/</link>
       <atom:link href="https://songdj.github.io/author/chang-li/index.xml" rel="self" type="application/rss+xml" />
-    <description>Chang Li*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <description>Chang Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Chang Li*</title>
+      <title>Chang Li</title>
       <link>https://songdj.github.io/author/chang-li/</link>
     </image>
+    
+    <item>
+      <title>HiT-MDP Learning the SMDP option framework on MDPs with Hidden Temporal Variables</title>
+      <link>https://songdj.github.io/publication/iclr-23-a/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/iclr-23-a/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Multi-task Recurrent Neural Network and Higher-order Markov Random Fields for Stock Price Prediction</title>

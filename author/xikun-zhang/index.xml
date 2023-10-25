@@ -5,12 +5,20 @@
     <link>https://songdj.github.io/author/xikun-zhang/</link>
       <atom:link href="https://songdj.github.io/author/xikun-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xikun Zhang*</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://songdj.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xikun Zhang*</title>
       <link>https://songdj.github.io/author/xikun-zhang/</link>
     </image>
+    
+    <item>
+      <title>Ricci Curvature based Graph Sparsification for Continual Graph Representation Learning</title>
+      <link>https://songdj.github.io/publication/tnnls-23/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://songdj.github.io/publication/tnnls-23/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CGLB: Benchmark Tasks for Continual Graph Learning</title>
