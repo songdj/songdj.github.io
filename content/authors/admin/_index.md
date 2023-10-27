@@ -110,5 +110,5 @@ I have broad research interests in **machine learning**, **data mining**, **deep
 |`May 2023`| Yushan won **CSE Predoctoral Fellowship** for Outstanding Scholarly and Zijie won **CSE Predoctoral Fellowship** Honorable Mention! Congratulations to Yushan and Zijie! |
 |`May 2023`| One paper about Federated and Explainable Skill Learning is accepted to **KDD** 2023! Congratulations to Yushan and all co-authors! |
 |`April 2023`| I will present our **Continual Graph Learning** Tutorial at [SDM](https://meetings.siam.org/program.cfm?CONFCODE=SDM23) 2023 (Minneapolis, MN) and [The Web Conference](https://archives.iw3c2.org/www2023/) 2023 ( Austin, Texas)! |
-|`March 2023`| Invited to serve on a **NSF IIS** panel! |
+|`March 2023`| Invited to serve on a **NSF** panel! |
 **[More News...](https://songdj.github.io/news/)**

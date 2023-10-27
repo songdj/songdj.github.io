@@ -18,7 +18,7 @@
 |`May 2023`| Our AI for Time Series (AI4TS) workshop was accepted at ICDM 2023! Please consider contribute to our workshop! [Link](https://ai4ts.github.io/icdm2023)!|
 |`April 2023`| I will present our **Continual Graph Learning** Tutorial at [SDM](https://meetings.siam.org/program.cfm?CONFCODE=SDM23) 2023 (Minneapolis, MN) and [The Web Conference](https://archives.iw3c2.org/www2023/) 2023 ( Austin, Texas)! |
 |`April 2023`| Our 9th Mining and Learning from Time Series Workshop was accepted at KDD 2023! Please consider contribute to our workshop! [Link](https://kdd-milets.github.io/milets2023/)! |
-|`March 2023`| Invited to serve on a **NSF IIS** panel! |
+|`March 2023`| Invited to serve on a **NSF** panel! |
 |`March 2023`| Our 2nd AI for Time Series (AI4TS) workshop is accepted at IJCAI 2023! Welcome to contribute to our workshop! [Link](https://ai4ts.github.io/ijcai2023)|
 |`Feb 2023`| One paper is accepted to Annual Conference on Information Sciences and System (CISS) 2023, Congratulations to Yushan!|
 |`Jan 2023`| Two papers are accepted to ICLR 2023! Congratulations to Chang, Yang, and all collaborators!|
