@@ -78,11 +78,9 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 
 I have broad research interests in **machine learning**, **data mining**, **deep learning**, **time series analysis** (e.g., representation, similarity search, prediction/forecasting, and anomaly detection), **graph representation learning**, and **reinforcement learning**. Recently, I am particular interested in (1) **continual learning on graphs**, with a focus on evolving graphs, dynamic systems, and physical world (e.g., IoT systems, environmental science, etc.) and (2) **federated learning, trustworthy reinforcement learning** with applications to healthcare and biomedical data. Two of my papers [DARNN](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf) and [HetGNN](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf) have been ranked as the **most influential papers** in [IJCAI 2017](https://www.paperdigest.org/2023/04/most-influential-ijcai-papers-2023-04/) (2nd) and [KDD 2019](https://www.paperdigest.org/2023/04/most-influential-kdd-papers-2023-04/) (3rd) by paperdigest.org, respectively.
 
-**<span style="color:#DE3163"> [Survey of LLMs for Time Series Analysis]: </span>** [Empowering Time Series Analysis with Large Language Models: A Survey](https://arxiv.org/pdf/2402.03182.pdf) [[Github]](https://github.com/UConn-DSIS/Empowering-Time-Series-Analysis-with-LLM)
-
-**<span style="color:#DE3163"> [Survey of Continual Learning on Graphs]: </span>** [Continual Learning on Graphs: Challenges, Solutions, and Opportunities](https://arxiv.org/pdf/2402.11565.pdf) [[Github]](https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs)
-
-**<span style="color:#DE3163"> [Recruiting]: </span>** ***Looking for Ph.D. students in machine learning/graph representation learning/time series analysis/reinforcement learning to join our group! Please send me an email with your CV and transcript.***
+**<span style="color:#DE3163"> *[Survey of LLMs for Time Series Analysis]: </span>** **Empowering Time Series Analysis with Large Language Models: A Survey**[[Paper]](https://arxiv.org/pdf/2402.03182.pdf) [[Github]](https://github.com/UConn-DSIS/Empowering-Time-Series-Analysis-with-LLM)
+**<span style="color:#DE3163"> *[Survey of Continual Learning on Graphs]: </span>** **Continual Learning on Graphs: Challenges, Solutions, and Opportunities**[[Paper]](https://arxiv.org/pdf/2402.11565.pdf) [[Github]](https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs)
+**<span style="color:#DE3163"> *[Recruiting]: </span>** ***Looking for Ph.D. students in machine learning/graph representation learning/time series analysis/reinforcement learning to join our group! Please send me an email with your CV and transcript.***
 
 <!-- +
 
