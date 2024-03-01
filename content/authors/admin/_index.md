@@ -78,6 +78,10 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 
 I have broad research interests in **machine learning**, **data mining**, **deep learning**, **time series analysis** (e.g., representation, similarity search, prediction/forecasting, and anomaly detection), **graph representation learning**, and **reinforcement learning**. Recently, I am particular interested in (1) **continual learning on graphs**, with a focus on evolving graphs, dynamic systems, and physical world (e.g., IoT systems, environmental science, etc.) and (2) **federated learning, trustworthy reinforcement learning** with applications to healthcare and biomedical data. Two of my papers [DARNN](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf) and [HetGNN](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf) have been ranked as the **most influential papers** in [IJCAI 2017](https://www.paperdigest.org/2023/04/most-influential-ijcai-papers-2023-04/) (2nd) and [KDD 2019](https://www.paperdigest.org/2023/04/most-influential-kdd-papers-2023-04/) (3rd) by paperdigest.org, respectively.
 
+**Our survey about LLMs for Time Series Analysis:**[Empowering Time Series Analysis with Large Language Models: A Survey](https://arxiv.org/pdf/2402.03182.pdf) [Github](https://github.com/UConn-DSIS/Empowering-Time-Series-Analysis-with-LLM)
+
+**Our survey with Continual Learning on Graphs:** [Continual Learning on Graphs: Challenges, Solutions, and Opportunities](https://arxiv.org/pdf/2402.11565.pdf) [Github](https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs)
+
 **<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students in machine learning/graph representation learning/time series analysis/reinforcement learning to join our group! Please send me an email with your CV and transcript.***
 
 <!-- +
@@ -96,16 +100,11 @@ I have broad research interests in **machine learning**, **data mining**, **deep
 | --------------------| --------------------------------- |
 |`February 2024`| I am thrilled to have won the prestigious **NSF Career Award**! [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338878&HistoricalAwards=false)|
 |`February 2024`| The 4th AI for Time Series (**AI4TS**) workshop is successfully hold in **AAAI** 2024! [Link](https://ai4ts.github.io/aaai2024) |
-|`February 2024`| I give a tutorial entitled "Continual Learning on Graphs: Challenges, Solutions, and Opportunities" in **AAAI** 2024! [Link](https://queuq.github.io/CGL_AAAI2024/) |
+|`February 2024`| I will give a tutorial entitled "Continual Learning on Graphs: Challenges, Solutions, and Opportunities" in **AAAI** 2024! [Link](https://queuq.github.io/CGL_AAAI2024/) |
 |`January 2024`| Welcome Mr. Xuyang Shen from UCSD to join our DSIS group! |
-|`January 2024`| One paper about graph OOD problem is accepted to **ICLR** 2024 as spotlight! Congratulations to all co-authors! |
+|`January 2024`| One paper to tackle Test-time Graph Distribution Shifts problem is accepted to **ICLR** 2024 as **spotlight**! Congratulations to all co-authors! [Link](https://openreview.net/forum?id=KbetDM33YG) |
 |`December 2023`| My student Anshul Rastogi is selected as the finalist for UConn Holster Scholar!|
 |`December 2023`| I am invited to serve on a NSF Panel! |
 |`December 2023`| One paper about spatial-temporal forecasting is accepted to **SDM** 2024! Congratulations to all co-authors! |
 |`December 2023`| I will give a talk about "Towards Continual Learning on Graphs" at The University of Arizona! [link](https://eller.arizona.edu/events/mis-speakers-series-dongjin-song)|
-|`November 2023`| Our AI for Time Series (**AI4TS**) workshop is accepted to **SDM** 2024! [Link](https://ai4ts.github.io/sdm2024)|
-|`November 2023`| I am invited to serve as a Senior PC for **IJCAI** 2024! |
-|`October 2023`| Our tutorial proposal entitled "Continual Learning on Graphs: Challenges, Solutions, and Opportunities" is accepted to **AAAI** 2024! |
-|`September 2023`| Received a Gift Fund from **Morgan Stanley**! |
-|`September 2023`| Received a Gift Fund from **NEC Labs America**! |
 **[More News...](https://songdj.github.io/news/)**

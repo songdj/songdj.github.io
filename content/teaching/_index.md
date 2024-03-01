@@ -2,7 +2,8 @@
 
 | Time         |  IDs          | Course Names                  |
 | ------------------| ------------------- |--------------------------------- |
-| `Fall 2023`     | CSE 2500    | Introduction to Discrete Systems       |
+| `Spring 2024`     | CSE 4095    | Introduction to Data Science & Engineering |
+| `Fall 2023`     | CSE 2500    | Introduction to Discrete Systems (Evaluation: 4.0/5.0) |
 |`Spring 2023` |  CSE 5713 | Data Mining (Evaluation: 4.5/5.0) |
 | `Fall 2022`     | CSE 2500    | Introduction to Discrete Systems    (Evaluation: 3.7/5.0)   |
 |`Spring 2022` |  CSE 5713 | Data Mining (Evaluation: 4.3/5.0) |

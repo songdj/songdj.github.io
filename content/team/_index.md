@@ -31,6 +31,8 @@
   * **IEEE T-PAMI** x 1, **IEEE T-NNLS** x 1, **NeurIPS** x 1, **ICDM** x 1
   * Tutorials at **WWW** 2023 and **SDM** 2023
 * **Yamila Garcia**, Master student, Spring 2024 -
+* **Xinhao Wang**, Master student, Spring 2024 -
+
 
 
 **<span style="color:#DE3163">Undergraduate Students</span>**
