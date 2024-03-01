@@ -1,5 +1,16 @@
 | News            |                                   |
 | --------------------| ---------------------------------------------------- |
+|`February 2024`| I am thrilled to have won the prestigious **NSF Career Award**! [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338878&HistoricalAwards=false)|
+|`February 2024`| The 4th AI for Time Series (**AI4TS**) workshop is successfully hold in **AAAI** 2024! [Link](https://ai4ts.github.io/aaai2024) |
+|`February 2024`| I give a tutorial entitled "Continual Learning on Graphs: Challenges, Solutions, and Opportunities" in **AAAI** 2024! [Link](https://queuq.github.io/CGL_AAAI2024/) |
+|`January 2024`| Welcome Mr. Xuyang Shen from UCSD to join our DSIS group! |
+|`January 2024`| One paper about graph OOD problem is accepted to **ICLR** 2024 as spotlight! Congratulations to all co-authors! |
+|`December 2023`| My student Anshul Rastogi is selected as the finalist for UConn Holster Scholar!|
+|`December 2023`| I am invited to serve on a NSF Panel! |
+|`December 2023`| One paper about spatial-temporal forecasting is accepted to **SDM** 2024! Congratulations to all co-authors! |
+|`December 2023`| I will give a talk about "Towards Continual Learning on Graphs" at The University of Arizona! [link](https://eller.arizona.edu/events/mis-speakers-series-dongjin-song)|
+|`November 2023`| Our AI for Time Series (**AI4TS**) workshop is accepted to **SDM** 2024! [Link](https://ai4ts.github.io/sdm2024)|
+|`November 2023`| I am invited to serve as a Senior PC for **IJCAI** 2024! |
 |`October 2023`| Our tutorial proposal entitled "Continual Learning on Graphs: Challenges, Solutions, and Opportunities" is accepted to **AAAI** 2024! |
 |`September 2023`| The 4th AI for Time Series (**AI4TS**) workshop will be hold in **AAAI** 2024! [Link](https://ai4ts.github.io/aaai2024) |
 |`September 2023`| Received a Gift Fund from **Morgan Stanley**! |

@@ -78,7 +78,7 @@ I am an assistant professor in the Department of Computer Science and Engineerin
 
 I have broad research interests in **machine learning**, **data mining**, **deep learning**, **time series analysis** (e.g., representation, similarity search, prediction/forecasting, and anomaly detection), **graph representation learning**, and **reinforcement learning**. Recently, I am particular interested in (1) **continual learning on graphs**, with a focus on evolving graphs, dynamic systems, and physical world (e.g., IoT systems, environmental science, etc.) and (2) **federated learning, trustworthy reinforcement learning** with applications to healthcare and biomedical data. Two of my papers [DARNN](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf) and [HetGNN](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf) have been ranked as the **most influential papers** in [IJCAI 2017](https://www.paperdigest.org/2023/04/most-influential-ijcai-papers-2023-04/) (2nd) and [KDD 2019](https://www.paperdigest.org/2023/04/most-influential-kdd-papers-2023-04/) (3rd) by paperdigest.org, respectively.
 
-**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students in machine learning/graph representation learning/reinforcement learning to join our group at UCONN CSE! Please send me an email with your CV and transcript.***
+**<span style="color:#DE3163"> Recruiting: </span>** ***Looking for Ph.D. students in machine learning/graph representation learning/time series analysis/reinforcement learning to join our group! Please send me an email with your CV and transcript.***
 
 <!-- +
 
@@ -94,21 +94,18 @@ I have broad research interests in **machine learning**, **data mining**, **deep
 
 | News            |                                   |
 | --------------------| --------------------------------- |
+|`February 2024`| I am thrilled to have won the prestigious **NSF Career Award**! [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338878&HistoricalAwards=false)|
+|`February 2024`| The 4th AI for Time Series (**AI4TS**) workshop is successfully hold in **AAAI** 2024! [Link](https://ai4ts.github.io/aaai2024) |
+|`February 2024`| I give a tutorial entitled "Continual Learning on Graphs: Challenges, Solutions, and Opportunities" in **AAAI** 2024! [Link](https://queuq.github.io/CGL_AAAI2024/) |
+|`January 2024`| Welcome Mr. Xuyang Shen from UCSD to join our DSIS group! |
+|`January 2024`| One paper about graph OOD problem is accepted to **ICLR** 2024 as spotlight! Congratulations to all co-authors! |
+|`December 2023`| My student Anshul Rastogi is selected as the finalist for UConn Holster Scholar!|
+|`December 2023`| I am invited to serve on a NSF Panel! |
+|`December 2023`| One paper about spatial-temporal forecasting is accepted to **SDM** 2024! Congratulations to all co-authors! |
+|`December 2023`| I will give a talk about "Towards Continual Learning on Graphs" at The University of Arizona! [link](https://eller.arizona.edu/events/mis-speakers-series-dongjin-song)|
+|`November 2023`| Our AI for Time Series (**AI4TS**) workshop is accepted to **SDM** 2024! [Link](https://ai4ts.github.io/sdm2024)|
+|`November 2023`| I am invited to serve as a Senior PC for **IJCAI** 2024! |
 |`October 2023`| Our tutorial proposal entitled "Continual Learning on Graphs: Challenges, Solutions, and Opportunities" is accepted to **AAAI** 2024! |
-|`September 2023`| The 4th AI for Time Series (**AI4TS**) workshop will be hold in **AAAI** 2024! [Link](https://ai4ts.github.io/aaai2024) |
 |`September 2023`| Received a Gift Fund from **Morgan Stanley**! |
 |`September 2023`| Received a Gift Fund from **NEC Labs America**! |
-|`August 2023`| One paper about Ricci Curvature based Continual Graph Learning is accepted to **IEEE TNNLS**! Congratulations to Xikun! |
-|`August 2023`| I will give a keynote talk about **Towards Continual Graph Learning** at Macau University! [Link](https://www.fst.um.edu.mo/event/towards-continual-graph-learning/) |
-|`August 2023`| I will give a keynote talk about **Towards Continual Graph Learning** at the 1st GLROW workshop in IJCAI 2023! [Link](https://sites.google.com/view/glow-ijcai-23/home) |
-|`August 2023`| Our 2nd AI for Time Series (**AI4TS**) workshop was successfully hold in **IJCAI** 2023 at Macau. [Link](https://ai4ts.github.io/ijcai2023) |
-|`July 2023`| I am invited to serve as Senior PC for **AAAI** 2024!|
-|`June 2023`| I won the UCONN Scholarship Facilitation Fund (**SFF**) Award! |
-|`June 2023`| One paper is accepted to ACM Transactions on Cyber Physical System (**TCPS**)! Congratulations to all co-authors! |
-|`June 2023`| Zijie, Yushan, and Qianying won **GE Fellowship for Excellence**! Congratulations to all! |
-|`June 2023`| One paper about Federated Learning is accepted to **IROS** 2023! Congratulations to all co-authors! |
-|`May 2023`| Yushan won **CSE Predoctoral Fellowship** for Outstanding Scholarly and Zijie won **CSE Predoctoral Fellowship** Honorable Mention! Congratulations to Yushan and Zijie! |
-|`May 2023`| One paper about Federated and Explainable Skill Learning is accepted to **KDD** 2023! Congratulations to Yushan and all co-authors! |
-|`April 2023`| I will present our **Continual Graph Learning** Tutorial at [SDM](https://meetings.siam.org/program.cfm?CONFCODE=SDM23) 2023 (Minneapolis, MN) and [The Web Conference](https://archives.iw3c2.org/www2023/) 2023 ( Austin, Texas)! |
-|`March 2023`| Invited to serve on a **NSF** panel! |
 **[More News...](https://songdj.github.io/news/)**
