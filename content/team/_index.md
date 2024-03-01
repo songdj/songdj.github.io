@@ -47,12 +47,11 @@
 **<span style="color:#DE3163">Former Members</span>**
 
 * **Susmita Ojha**, Fall 2022 - Spring 2023
-    * Master Student, University of Connecticut
+  * Master Student, University of Connecticut
 * **Sebastiano Alderucci**, Fall 2022 - Spring 2023
-    * Master Student, University of Connecticut
+  * Master Student, University of Connecticut
 * **Madani Mohammad**, Fall 2022 - Fall 2023
-    * Master Student, University of Connecticut
-
+  * Master Student, University of Connecticut
 * **Chang Li**, 2018 - 2021, Co-advisor
   * Ph.D. Student, University of Sydney
   * **KDD** x 1, **ICLR** x 1
@@ -77,25 +76,22 @@
   * Ph.D student, University of California San Diego
   * **IJCAI** x 1, Patent x 1, Patent App x 1
   * Employment: [Google Brain](https://research.google/teams/brain/), Research Scientist
-
 * **Okem Chime**, Summer 2023 - Fall 2023
-    * Undergraduate Student, University of Connecticut
+  * Undergraduate Student, University of Connecticut
 * **Rahul Bhagwani**, Spring 2022 - Spring 2023
-    * Undergraduate Student, University of Connecticut
+  * Undergraduate Student, University of Connecticut
 * **Varsha Rathore**, Fall 2020 - Spring 2021
-    * Undergraduate Student, University of Connecticut
+  * Undergraduate Student, University of Connecticut
 * **Dylan Manchester**, Spring 2021
-    * Undergraduate Student, University of Connecticut
+  * Undergraduate Student, University of Connecticut
 * **Eric Wang**, Spring 2021, Honors Thesis
-    * Undergraduate Student, University of Connecticut
-    * Employment: Epic Systems, Software Engineer
-
+  * Undergraduate Student, University of Connecticut
+  * Employment: Epic Systems, Software Engineer
 * **Spencer Danese**, Summer 2023 - Fall 2023
-    * Glastonbury High School
+  * Glastonbury High School
 * **Jay Tummala**, Summer 2023 - Fall 2023
-    * Glastonbury High School
+  * Glastonbury High School
 * **Jason Zhou**, Fall 2021 - Spring 2022,
-    * Glastonbury High School -> B.S. student of CS @ University of Michigan
-
+  * Glastonbury High School -> B.S. student of CS @ University of Michigan
 * **Hangyue Li**, Summer 2021 - Spring 2022, Remote Intern
-    * UESTC -> CS Ph.D. student of CS @ Washington University in St. Louis
+  * UESTC -> CS Ph.D. student of CS @ Washington University in St. Louis
