@@ -5,7 +5,6 @@ publishDate: 2020-08-09T05:55:58.266121Z
 authors: ["Dongjin Song", "David A. Meyer"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: False
 publication: "*Social Networks Analysis and Mining (SNAM)*"
 ---
-

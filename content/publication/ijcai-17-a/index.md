@@ -5,6 +5,6 @@ publishDate: 2020-08-09T05:55:58.260563Z
 authors: ["Yao Qin*", "Dongjin Song", "Haifeng Chen", "Wei Cheng", "Guofei Jiang", "Garrison W. Cottrel"]
 publication_types: ["1"]
 abstract: ""
-featured: true
+featured: True
 publication: "*Proceedings of  the  26th  International  Joint  Conference  on  Artificial  Intelligence  (IJCAI)*"
 ---

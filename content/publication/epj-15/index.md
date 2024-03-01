@@ -5,7 +5,6 @@ publishDate: 2020-08-09T05:55:58.266516Z
 authors: ["Rex Douglass", "David A. Meyer", "Megha Ram", "David Rideout", "Dongjin Song"]
 publication_types: ["2"]
 abstract: ""
-featured: false
+featured: False
 publication: "*EPJ Data Science*"
 ---
-

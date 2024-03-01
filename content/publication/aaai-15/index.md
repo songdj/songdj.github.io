@@ -5,6 +5,6 @@ publishDate: 2020-08-09T05:55:58.263851Z
 authors: ["Dongjin Song", "David A. Meyer"]
 publication_types: ["1"]
 abstract: ""
-featured: true
+featured: False
 publication: "*Proceedings of 29th AAAI Conference on Artificial Intelligence (AAAI)*"
 ---

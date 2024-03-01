@@ -5,6 +5,6 @@ publishDate: 2020-08-09T05:55:58.263416Z
 authors: ["Dongjin Song", "Wei Liu", "Rongrong Ji", "David A. Meyer", "John R. Smith"]
 publication_types: ["1"]
 abstract: ""
-featured: true
+featured: False
 publication: "*Proceedings of the IEEE International Conference on Computer Vision (ICCV)*"
 ---
