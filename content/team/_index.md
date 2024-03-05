@@ -4,8 +4,10 @@
 
 **<span style="color:#DE3163">Graduate Students</span>**
 
+<!-- +
 * **Kanghui Ning**, Ph.D. student, Fall 2024 -
   * BE from UESTC and MS from Huazhong University of Science and Technology (HUST)
++ -->
 * **Xuyang Shen**, Ph.D. student, Spring 2024 -
   * BE from UESTC and MS from University of California San Diego (UCSD)
 * **Zijie Pan**, Ph.D. student, Fall 2022 -

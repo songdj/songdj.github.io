@@ -1,6 +1,5 @@
 | News            |                                   |
 | --------------------| ---------------------------------------------------- |
-|`March 2024`| Yushan will take an internship at NEC Laboratories America, and Kanghui will take an internship at Alibaba's Ant Group in this upcoming summer! Congratulations to both! |
 |`February 2024`| I am thrilled to have won the prestigious **NSF Career Award**! [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338878&HistoricalAwards=false)|
 |`February 2024`| The 4th AI for Time Series (**AI4TS**) workshop is successfully hold in **AAAI** 2024! [Link](https://ai4ts.github.io/aaai2024) |
 |`February 2024`| I will give a tutorial entitled "Continual Learning on Graphs: Challenges, Solutions, and Opportunities" in **AAAI** 2024! [Link](https://queuq.github.io/CGL_AAAI2024/) |
