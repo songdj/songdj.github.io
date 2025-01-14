@@ -43,9 +43,9 @@
 
 #### Organization Committee/Program (Co-)Chairs
 
-* Social Media Co-Chair of ICDM 2025
-* LLM Track Co-Chair of PAKDD 2025
-* Registration Co-Chair of IEEE Big Data 2024
+* Social Media Co-Chair, ICDM 2025
+* LLM Track Co-Chair, PAKDD 2025
+* Registration Co-Chair, IEEE Big Data 2024
 * AAAI 2025 Workshop: AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/aaai2025)
 * KDD 2024 Workshop: 10th International Workshop on Mining and Learning from Time Series [Link](https://kdd-milets.github.io/milets2024/)
 * IJCAI 2024 Workshop: AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/ijcai2024)

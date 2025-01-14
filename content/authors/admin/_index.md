@@ -54,7 +54,7 @@ social:
 #  icon_pack: fab
 #  link: https://twitter.com/song_dongjin
 - icon: google-scholar
-  icon_pack: fai
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=BJdHw6AAAAAJ&hl=en
 - icon: github
   icon_pack: fab
@@ -77,7 +77,7 @@ user_groups:
 
 I am a tenure-track assistant professor in the School of Computing, [University of Connecticut](https://uconn.edu) (**UConn**) since August 2020. Before that, I was a research staff member at [NEC Labs America](http://www.nec-labs.com) in Princeton, NJ, since July 2016. I received my Ph.D. degree in the Department of Electrical and Computer Engineering from [University of California San Diego](https://www.ucsd.edu) (**UCSD**) with the guidance of [Prof. David A. Meyer](https://math.ucsd.edu/people/profiles/david-meyer/) in June 2016. I also work closely with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343) from Nanyang Technological University (NTU).
 
-My research focuses on developing AI and machine learning models in the form of continual learning, graph machine learning, domain generalization, reinforcement learning, LLMs, and foundation models, to perform **time series analysis** (e.g., representation, similarity search, prediction/forecasting, and anomaly detection), **graph representation learning**, and **decision making**, making them more effective, trustworthy, interpretable, and robust for continuously evolving real world applications (e.g., evolving graphs, dynamic systems, physical world, IoT systems, environmental science, healthcare and biomedical data). Three of my papers [DARNN](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf), [HetGNN](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf), and [MSCRED](https://songdj.github.io/publication/aaai-19/aaai-19.pdf) have been ranked as the **most influential papers** in [IJCAI 2017](https://www.paperdigest.org/2024/05/most-influential-ijcai-papers-2024-05/), [KDD 2019](https://www.paperdigest.org/2024/05/most-influential-kdd-papers-2024-05/), and [AAAI 2019](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/) by paperdigest.org, respectively. I received the prestigious **NSF Career Award** in 2024 and **Frontiers of Science Award (FSA)** in the same year. I also received UCONN Research Excellence Program (REP) Award in 20
+My research focuses on developing AI and machine learning models in the form of continual learning, graph machine learning, domain generalization, reinforcement learning, LLMs, and foundation models, to perform **time series analysis** (e.g., representation, similarity search, prediction/forecasting, and anomaly detection), **graph representation learning**, and **decision making**, making them more effective, trustworthy, interpretable, and robust for continuously evolving real world applications (e.g., evolving graphs, dynamic systems, physical world, IoT systems, environmental science, healthcare and biomedical data). Three of my papers [DARNN](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf), [HetGNN](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf), and [MSCRED](https://songdj.github.io/publication/aaai-19/aaai-19.pdf) have been ranked as the **most influential papers** in [IJCAI 2017](https://www.paperdigest.org/2024/05/most-influential-ijcai-papers-2024-05/), [KDD 2019](https://www.paperdigest.org/2024/05/most-influential-kdd-papers-2024-05/), and [AAAI 2019](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/) by paperdigest.org, respectively. I received the prestigious **NSF Career Award** in 2024 and **Frontiers of Science Award (FSA)** in the same year. I also received UCONN Research Excellence Program (REP) Award in 2021.
 
 
 **<span style="color:#DE3163"> [Survey of LLMs for Time Series Analysis]: </span>** **Empowering Time Series Analysis with Large Language Models: A Survey**[[Paper]](https://arxiv.org/pdf/2402.03182.pdf) [[Github]](https://github.com/UConn-DSIS/Empowering-Time-Series-Analysis-with-LLM)
@@ -122,7 +122,7 @@ I have broad research interests in **machine learning**, **data mining**, **deep
 |`June 2024`| One tutorial and survey paper is accepted to KDD 2025|
 |`June 2024`| I am invited to serve as an Area Chair for ICDM 2025! |
 |`May 2024`| One paper about LLMs for time series prediction is accepted to ICML 2024 and one paper about continual learning on graph is accepted to KDD 2024! Congrats to all co-authors|
-|`May 2024`|  Yushan will intern @ NEC Labs America, Kanghui will intern @ Ant Financial, and Zijie will intern @ Eversource in this summer! Congratulations to all! |
+|`May 2024`|  Yushan will intern @ NEC Labs America, Kanghui will intern @ Alibaba Ant Financial, and Zijie will intern @ Eversource in this summer!|
 |`May 2024`| I am invited to give a keynote talk about *Towards Knowledge Informed Time Series Forecasting* at International Workshop on Temporal Analytics @ PAKDD 2024! [Link](https://monashts.github.io/International-Workshop-on-Temporal-Analytics/)|
 |`May 2024`| My student Anshul Rastogi won Holster Scholar at UConn (Most prestigious award for freshman). Congratulations! [Link](https://computing.engineering.uconn.edu/2024/05/09/sophomore-anshul-rastogi-named-holster-scholar/)|
 |`May 2024`| I am invited to serve on a DOE panel.|
