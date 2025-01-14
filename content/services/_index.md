@@ -58,7 +58,18 @@
 * IJCAI 2022 Workshop: The 1st AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/)
 * WSDM 2022 Workshop: Federated Learning for Private Web Search and Data Mining (FL4P-WSDM) [Link](https://fl4p-wsdm.github.io/)
 
+#### Area Chairs/Senior Program Committee Members
+
+* International Joint Conference on Artificial Intelligence (IJCAI) 2025 (Area Chair)
+* IEEE International Conference on Data Mining (ICDM) (Area Chair)
+* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021 - 2025 (SPC)
+* International Joint Conference on Artificial Intelligence (IJCAI) 2021, 2023-2024 (SPC)
+* ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track) (SPC)
+
 #### Session Chairs
+
+* IEEE Big Data 2024: Foundation Models for Big Data
+* IEEE Big Data 2024: Deep Learning I
 * IJCAI 2024: Anomaly/Outlier Detection
 * SDM 2024: Reinforcement Learning and Representation Learning
 * KDD 2023: Causal Structure Learning
@@ -72,14 +83,6 @@
 * ICDM 2020: E-Learning and E-Commerce
 * AAAI 2019: Transfer/Adaptation/Multitask Learning
 * AAAI 2019: Vision and Video Analysis
-
-#### Area Chairs/Senior Program Committee Members
-
-* International Joint Conference on Artificial Intelligence (IJCAI) 2025 (Area Chair)
-* IEEE International Conference on Data Mining (ICDM) (Area Chair)
-* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021 - 2025 (SPC)
-* International Joint Conference on Artificial Intelligence (IJCAI) 2021, 2023-2024 (SPC)
-* ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track) (SPC)
 
 #### Program Committee Members
 
