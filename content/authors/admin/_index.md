@@ -50,9 +50,9 @@ social:
   icon_pack: fas
   link: "mailto:dongjin.song@uconn.edu"
   #'#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/song_dongjin
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/song_dongjin
 - icon: google-scholar
   icon_pack: fai
   link: https://scholar.google.com/citations?user=BJdHw6AAAAAJ&hl=en

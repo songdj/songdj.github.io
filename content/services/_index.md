@@ -1,12 +1,21 @@
 ## Services
 
+### Panelist
+* NSF 2023, 2024
+* DOE 2024
+
 ### Editorial Board - Journals
 
-* Associate Editor, Neurocomputing (Elsevier) (IF=5.719), from 12/2022 - Present
+* Associate Editor, Neural Networks (IF=6.0), from 01/2025 - Present
+* Associate Editor, Pattern Recognition (IF=7.5), from 04/2024 - Present
+* Associate Editor, Neurocomputing (IF=5.719), from 12/2022 - 04/2024
 
 ### Referee-Journals
 
+* Nature Communication
+* Nature Communication Physics
 * Journal of Machine Learning Research
+* Transactions on Machine Learning Research
 * IEEE Transactions on Pattern Analysis and Machine Intelligence
 * IEEE Transactions on Knowledge and Data Engineering
 * IEEE Transactions on Neural Networks and Learning System
@@ -32,7 +41,15 @@
 
 ### Referee-Conferences
 
-#### Organizers/Program (Co-)Chairs
+#### Organization Committee/Program (Co-)Chairs
+
+* Social Media Co-Chair of ICDM 2025
+* LLM Track Co-Chair of PAKDD 2025
+* Registration Co-Chair of IEEE Big Data 2024
+
+* AAAI 2025 Workshop: AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/aaai2025)
+* KDD 2024 Workshop: 10th International Workshop on Mining and Learning from Time Series [Link](https://kdd-milets.github.io/milets2024/)
+* IJCAI 2024 Workshop: AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/ijcai2024)
 * SDM 2024 Workshop: The 5th AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/sdm2024)
 * AAAI 2024 Workshop: The 4th AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/aaai2024)
 * ICDM 2023 Workshop: The 3rd AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/icdm2023)
@@ -43,6 +60,8 @@
 * WSDM 2022 Workshop: Federated Learning for Private Web Search and Data Mining (FL4P-WSDM) [Link](https://fl4p-wsdm.github.io/)
 
 #### Session Chairs
+* IJCAI 2024: Anomaly/Outlier Detection
+* SDM 2024: Reinforcement Learning and Representation Learning
 * KDD 2023: Causal Structure Learning
 * AAAI 2023: Time Series/Data Streams
 * AAAI 2023: Mining of Spatial, Temporal or Spatio-temporal Data
@@ -55,21 +74,23 @@
 * AAAI 2019: Transfer/Adaptation/Multitask Learning
 * AAAI 2019: Vision and Video Analysis
 
-#### Senior Program Committee Members
+#### Area Chairs/Senior Program Committee Members
 
-* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021 - 2024
-* International Joint Conference on Artificial Intelligence (IJCAI) 2021, 2023-2024
-* ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track)
+* International Joint Conference on Artificial Intelligence (IJCAI) 2025 (Area Chair)
+* IEEE International Conference on Data Mining (ICDM) (Area Chair)
+* AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021 - 2025 (SPC)
+* International Joint Conference on Artificial Intelligence (IJCAI) 2021, 2023-2024 (SPC)
+* ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track) (SPC)
 
 #### Program Committee Members
 
-* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2019 - 2024
+* ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2019 - 2025
 * AAAI Conference on Artificial Intelligence (AAAI) 2017 - 2020
 * International Joint Conference on Artificial Intelligence (IJCAI) 2015, 2017-2020, 2022
-* International Joint Conference on Artificial Intelligence (IJCAI) - Survey Track 2019-2024
+* International Joint Conference on Artificial Intelligence (IJCAI) - Survey Track 2019-2025
 * ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR) 2020
-* IEEE International Conference on Data Mining (ICDM) 2017 - 2023
-* SIAM International Conference on Data Mining (SDM) 2017 - 2024
+* IEEE International Conference on Data Mining (ICDM) 2017 - 2024
+* SIAM International Conference on Data Mining (SDM) 2017 - 2025
 * ACM International WSDM Conference (WSDM) 2020, 2021, 2023
 * Conference on Empirical Methods in Natural Language Processing (EMNLP) 2021, 2023
 * The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) 2020
@@ -85,9 +106,9 @@
 
 #### Reviewers
 
-* International Conference on Machine Learning (ICML) 2021-2024
-* Neural Information Processing Systems (NeurIPS) 2020-2023
-* International Conference on Learning Representations (ICLR) 2021-2024
+* International Conference on Machine Learning (ICML) 2021-2025
+* Neural Information Processing Systems (NeurIPS) 2020-2024
+* International Conference on Learning Representations (ICLR) 2021-2025
 * IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2019-2024
 * IEEE International Conference on Computer Vision (ICCV) 2019
 * Europe Conference on Computer Vision (ECCV) 2020, 2022, 2024
