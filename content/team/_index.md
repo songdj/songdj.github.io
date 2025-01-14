@@ -11,6 +11,7 @@
 * **Zijie Pan**, Ph.D. student, Fall 2022 -
   * BS and MS from University of Virginia
   * **GE Fellowship** for Excellence 2023
+  * **ICML** x 1, **IJCAI** x 1
   * **UConn CSE Predoctoral Fellowship** (Honorable Mention), 2023
   * Tutorials at **WWW** 2023 and **SDM** 2023
 * [**Yushan Jiang**](https://sites.google.com/view/jayjiang/home), Ph.D. student, Spring 2022 -
@@ -18,7 +19,7 @@
   * **GE Fellowship** for Excellence 2023
   * **UConn CSE Predoctoral Fellowship** (Outstanding Scholarly and Research Accomplishments), 2023
   * **GE Fellowship** for Next Gen Scholar, 2022
-  * **KDD** x 1, **IJCAI** x 1, **CISS** x 1,
+  * **KDD** x 1, **IJCAI** x 1, **CISS** x 1
   * Tutorials at **KDD** 2024, **WWW** 2023 and **SDM** 2023
 * **Qianying Ren**, Ph.D. student, Fall 2021 -
   * BS from Huazhong Agricultural University
@@ -34,6 +35,7 @@
 
 * **Anshul Rastogi**, Fall 2023 -
 * **Brendan Barnett**, Fall 2023 -
+* **Ryan Lagasse**, Fall 2023 -
 
 **<span style="color:#DE3163">High School Students</span>**
 
@@ -43,10 +45,10 @@
 **<span style="color:#DE3163">Former Members</span>**
 
 * **Xikun Zhang** (Co-advisor), Ph.D. student, June 2020 - Spring 2024
-    * BS from USTC and MS from University of Sydney
-    * **IEEE T-PAMI** x 1, **IEEE T-NNLS** x 1, **NeurIPS** x 1, **KDD** x 1, **ICDM** x 1
-    * Tutorials at **AAAI** 2024, **IJCAI** 2024, **WWW** 2023 and **SDM** 2023
-    * Employment: Nanyang Technological University, Presidential Postdoc
+  * BS from USTC and MS from University of Sydney
+  * **IEEE T-PAMI** x 1, **IEEE T-NNLS** x 1, **NeurIPS** x 1, **KDD** x 1, **ICDM** x 1
+  * Tutorials at **AAAI** 2024, **IJCAI** 2024, **WWW** 2023 and **SDM** 2023
+  * Employment: Nanyang Technological University, Presidential Postdoc
 * **Chang Li**, 2018 - 2021, Co-advisor
   * Ph.D. Student, University of Sydney
   * **KDD** x 1, **ICLR** x 1
@@ -88,7 +90,6 @@
   * Undergraduate Student, University of Connecticut
 * **Eric Wang**, Spring 2021, Honors Thesis
   * Undergraduate Student, University of Connecticut
-  * Employment: Epic Systems, Software Engineer
 * **Arnav Kumar**, Summer 2023 - Fall 2023
   * South Windsor High School
 * **Spencer Danese**, Summer 2023 - Fall 2023

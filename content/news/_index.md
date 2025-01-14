@@ -1,10 +1,40 @@
 | News            |                                   |
 | --------------------| ---------------------------------------------------- |
-|`February 2024`| I am thrilled to have won the prestigious **NSF Career Award**! [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338878&HistoricalAwards=false)|
+|`January 2025`| I am invited to serve as an Associate Editor for the journal Neural Networks! |
+|`December 2024`| I gave a keynote talk about **Towards Data-Centric Time Series Analysis** at DCAI workshop @ IEEE Big Data 2024! [Link](https://data-centric-ai-dev.github.io/BigData2024/) |
+|`December 2024`| I gave a keynote talk about **Towards Continual Learning on Graphs** at RobustMLDS workshop @ IEEE Big Data 2024! [Link](https://sites.google.com/view/robustmlds24/home) |
+|`December 2024`| Received a Gift fund from Morgan Stanley! Thanks for the generous support!|
+|`November 2024`| I am invited to serve as an Area Chair for IJCAI 2025! |
+|`November 2024`| Our tutorial about Continual Learning on Graphs has been accepted to AAAI 2025! [Link](https://queuq.github.io/CGL_TUT_AAAI2025/)|
+|`September 2024`| Our AI4TS workshop proposal was accepted to AAAI 2025! Welcome to contribute to our workshop! [Link](https://ai4ts.github.io/aaai2025)|
+|`September 2024`| One paper about Rank based Contrastive Learning is accepted to ICDM 2025! Congratulations to Qianying!|
+|`September 2024`| I am invited to serve as LLM Track Co-Chair for PAKDD 2025! [link](https://pakdd2025.org/organization/) |
+|`August 2024`| We have successfully organized the AI4TS workshop @ IJCAI 2024! [link](https://ai4ts.github.io/ijcai2024) |
+|`August 2024`| I gave a tutorial about **Continual Learning on Graphs** @ IJCAI 2024! [link](https://ai4ts.github.io/ijcai2024) |
+|`July 2024`| I am invited to serve as Registration Co-Chair for IEEE Big Data 2024! [link](https://www3.cs.stonybrook.edu/~ieeebigdata2024/CommitteeMember.html) |
+|`July 2024`| I am delighted to have received the **Frontiers of Science Award (FSA)** from ICBS 2024! Congratulations to all collaborators! [Link](https://computing.engineering.uconn.edu/2024/10/25/professors-chuxu-zhang-and-dongjin-song-receive-prestigious-frontiers-of-science-award-at-2024-icbs/) |
+|`June 2024`| One tutorial and survey paper is accepted to KDD 2025|
+|`June 2024`| I am invited to serve as an Area Chair for ICDM 2025! |
+|`May 2024`| One paper about LLMs for time series prediction is accepted to ICML 2024 and one paper about continual learning on graph is accepted to KDD 2024! Congrats to all co-authors|
+|`May 2024`|  Yushan will intern @ NEC Labs America, Kanghui will intern @ Ant Financial, and Zijie will intern @ Eversource in this summer! Congratulations to all! |
+|`May 2024`| I am invited to give a keynote talk about *Towards Knowledge Informed Time Series Forecasting* at International Workshop on Temporal Analytics @ PAKDD 2024! [Link](https://monashts.github.io/International-Workshop-on-Temporal-Analytics/)|
+|`May 2024`| My student Anshul Rastogi won Holster Scholar at UConn (Most prestigious award for freshman). Congratulations! [Link](https://computing.engineering.uconn.edu/2024/05/09/sophomore-anshul-rastogi-named-holster-scholar/)|
+|`May 2024`| I am invited to serve on a DOE panel.|
+|`April 2024`| One survey paper about Self-Supervised Learning for Time Series Analysis has been accepted to **T-PAMI**! Congrats to all co-authors! |
+|`April 2024`| My students Yushan Jiang has won the **GE Fellowship for Excellence** and Xuyang Shen has won the Eversource Fellowship! Congratulations to both! |
+|`April 2024`| Our survey paper about LLMs for Time Series Analysis has been accepted to IJCAI 2024! [[Paper]](https://arxiv.org/pdf/2402.03182.pdf) [[Github]](https://github.com/UConn-DSIS/Empowering-Time-Series-Analysis-with-LLM)|
+|`March 2024`| I am invited to serve as an Associate Editor for the journal Pattern Recognition.|
+|`March 2024`| I am invited to serve on a NSF panel.|
+|`March 2024`| I am invited to give a talk about *Towards Knowledge Informed Time Series Forecasting* at UConn Stats Colloquium! [Link](https://dailydigest.uconn.edu/publicEmailSingleStoryView.php?id=260753&cid=24&iid=7330)|
+|`February 2024`| I am thrilled to have received the prestigious **NSF Career Award**! [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338878&HistoricalAwards=false)|
 |`February 2024`| The 4th AI for Time Series (**AI4TS**) workshop is successfully hold in **AAAI** 2024! [Link](https://ai4ts.github.io/aaai2024) |
 |`February 2024`| I will give a tutorial entitled "Continual Learning on Graphs: Challenges, Solutions, and Opportunities" in **AAAI** 2024! [Link](https://queuq.github.io/CGL_AAAI2024/) |
 |`January 2024`| Welcome Mr. Xuyang Shen from UCSD to join our DSIS group! |
 |`January 2024`| One paper to tackle Test-time Graph Distribution Shifts problem is accepted to **ICLR** 2024 as **spotlight**! Congratulations to all co-authors! [Link](https://openreview.net/forum?id=KbetDM33YG) |
+|`December 2023`| My student Anshul Rastogi is selected as the finalist for UConn Holster Scholar!|
+|`December 2023`| I am invited to serve on a NSF Panel! |
+|`December 2023`| One paper about spatial-temporal forecasting is accepted to **SDM** 2024! Congratulations to all co-authors! |
+|`December 2023`| I will give a talk about "Towards Continual Learning on Graphs" at The University of Arizona! [link](https://eller.arizona.edu/events/mis-speakers-series-dongjin-song)|
 |`December 2023`| My student Anshul Rastogi is selected as the finalist for UConn Holster Scholar!|
 |`December 2023`| I am invited to serve on a NSF Panel! |
 |`December 2023`| One paper about spatial-temporal forecasting is accepted to **SDM** 2024! Congratulations to all co-authors! |
