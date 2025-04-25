@@ -1,7 +1,7 @@
 ## Services
 
 ### Panelist
-* NSF 2023, 2024
+* NSF 2023, 2024, 2025
 * DOE 2024
 
 ### Editorial Board - Journals
@@ -60,8 +60,9 @@
 
 #### Area Chairs/Senior Program Committee Members
 
+* The 39th Annual Conference on Neural Information Processing Systems (NeurIPS) 2025 (Area Chair)
 * International Joint Conference on Artificial Intelligence (IJCAI) 2025 (Area Chair)
-* IEEE International Conference on Data Mining (ICDM) (Area Chair)
+* IEEE International Conference on Data Mining (ICDM) 2024 (Area Chair)
 * AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021 - 2025 (SPC)
 * International Joint Conference on Artificial Intelligence (IJCAI) 2021, 2023-2024 (SPC)
 * ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track) (SPC)

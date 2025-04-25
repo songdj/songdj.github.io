@@ -4,6 +4,7 @@ The following projects are active:
 
 | Role   | Source            | Project (Active)  | Time         | Info  |
 | -------- | -----------------------| ------------------------------------------------- | -------------- | ---------------| --------------- |
+| PI | NSF - WISER | Predicting extreme weather–induced power outages with spatially aware hybrid graph neural networks | 2024.3 - 2025.2 | [Link](https://today.uconn.edu/2025/02/wiser-awarded-eight-uconn-projects-to-advance-weather-innovation-and-energy-resilience/) |
 | PI | NSF | CAREER: Towards Continual Learning on Evolving Graphs: from Memorization to Generalization | 2024.4 - 2029.3 | [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2338878&HistoricalAwards=false) |
 | PI | Morgan Stanley | Gift Fund | 2025.1 - 2025.12 | |
 | Co-PI | NSF | Collaborative Research: CNS: CORE: Small: Hierarchical Deep Reinforcement Learning for Routing in Mobile Wireless Networks | 2022.4 - 2025.3 | [Link](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2154191) |

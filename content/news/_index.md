@@ -1,5 +1,15 @@
 | News            |                                   |
 | --------------------| ---------------------------------------------------- |
+|`April 2025`| I am promoted to be an **Associated Professor with (Earlier) Tenure** at UConn! [[Link]](https://today.uconn.edu/2025/04/228770/) |
+|`March 2025`| I am invited to serve as **Area Chair** for **NeurIPS 2025**!|
+|`March 2025`| Xuyang, Zijie, Yushan, and Brendan have received intern offers from **NEC Labs America**, **TikTok**, **Mayo Clinic**, and **Microsoft**! Congratulations to all!|
+|`March 2025`| I am invited to give a guest lecture about **Empowering LLMs for Healthcare Time Series Analysis** @ UT Austin ! |
+|`March 2025`| I am invited to serve on a NSF Panel! |
+|`March 2025`| I am invited to serve as reviewer for the US-Israel Binational Science Foundation! |
+|`February 2025`| We have successfully organized the **AI4TS** workshop @ **AAAI 2025**! [[link]](https://ai4ts.github.io/aaai2025) |
+|`February 2025`| I give two tutorials **Continual Learning on Graphs** and **LLMs and Foundation Models for Time Series Analysis** @ **AAAI 2025**!|
+|`February 2025`| I am honored to have received the **NSF WISER Award** for power outage prediction! [[Link]](https://today.uconn.edu/2025/02/wiser-awarded-eight-uconn-projects-to-advance-weather-innovation-and-energy-resilience/) |
+|`January 2025`| One paper about continual learning on dynamic systems is accepted to **ICLR 2025**! Congratulations to Xikun, Yushan and all collaborators! [[Link]](https://arxiv.org/pdf/2407.00717) |
 |`January 2025`| I am invited to serve as an **Associate Editor** for the journal Neural Networks! |
 |`January 2025`| I am invited to serve as a **Social Media Co-Chair** for ICDM 2025! |
 |`December 2024`| I am invited to deliver a keynote talk about **Towards Data-Centric Time Series Analysis** in DCAI workshop @ IEEE Big Data 2024! [[Link]](https://data-centric-ai-dev.github.io/BigData2024/) |
@@ -8,7 +18,6 @@
 |`November 2024`| I am invited to serve as an **Area Chair** for IJCAI 2025! |
 |`November 2024`| Our tutorial about Continual Learning on Graphs has been accepted to AAAI 2025! [[Link]](https://queuq.github.io/CGL_TUT_AAAI2025/)|
 |`September 2024`| Our **AI for Time Series (AI4TS)** workshop was accepted to AAAI 2025! Welcome to contribute to our workshop! [[Link]](https://ai4ts.github.io/aaai2025)|
-|`September 2024`| One paper about **Rank Supervised Contrastive Learning for Time Series Classification** is accepted to ICDM 2025! Congratulations to Qianying! [[Link]](https://arxiv.org/html/2401.18057v2)[[Github]](https://github.com/UConn-DSIS/Rank-Supervised-Contrastive-Learning-for-Time-Series-Classification)|
 |`September 2024`| I am invited to serve as **LLM Track Co-Chair** for PAKDD 2025! [[link]](https://pakdd2025.org/organization/) |
 |`August 2024`| We have successfully organized the AI4TS workshop @ IJCAI 2024! [[link]](https://ai4ts.github.io/ijcai2024) |
 |`August 2024`| I gave a tutorial about **Continual Learning on Graphs** @ IJCAI 2024! [[link]](https://ai4ts.github.io/ijcai2024) |
