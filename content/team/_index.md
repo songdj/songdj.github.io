@@ -7,13 +7,13 @@
   * BE from UESTC and MS from UESTC
 * **Guiquan Sun**, Ph.D. student, Fall 2025 -
   * BS from South China Agricultural University
-* **Kanghui Ning**, Ph.D. student, Fall 2024 -
+* [**Kanghui Ning**](https://kanghui-learning.github.io/), Ph.D. student, Fall 2024 -
   * BE from UESTC and MS from Huazhong University of Science and Technology (HUST)
   * **UConn CSE Graduate Fellowship**, 2024
 * **Xuyang Shen**, Ph.D. student, Spring 2024 -
   * BE from UESTC and MS from University of California San Diego (UCSD)
   * **Eversource Fellowship** 2024
-* **Zijie Pan**, Ph.D. student, Fall 2022 -
+* [**Zijie Pan**](https://scholar.google.com/citations?user=-ZPcD5MAAAAJ&hl=en), Ph.D. student, Fall 2022 -
   * BS and MS from University of Virginia (UVA)
   * **ICML** x 1, **IJCAI** x 1
   * **Eversource Fellowship** 2025

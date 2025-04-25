@@ -79,9 +79,9 @@ I am a tenure-track assistant professor in the School of Computing, [University 
 
 My research focuses on developing foundational AI and machine learning models in the form of continual learning, graph machine learning, domain generalization, LLMs, and foundation models, to perform **time series analysis** (e.g., representation, similarity search, prediction/forecasting, and anomaly detection), understand **complex networks/graphs**, and make **trustworthy and interpretable decisions** for continuously evolving real world applications (e.g., evolving graphs, dynamic systems, physical world, IoT systems, environmental science, healthcare and biomedical data). Three of my papers [DARNN](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf), [HetGNN](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf), and [MSCRED](https://songdj.github.io/publication/aaai-19/aaai-19.pdf) have been ranked as the **most influential papers** in [IJCAI 2017](https://www.paperdigest.org/2024/05/most-influential-ijcai-papers-2024-05/), [KDD 2019](https://www.paperdigest.org/2024/05/most-influential-kdd-papers-2024-05/), and [AAAI 2019](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/) by paperdigest.org, respectively. I received the prestigious **NSF Career Award** in 2024, **Frontiers of Science Award (FSA)** in 2024, and **UConn AAUP Excellence Award for Research and Creativity - Earlier Career** in 2025. I also received UCONN Research Excellence Program (REP) Award in 2021.
 
-*<span style="color:#DE3163"> [Survey of Multimodal Time Series Analysis]: </span>** **Multi-modal Time Series Analysis: A Tutorial and Survey**[[Paper]](https://arxiv.org/pdf/2503.13709?) [[Github]](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
+**<span style="color:#DE3163"> [Survey of Multimodal Time Series Analysis]: </span>** **Multi-modal Time Series Analysis: A Tutorial and Survey**[[Paper]](https://arxiv.org/pdf/2503.13709) [[Github]](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
 
-*<span style="color:#DE3163"> [Survey of Continual Learning on Graphs]: </span>** **Continual Learning on Graphs: Challenges, Solutions, and Opportunities**[[Paper]](https://arxiv.org/pdf/2402.11565.pdf) [[Github]](https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs)
+**<span style="color:#DE3163"> [Survey of Continual Learning on Graphs]: </span>** **Continual Learning on Graphs: Challenges, Solutions, and Opportunities**[[Paper]](https://arxiv.org/pdf/2402.11565.pdf) [[Github]](https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs)
 
 **<span style="color:#DE3163"> [Recruiting]: </span>** ***Looking for Ph.D. students in Machine Learning/Graph Representation Learning/Time Series Analysis/LLMs & Foundation Models/Reinforcement Learning to join our group! Please send me an email with your CV and transcript.***
 
@@ -108,8 +108,8 @@ I have broad research interests in **machine learning**, **data mining**, **deep
 | Recent News            |                                   |
 | --------------------| --------------------------------- |
 |`April 2025`| I am promoted to be an **Associated Professor with (Earlier) Tenure** at UConn! [[Link]](https://today.uconn.edu/2025/04/228770/) |
-|`March 2025`| I am invited to serve as **Area Chair** for **NeurIPS 2025**!|
-|`March 2025`| Xuyang, Zijie, Yushan, and Brendan have received intern offers from **NEC Labs America**, **TikTok**, **Mayo Clinic**, and **Microsoft**! Congratulations to all!|
+|`April 2025`| Xuyang, Zijie, Yushan, and Brendan have received intern offers from **NEC Labs America**, **TikTok**, **Mayo Clinic**, and **Microsoft**! Congratulations to all!|
+|`April 2025`| I am invited to serve as **Area Chair** for **NeurIPS 2025**!|
 |`March 2025`| I am invited to give a guest lecture about **Empowering LLMs for Healthcare Time Series Analysis** @ UT Austin ! |
 |`March 2025`| I am invited to serve on a NSF Panel! |
 |`March 2025`| I am invited to serve as reviewer for the US-Israel Binational Science Foundation! |
