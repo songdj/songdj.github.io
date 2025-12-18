@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence, Machine Learning, Data Science, Deep Learning
+- Artificial Intelligence, Machine Learning, Deep Learning
 - Time Series Analysis, Prediction, Classification, Anomaly Detection
 - Foundation Models, LLMs, Multimodal LLMs, Agentic AI
 - Graph Representation Learning, Continual Learning, Domain Generalization
@@ -122,15 +122,16 @@ I have broad research interests in **machine learning**, **data mining**, **deep
 |`November 2025`| We won **Best Paper Award (3rd Place CCC Award)** at BlueSky Track of ICDM 2025! Congratulations to Kanghui and the team! |
 |`November 2025`| I am invited to serve as **Area Chair** for **ICML 2026**!|
 |`October 2025`| I am delighted to receive the **NEC Research Faculty Award**! |
-|`October 2025`| I am Elected as **AAAI Senior Member* (as one of 11 members in class 2026)![[CoE News]](https://today.uconn.edu/2025/12/uconn-professor-receives-senior-member-status-with-aaai/) [[SoC News]][https://computing.engineering.uconn.edu/2025/10/28/professor-dongjin-song-has-been-elected-to-senior-member-status-of-aaai/#:~:text=October%2028%2C%202025-,Professor%20Dongjin%20Song%20has%20been%20elected%20to%20Senior%20Member%20status,11%20members%20have%20been%20elected.]|
-|`September 2025`| Three papers, TS-RAG, Time-XL, and DMMV are accepted to **NeurIPS 2025**! Congratulations to Yushan, Kanghui, Zijie, and all collaborators!|
+|`October 2025`| Two tutorials are accepted to AAAi 2026! Congratulations to Yushan, Zijie, and all collaborators!|
+|`October 2025`| I am Elected as **AAAI Senior Member** (as one of 11 members in class 2026)![[CoE News]](https://today.uconn.edu/2025/12/uconn-professor-receives-senior-member-status-with-aaai/) [[SoC News]](https://computing.engineering.uconn.edu/2025/10/28/professor-dongjin-song-has-been-elected-to-senior-member-status-of-aaai/#:~:text=October%2028%2C%202025-,Professor%20Dongjin%20Song%20has%20been%20elected%20to%20Senior%20Member%20status,11%20members%20have%20been%20elected.)|
+|`September 2025`| Three papers from our group, TS-RAG [[Paper]](https://arxiv.org/pdf/2503.07649), Time-XL [[Paper]](https://arxiv.org/pdf/2503.01013), and DMMV [[Link]](https://arxiv.org/abs/2505.24003) are accepted to **NeurIPS 2025**! Congratulations to Yushan, Kanghui, Zijie, and all collaborators!|
 |`September 2025`| Congratulations to Kanghui on receiving the 2026 summer internship offer from **Morgan Stanley**!|
 |`September 2025`| Congratulations to Xikun on receiving the faculty job offer - Lecturer (Assistant Professor) at The **Royal Melbourne Institute of Technology (RMIT)**!|
-|`September 2025`| I am invited to serve on a NSF panel**!|
+|`September 2025`| I am invited to serve on a NSF panel!|
 |`September 2025`| I am invited to serve as **Senior PC Member** for **PAKDD 2026**!|
-|`August 2025`| I am invited to serve on a NSF panel**!|
-|`August 2025`| I am invited to serve as **Area Chair** for **ICLR 2025**!|
+|`August 2025`| I am invited to serve on a NSF panel!|
+|`August 2025`| I am invited to serve as **Area Chair** for **ICLR 2026**!|
 |`May 2025`| I am invited to serve as **Area Chair** for **ICDM 2025**!|
-|`May 2025`| I am invited to serve on a DOE panel**!|
+|`May 2025`| I am invited to serve on a DOE panel!|
 |`April 2025`| I am promoted to be an **Associated Professor with (Earlier) Tenure** at UConn! [[Link]](https://today.uconn.edu/2025/04/228770/) |
 **[More News...](https://songdj.github.io/news/)**

@@ -2,7 +2,7 @@
 
 ### Panelist
 * NSF 2023, 2024, 2025
-* DOE 2024
+* DOE 2024, 2025
 
 ### Editorial Board - Journals
 
@@ -46,6 +46,8 @@
 * Social Media Co-Chair, ICDM 2025
 * LLM Track Co-Chair, PAKDD 2025
 * Registration Co-Chair, IEEE Big Data 2024
+* IJCAI 2025 Workshop: AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/ijcai2025)
+* KDD 2025 Workshop: 10th International Workshop on Mining and Learning from Time Series [Link](https://kdd-milets.github.io/milets2025/)
 * AAAI 2025 Workshop: AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/aaai2025)
 * KDD 2024 Workshop: 10th International Workshop on Mining and Learning from Time Series [Link](https://kdd-milets.github.io/milets2024/)
 * IJCAI 2024 Workshop: AI for Time Series Analysis: Theory, Algorithms, and Applications (AI4TS) [Link](https://ai4ts.github.io/ijcai2024)
@@ -60,15 +62,19 @@
 
 #### Area Chairs/Senior Program Committee Members
 
+* International Conference on Machine Learning (ICML) 2026 (Area Chair)
+* International Conference on Learning Representations (ICLR) 2026 (Area Chair)
 * The 39th Annual Conference on Neural Information Processing Systems (NeurIPS) 2025 (Area Chair)
 * International Joint Conference on Artificial Intelligence (IJCAI) 2025 (Area Chair)
-* IEEE International Conference on Data Mining (ICDM) 2024 (Area Chair)
+* IEEE International Conference on Data Mining (ICDM) 2024, 2025 (Area Chair)
 * AAAI Conference on Artificial Intelligence (AAAI) 2019, 2021 - 2025 (SPC)
 * International Joint Conference on Artificial Intelligence (IJCAI) 2021, 2023-2024 (SPC)
 * ACM International Conference on Information and Knowledge Management (CIKM) 2019 (Applied Research Track) (SPC)
 
 #### Session Chairs
 
+* ICDM 2025: Time Series II
+* IJCAI 2025: AI for Social Good
 * IEEE Big Data 2024: Foundation Models for Big Data
 * IEEE Big Data 2024: Deep Learning I
 * IJCAI 2024: Anomaly/Outlier Detection

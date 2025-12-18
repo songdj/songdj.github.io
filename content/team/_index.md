@@ -6,10 +6,8 @@
 * **Jinyu Hong**, Ph.D. student, Fall 2025 -
   * BE from UESTC and MS from UESTC
   * **Eversource Fellowship** 2025
-
 * **Guiquan Sun**, Ph.D. student, Fall 2025 -
   * BS from South China Agricultural University
-
 * [**Kanghui Ning**](https://kanghui-learning.github.io/), Ph.D. student, Fall 2024 -
   * BE from UESTC and MS from Huazhong University of Science and Technology (HUST)
   * **NeurIPS** x 1, **ICDM** x 1, **KDD** x 1,
@@ -17,14 +15,12 @@
   * **UConn SoC Predoctoral Fellowship** 2025
   * **Intern at Ant Financial**, Summer 2024
   * **Intern at Morgan Stanley**, Summer 2026
-
 * **Xuyang Shen**, Ph.D. student, Spring 2024 -
   * BE from UESTC and MS from University of California San Diego (UCSD)
   * **Eversource Fellowship** 2024
   * **UConn SoC Predoctoral Fellowship** 2025
   * **Intern at NEC Labs America** Summer 2025
   * Tutorial at **KDD** 2025
-
 * [**Zijie Pan**](https://scholar.google.com/citations?user=-ZPcD5MAAAAJ&hl=en), Ph.D. student, Fall 2022 -
   * BS and MS from University of Virginia (UVA)
   * **ICML** x 1, **IJCAI** x 1, **KDD** x 1,
@@ -33,8 +29,7 @@
   * **UConn CSE Predoctoral Fellowship** 2024
   * **GE Fellowship** for Excellence 2023
   * **UConn CSE Predoctoral Fellowship** (Honorable Mention), 2023
-  * Tutorials at **WWW** 2023, **SDM** 2023, and **KDD** 2025
-
+  * Tutorials at **WWW** 2023, **SDM** 2023, **KDD** 2025, and **AAAI** 2026
 * [**Yushan Jiang**](https://sites.google.com/view/jayjiang/home), Ph.D. student, Spring 2022 -
   * BS from CAUC and MS from Embry-Riddle Aeronautical University (ERAU)
   * **NeurIPS** x1, **KDD** x 2, **IJCAI** x 1, **CISS** x 1
