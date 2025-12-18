@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of CSE
+role: Associate Professor, School of Computing
 
 # Organizations/Affiliations
 organizations:
@@ -21,13 +21,11 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Machine Learning, Data Mining, Deep Learning
-- Foundation Models and LLMs
-- Time Series Analysis
-- Graph Representation Learning
-- Continual Learning
-- Federated Learning
-- Reinforcement Learning
+- Artificial Intelligence, Machine Learning, Data Science, Deep Learning
+- Time Series Analysis, Prediction, Classification, Anomaly Detection
+- Foundation Models, LLMs, Multimodal LLMs, Agentic AI
+- Graph Representation Learning, Continual Learning, Domain Generalization
+- Reinforcement Learning and Trustworthy Decision Making
 
 education:
   courses:
@@ -75,15 +73,27 @@ user_groups:
 #- Visitors
 ---
 
-I am a tenure-track assistant professor in the School of Computing, [University of Connecticut](https://uconn.edu) (**UConn**) since August 2020. Before that, I was a research staff member at [NEC Labs America](http://www.nec-labs.com) in Princeton, NJ, since July 2016. I received my Ph.D. degree in the Department of Electrical and Computer Engineering from [University of California San Diego](https://www.ucsd.edu) (**UCSD**) with the guidance of [Prof. David A. Meyer](https://math.ucsd.edu/people/profiles/david-meyer/) in June 2016. I also work closely with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343) from Nanyang Technological University (NTU).
+I am an Associate Professor in the School of Computing, [University of Connecticut](https://uconn.edu) (**UConn**) since August 2025. Before that, I was an assistant professor at (**UConn**) since August 2020 and a research staff member at [NEC Labs America](http://www.nec-labs.com) in Princeton, NJ since July 2016. I received my Ph.D. degree in the Department of Electrical and Computer Engineering from [University of California San Diego](https://www.ucsd.edu) (**UCSD**) with the guidance of [Prof. David A. Meyer](https://math.ucsd.edu/people/profiles/david-meyer/) in June 2016. I also work closely with [Prof. Dacheng Tao](https://dr.ntu.edu.sg/cris/rp/rp02343) from Nanyang Technological University (NTU).
 
-My research focuses on developing foundational AI and machine learning models in the form of continual learning, graph machine learning, domain generalization, LLMs, and foundation models, to perform **time series analysis** (e.g., representation, similarity search, prediction/forecasting, and anomaly detection), understand **complex networks/graphs**, and make **trustworthy and interpretable decisions** for continuously evolving real world applications (e.g., evolving graphs, dynamic systems, physical world, IoT systems, environmental science, healthcare and biomedical data). Three of my papers [DARNN](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf), [HetGNN](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf), and [MSCRED](https://songdj.github.io/publication/aaai-19/aaai-19.pdf) have been ranked as the **most influential papers** in [IJCAI 2017](https://www.paperdigest.org/2024/05/most-influential-ijcai-papers-2024-05/), [KDD 2019](https://www.paperdigest.org/2024/05/most-influential-kdd-papers-2024-05/), and [AAAI 2019](https://www.paperdigest.org/2024/05/most-influential-aaai-papers-2024-05/) by paperdigest.org, respectively. I received the prestigious **NSF Career Award** in 2024, **Frontiers of Science Award (FSA)** in 2024, and **UConn AAUP Excellence Award for Research and Creativity - Earlier Career** in 2025. I also received UCONN Research Excellence Program (REP) Award in 2021.
+My research focuses on developing foundational AI and machine learning models in the form of continual learning, graph machine learning, domain generalization, LLMs, foundation models, multimodal LLMs, and Agentic AI to perform **time series analysis** (e.g., representation, similarity search, prediction/forecasting, and anomaly detection), understand **complex networks/graphs**, and make **trustworthy and interpretable decisions** for continuously evolving real world applications (e.g., evolving graphs, dynamic systems, physical world, environmental science, healthcare and biomedical data). Four of my papers [DARNN](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf), [HetGNN](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf), [MSCRED](https://songdj.github.io/publication/aaai-19/aaai-19.pdf), and [Empowering TS with LLMs](https://www.ijcai.org/proceedings/2024/0895.pdf) have been ranked as the **most influential papers** in [IJCAI 2017](https://resources.paperdigest.org/2025/09/most-influential-ijcai-papers-2025-09-version/), [KDD 2019](https://resources.paperdigest.org/2025/09/most-influential-kdd-papers-2025-09-version/), [AAAI 2019](https://resources.paperdigest.org/2025/09/most-influential-aaai-papers-2025-09-version/), [IJCAI 2024](https://resources.paperdigest.org/2025/09/most-influential-ijcai-papers-2025-09-version/) by paperdigest.org, respectively.
 
-**<span style="color:#DE3163"> [Survey of Multimodal Time Series Analysis]: </span>** **Multi-modal Time Series Analysis: A Tutorial and Survey**[[Paper]](https://arxiv.org/pdf/2503.13709) [[Github]](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
+I received the prestigious **NSF Career Award** (2024), **Frontiers of Science Award (FSA)** (2024), the **UConn AAUP Excellence Award for Research and Creativity - Earlier Career** (2025), the **AI 2000 Most Influential Scholar Award** Honorable Mention - Data Mining (2025), NEC Faculty Research Award (2025), and **Best Paper Award (3rd Place CCC Award)** at BlueSky Track of ICDM 2025. I also received UCONN Research Excellence Program (REP) Award in 2021.
 
+**<span style="color:#DE3163"> [Survey of Multimodal Time Series Analysis]: </span>** **Multi-modal Time Series Analysis: A Tutorial and Survey, KDD 2025**[[Paper]](https://arxiv.org/pdf/2503.13709) [[Github]](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
+
+**<span style="color:#DE3163"> [TS-RAG]: </span>**
+**TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster, NeurIPS 2025**[[Paper]](https://arxiv.org/pdf/2503.07649) [[Github]](https://github.com/UConn-DSIS/TS-RAG)
+
+**<span style="color:#DE3163"> [Time-XL]: </span>** **TimeXL: Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop, NeurIPS 2025**[[Paper]](https://arxiv.org/pdf/2503.01013)
+
+**<span style="color:#DE3163"> [DMMV]: </span>** **Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting, NeurIPS 2025**[[Paper]](https://arxiv.org/abs/2505.24003) [[Github]](https://github.com/D2I-Group/dmmv)
+
+
+<!-- +
 **<span style="color:#DE3163"> [Survey of Continual Learning on Graphs]: </span>** **Continual Learning on Graphs: Challenges, Solutions, and Opportunities**[[Paper]](https://arxiv.org/pdf/2402.11565.pdf) [[Github]](https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs)
++ -->
 
-**<span style="color:#DE3163"> [Recruiting]: </span>** ***Looking for Ph.D. students in Machine Learning/Graph Representation Learning/Time Series Analysis/LLMs & Foundation Models/Reinforcement Learning to join our group! Please send me an email with your CV and transcript.***
+**<span style="color:#DE3163"> [Recruiting]: </span>** ***Looking for multiple Ph.D. students in 1) Machine Learning for (Multimodal) Time Series Analysis//Graph Representation Learning with LLMs & Foundation Models; 2) AI for Healthcare/Biomedical Data Analysis; 3)  Reinforcement Learning, Reasoning, and Agentic AI. Please send me an email with your CV and transcripts.***
 
 <!-- +
 **<span style="color:#DE3163"> [Survey of LLMs for Time Series Analysis]: </span>** **Empowering Time Series Analysis with Large Language Models: A Survey**[[Paper]](https://arxiv.org/pdf/2402.03182.pdf) [[Github]](https://github.com/UConn-DSIS/Empowering-Time-Series-Analysis-with-LLM)
@@ -107,16 +117,20 @@ I have broad research interests in **machine learning**, **data mining**, **deep
 
 | Recent News            |                                   |
 | --------------------| --------------------------------- |
+|`December 2025`| Congratulations to Zijie on accepting a full-time job offer from **PayPal**!|
+|`November 2025`| I am invited to give a virtual talk about ``Retrieval, Language, and Vision: Towards Knowledge-Informed Time Series Analysis" at **Ohio State University**! [[Link]](https://cse.osu.edu/events/2025/11/retrieval-language-and-vision-towards-knowledge-informed-time-series-analysis)|
+|`November 2025`| We won **Best Paper Award (3rd Place CCC Award)** at BlueSky Track of ICDM 2025! Congratulations to Kanghui and the team! |
+|`November 2025`| I am invited to serve as **Area Chair** for **ICML 2026**!|
+|`October 2025`| I am delighted to receive the **NEC Research Faculty Award**! |
+|`October 2025`| I am Elected as **AAAI Senior Member* (as one of 11 members in class 2026)![[CoE News]](https://today.uconn.edu/2025/12/uconn-professor-receives-senior-member-status-with-aaai/) [[SoC News]][https://computing.engineering.uconn.edu/2025/10/28/professor-dongjin-song-has-been-elected-to-senior-member-status-of-aaai/#:~:text=October%2028%2C%202025-,Professor%20Dongjin%20Song%20has%20been%20elected%20to%20Senior%20Member%20status,11%20members%20have%20been%20elected.]|
+|`September 2025`| Three papers, TS-RAG, Time-XL, and DMMV are accepted to **NeurIPS 2025**! Congratulations to Yushan, Kanghui, Zijie, and all collaborators!|
+|`September 2025`| Congratulations to Kanghui on receiving the 2026 summer internship offer from **Morgan Stanley**!|
+|`September 2025`| Congratulations to Xikun on receiving the faculty job offer - Lecturer (Assistant Professor) at The **Royal Melbourne Institute of Technology (RMIT)**!|
+|`September 2025`| I am invited to serve on a NSF panel**!|
+|`September 2025`| I am invited to serve as **Senior PC Member** for **PAKDD 2026**!|
+|`August 2025`| I am invited to serve on a NSF panel**!|
+|`August 2025`| I am invited to serve as **Area Chair** for **ICLR 2025**!|
+|`May 2025`| I am invited to serve as **Area Chair** for **ICDM 2025**!|
+|`May 2025`| I am invited to serve on a DOE panel**!|
 |`April 2025`| I am promoted to be an **Associated Professor with (Earlier) Tenure** at UConn! [[Link]](https://today.uconn.edu/2025/04/228770/) |
-|`April 2025`| Xuyang, Zijie, Yushan, and Brendan have received intern offers from **NEC Labs America**, **TikTok**, **Mayo Clinic**, and **Microsoft**! Congratulations to all!|
-|`April 2025`| I am invited to serve as **Area Chair** for **NeurIPS 2025**!|
-|`March 2025`| I am invited to give a guest lecture about **Empowering LLMs for Healthcare Time Series Analysis** @ UT Austin ! |
-|`March 2025`| I am invited to serve on a NSF Panel! |
-|`March 2025`| I am invited to serve as reviewer for the US-Israel Binational Science Foundation! |
-|`February 2025`| We have successfully organized the **AI4TS** workshop @ **AAAI 2025**! [[link]](https://ai4ts.github.io/aaai2025) |
-|`February 2025`| I give two tutorials **Continual Learning on Graphs** and **LLMs and Foundation Models for Time Series Analysis** @ **AAAI 2025**!|
-|`February 2025`| I am honored to have received the **NSF WISER Award** for power outage prediction! [[Link]](https://today.uconn.edu/2025/02/wiser-awarded-eight-uconn-projects-to-advance-weather-innovation-and-energy-resilience/) |
-|`January 2025`| One paper about continual learning on dynamic systems is accepted to **ICLR 2025**! Congratulations to Xikun, Yushan and all collaborators! [[Link]](https://arxiv.org/pdf/2407.00717) |
-|`January 2025`| I am invited to serve as an **Associate Editor** for the journal Neural Networks! |
-|`January 2025`| I am invited to serve as a **Social Media Co-Chair** for ICDM 2025! |
 **[More News...](https://songdj.github.io/news/)**

@@ -5,31 +5,49 @@
 **<span style="color:#DE3163">Graduate Students</span>**
 * **Jinyu Hong**, Ph.D. student, Fall 2025 -
   * BE from UESTC and MS from UESTC
+  * **Eversource Fellowship** 2025
+
 * **Guiquan Sun**, Ph.D. student, Fall 2025 -
   * BS from South China Agricultural University
+
 * [**Kanghui Ning**](https://kanghui-learning.github.io/), Ph.D. student, Fall 2024 -
   * BE from UESTC and MS from Huazhong University of Science and Technology (HUST)
+  * **NeurIPS** x 1, **ICDM** x 1, **KDD** x 1,
   * **UConn CSE Graduate Fellowship**, 2024
+  * **UConn SoC Predoctoral Fellowship** 2025
+  * **Intern at Ant Financial**, Summer 2024
+  * **Intern at Morgan Stanley**, Summer 2026
+
 * **Xuyang Shen**, Ph.D. student, Spring 2024 -
   * BE from UESTC and MS from University of California San Diego (UCSD)
   * **Eversource Fellowship** 2024
+  * **UConn SoC Predoctoral Fellowship** 2025
+  * **Intern at NEC Labs America** Summer 2025
+  * Tutorial at **KDD** 2025
+
 * [**Zijie Pan**](https://scholar.google.com/citations?user=-ZPcD5MAAAAJ&hl=en), Ph.D. student, Fall 2022 -
   * BS and MS from University of Virginia (UVA)
-  * **ICML** x 1, **IJCAI** x 1
-  * **Eversource Fellowship** 2025
+  * **ICML** x 1, **IJCAI** x 1, **KDD** x 1,
+  * **Eversource Fellowship** Summer 2025
+  * **UConn SoC Predoctoral Fellowship** 2025
   * **UConn CSE Predoctoral Fellowship** 2024
   * **GE Fellowship** for Excellence 2023
   * **UConn CSE Predoctoral Fellowship** (Honorable Mention), 2023
-  * Tutorials at **WWW** 2023 and **SDM** 2023
+  * Tutorials at **WWW** 2023, **SDM** 2023, and **KDD** 2025
+
 * [**Yushan Jiang**](https://sites.google.com/view/jayjiang/home), Ph.D. student, Spring 2022 -
   * BS from CAUC and MS from Embry-Riddle Aeronautical University (ERAU)
-  * **KDD** x 1, **IJCAI** x 1, **CISS** x 1
+  * **NeurIPS** x1, **KDD** x 2, **IJCAI** x 1, **CISS** x 1
   * Tutorials at **AAAI** 2025, **KDD** 2024, **WWW** 2023 and **SDM** 2023
-  * **Impactfulness of Research award in RiSC 3.0** from NEC Labs America 2025
+  * **UConn SoC Predoctoral Fellowship** 2025
+  * **Impactfulness of Research award in RiSC 3.0** from NEC Labs America 2024
   * **UConn CSE Anthony W. DeSio Endowed Fellowship** 2024
   * **GE Fellowship** for Excellence 2023
-  * **UConn CSE Predoctoral Fellowship** (Outstanding Scholarly and Research Accomplishments), 2023
+  * **UConn CSE Predoctoral Fellowship**  2023
   * **GE Fellowship** for Next Gen Scholar, 2022
+  * **Intern at NEC Labs America**, Summer 2024
+  * **Intern at Mayo Clinic**, Summer 2025
+  * Tutorials at **WWW** 2023, **SDM** 2023, **KDD** 2024, **AAAI** 2025, and **KDD** 2025
 <!--* **Qianying Ren**, Ph.D. student, Fall 2021 -
   * BS from Huazhong Agricultural University
   * **ICDM** x 1,
@@ -40,10 +58,11 @@
 * **Yamila Garcia**, Master student, Spring 2024 -
 * **Xinhao Wang**, Master student, Spring 2024 -
 * **Nikolas Anagnostou**, Master student, Fall 2024 -
+* **Brendan Barnett**, Fall 2025 -
+
 
 **<span style="color:#DE3163">Undergraduate Students</span>**
 * **Anshul Rastogi**, Summer 2024 -
-* **Brendan Barnett**, Fall 2024 -
 * **Ryan Lagasse**, Fall 2024 -
 
 **<span style="color:#DE3163">High School Students</span>**
@@ -56,7 +75,7 @@
   * BS from USTC and MS from University of Sydney
   * **IEEE T-PAMI** x 1, **IEEE T-NNLS** x 1, **NeurIPS** x 1, **ICLR** x 1, **KDD** x 1, **ICDM** x 1
   * Tutorials at **AAAI** 2025, **AAAI** 2024, **IJCAI** 2024, **WWW** 2023 and **SDM** 2023
-  * Employment: Nanyang Technological University, Presidential Postdoctoral Fellowship
+  * Employment: Lecturer (Assistant Professor), The **Royal Melbourne Institute of Technology (RMIT)**
 * **Chang Li** (Co-advisor), 2018 - 2021, Co-advisor
   * Ph.D. Student, University of Sydney
   * **KDD** x 1, **ICLR** x 1
@@ -89,6 +108,8 @@
   * Master Student, University of Connecticut
 * **Madani Mohammad**, Fall 2022 - Fall 2023
   * Master Student, University of Connecticut
+* **Brendan Barnett**, Fall 2024 - Spring 2025
+  * Undergraduate Student, University of Connecticut
 * **Okem Chime**, Summer 2023 - Fall 2023
   * Undergraduate Student, University of Connecticut
 * **Rahul Bhagwani**, Spring 2022 - Spring 2023
