@@ -25,7 +25,7 @@ interests:
 - Time Series Analysis, Prediction, Classification, Anomaly Detection
 - Foundation Models, LLMs, Multimodal LLMs, Agentic AI
 - Graph Representation Learning, Continual Learning, Domain Generalization
-- Reinforcement Learning and Trustworthy Decision Making
+- Reinforcement Learning, Interpretable and Trustworthy Decision Making
 
 education:
   courses:
@@ -77,23 +77,25 @@ I am an Associate Professor in the School of Computing, [University of Connectic
 
 My research focuses on developing foundational AI and machine learning models in the form of continual learning, graph machine learning, domain generalization, LLMs, foundation models, multimodal LLMs, and Agentic AI to perform **time series analysis** (e.g., representation, similarity search, prediction/forecasting, and anomaly detection), understand **complex networks/graphs**, and make **trustworthy and interpretable decisions** for continuously evolving real world applications (e.g., evolving graphs, dynamic systems, physical world, environmental science, healthcare and biomedical data). Four of my papers [DARNN](https://songdj.github.io/publication/ijcai-17-a/ijcai-17-a.pdf), [HetGNN](https://songdj.github.io/publication/kdd-19-a/kdd-19-a.pdf), [MSCRED](https://songdj.github.io/publication/aaai-19/aaai-19.pdf), and [Empowering TS with LLMs](https://www.ijcai.org/proceedings/2024/0895.pdf) have been ranked as the **most influential papers** in [IJCAI 2017](https://resources.paperdigest.org/2025/09/most-influential-ijcai-papers-2025-09-version/), [KDD 2019](https://resources.paperdigest.org/2025/09/most-influential-kdd-papers-2025-09-version/), [AAAI 2019](https://resources.paperdigest.org/2025/09/most-influential-aaai-papers-2025-09-version/), [IJCAI 2024](https://resources.paperdigest.org/2025/09/most-influential-ijcai-papers-2025-09-version/) by paperdigest.org, respectively.
 
-I received the prestigious **NSF Career Award** (2024), **Frontiers of Science Award (FSA)** (2024), the **UConn AAUP Excellence Award for Research and Creativity - Earlier Career** (2025), the **AI 2000 Most Influential Scholar Award** Honorable Mention - Data Mining (2025), NEC Faculty Research Award (2025), and **Best Paper Award (3rd Place CCC Award)** at BlueSky Track of ICDM 2025. I also received UCONN Research Excellence Program (REP) Award in 2021.
+I received the prestigious **NSF Career Award** (2024), **Frontiers of Science Award (FSA)** (2024), the **UConn AAUP Excellence Award for Research and Creativity - Earlier Career** (2025), the **AI 2000 Most Influential Scholar Award** Honorable Mention - Data Mining (2025), **NEC Faculty Research Award (2025)**, and **Best Paper Award (3rd Place CCC Award)** at BlueSky Track of ICDM 2025. I also received UCONN Research Excellence Program (REP) Award in 2021.
 
-**<span style="color:#DE3163"> [Survey of Multimodal Time Series Analysis]: </span>** **Multi-modal Time Series Analysis: A Tutorial and Survey, KDD 2025**[[Paper]](https://arxiv.org/pdf/2503.13709) [[Github]](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
+**<span style="color:#DE3163"> [New Survey]: </span>** **Multi-modal Time Series Analysis: A Tutorial and Survey, KDD 2025**[[Paper]](https://arxiv.org/pdf/2503.13709) [[Github]](https://github.com/UConn-DSIS/Multi-modal-Time-Series-Analysis)
 
-**<span style="color:#DE3163"> [TS-RAG]: </span>**
+**<span style="color:#DE3163"> [New Survey]: </span>** **Harnessing Vision Models for Time Series Analysis: A Survey, IJCAI 2025**[[Paper]](https://arxiv.org/pdf/2502.08869) [[Github]](https://github.com/d2i-group/awesome-vision-time-series)
+
+**<span style="color:#DE3163"> [New Paper]: </span>**
 **TS-RAG: Retrieval-Augmented Generation based Time Series Foundation Models are Stronger Zero-Shot Forecaster, NeurIPS 2025**[[Paper]](https://arxiv.org/pdf/2503.07649) [[Github]](https://github.com/UConn-DSIS/TS-RAG)
 
-**<span style="color:#DE3163"> [Time-XL]: </span>** **TimeXL: Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop, NeurIPS 2025**[[Paper]](https://arxiv.org/pdf/2503.01013)
+**<span style="color:#DE3163"> [New Paper]: </span>** **TimeXL: Explainable Multi-modal Time Series Prediction with LLM-in-the-Loop, NeurIPS 2025**[[Paper]](https://arxiv.org/pdf/2503.01013)
 
-**<span style="color:#DE3163"> [DMMV]: </span>** **Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting, NeurIPS 2025**[[Paper]](https://arxiv.org/abs/2505.24003) [[Github]](https://github.com/D2I-Group/dmmv)
+**<span style="color:#DE3163"> [New Paper]: </span>** **Multi-Modal View Enhanced Large Vision Models for Long-Term Time Series Forecasting, NeurIPS 2025**[[Paper]](https://arxiv.org/abs/2505.24003) [[Github]](https://github.com/D2I-Group/dmmv)
 
 
 <!-- +
 **<span style="color:#DE3163"> [Survey of Continual Learning on Graphs]: </span>** **Continual Learning on Graphs: Challenges, Solutions, and Opportunities**[[Paper]](https://arxiv.org/pdf/2402.11565.pdf) [[Github]](https://github.com/UConn-DSIS/Survey-of-Continual-Learning-on-Graphs)
 + -->
 
-**<span style="color:#DE3163"> [Recruiting]: </span>** ***Looking for multiple Ph.D. students in 1) Machine Learning for (Multimodal) Time Series Analysis//Graph Representation Learning with LLMs & Foundation Models; 2) AI for Healthcare/Biomedical Data Analysis; 3)  Reinforcement Learning, Reasoning, and Agentic AI. Please send me an email with your CV and transcripts.***
+**<span style="color:#DE3163"> [Recruiting]: </span>** ***Looking for multiple Ph.D. students in 1) Machine Learning for (Multimodal) Time Series Analysis/Graph Representation Learning with LLMs & Foundation Models; 2) AI for Healthcare/Biomedical Data Analysis; 3)  Reinforcement Learning, Reasoning, and Agentic AI. Please send me an email with your CV and transcripts.***
 
 <!-- +
 **<span style="color:#DE3163"> [Survey of LLMs for Time Series Analysis]: </span>** **Empowering Time Series Analysis with Large Language Models: A Survey**[[Paper]](https://arxiv.org/pdf/2402.03182.pdf) [[Github]](https://github.com/UConn-DSIS/Empowering-Time-Series-Analysis-with-LLM)
@@ -118,12 +120,13 @@ I have broad research interests in **machine learning**, **data mining**, **deep
 | Recent News            |                                   |
 | --------------------| --------------------------------- |
 |`December 2025`| Congratulations to Zijie on accepting a full-time job offer from **PayPal**!|
+|`December 2025`| Congratulations to Brendan on accepting a full-time job offer from **Space X**!|
+|`December 2025`| I am Elected as **AAAI Senior Member** (as one of 11 members in class 2026)! [[CoE News]](https://today.uconn.edu/2025/12/uconn-professor-receives-senior-member-status-with-aaai/) [[SoC News]](https://computing.engineering.uconn.edu/2025/10/28/professor-dongjin-song-has-been-elected-to-senior-member-status-of-aaai/)|
 |`November 2025`| I am invited to give a virtual talk about ``Retrieval, Language, and Vision: Towards Knowledge-Informed Time Series Analysis" at **Ohio State University**! [[Link]](https://cse.osu.edu/events/2025/11/retrieval-language-and-vision-towards-knowledge-informed-time-series-analysis)|
-|`November 2025`| We won **Best Paper Award (3rd Place CCC Award)** at BlueSky Track of ICDM 2025! Congratulations to Kanghui and the team! |
+|`November 2025`| We won **Best Paper Award (3rd Place CCC Award)** at BlueSky Track of **ICDM 2025**! Congratulations to Kanghui and the team! |
 |`November 2025`| I am invited to serve as **Area Chair** for **ICML 2026**!|
-|`October 2025`| I am delighted to receive the **NEC Research Faculty Award**! |
+|`October 2025`| I am delighted to receive the **NEC Research Faculty Award**!|
 |`October 2025`| Two tutorials are accepted to AAAi 2026! Congratulations to Yushan, Zijie, and all collaborators!|
-|`October 2025`| I am Elected as **AAAI Senior Member** (as one of 11 members in class 2026)! [[CoE News]](https://today.uconn.edu/2025/12/uconn-professor-receives-senior-member-status-with-aaai/) [[SoC News]](https://computing.engineering.uconn.edu/2025/10/28/professor-dongjin-song-has-been-elected-to-senior-member-status-of-aaai/)|
 |`September 2025`| Three papers from our group, TS-RAG [[Paper]](https://arxiv.org/pdf/2503.07649), Time-XL [[Paper]](https://arxiv.org/pdf/2503.01013), and DMMV [[Paper]](https://arxiv.org/abs/2505.24003) are accepted to **NeurIPS 2025**! Congratulations to Yushan, Kanghui, Zijie, and all collaborators!|
 |`September 2025`| Congratulations to Kanghui on receiving the 2026 summer internship offer from **Morgan Stanley**!|
 |`September 2025`| Congratulations to Xikun on receiving the faculty job offer - Lecturer (Assistant Professor) at The **Royal Melbourne Institute of Technology (RMIT)**!|
@@ -134,4 +137,5 @@ I have broad research interests in **machine learning**, **data mining**, **deep
 |`May 2025`| I am invited to serve as **Area Chair** for **ICDM 2025**!|
 |`May 2025`| I am invited to serve on a DOE panel!|
 |`April 2025`| I am promoted to be an **Associated Professor with (Earlier) Tenure** at UConn! [[Link]](https://today.uconn.edu/2025/04/228770/) |
+|`April 2025`| I am invited to serve as **Area Chair** for **NeurIPS 2025**!|
 **[More News...](https://songdj.github.io/news/)**
