@@ -53,7 +53,6 @@
   * **Intern**
     * **NEC Labs America**, Summer 2024
     * **Mayo Clinic**, Summer 2025
-
 * **Yamila Garcia**, Master student, Spring 2024 -
   * BS from University of Connecticut (UConn)
 * **Xinhao Wang**, Master student, Spring 2024 -
@@ -71,7 +70,7 @@
     * **GE Fellowship** for Excellence, 2023
     * **GE Fellowship**, 2022
     * **Cigna Fellowship**, 2021-->
-    
+
 
 
 **<span style="color:#DE3163">Undergraduate Students</span>**

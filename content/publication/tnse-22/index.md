@@ -5,7 +5,7 @@ publishDate: 2022-02-01T05:55:58.266121Z
 authors: ["Yang Jiao", "Kai Yang", "Dongjin Song", "Dacheng Tao"]
 publication_types: ["2"]
 abstract: ""
-featured: True
+featured: False
 publication: "*IEEE Transactions on Network Science and Engineering (TNSE)*"
 
 

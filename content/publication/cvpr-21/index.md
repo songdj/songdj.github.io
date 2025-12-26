@@ -5,7 +5,7 @@ publishDate: 2021-06-20T05:55:58.254767Z
 authors: ["Liang Tong", "Zhengzhang Chen", "Jingchao Ni", "Wei Cheng", "Dongjin Song", "Haifeng Chen", "Yevgeniy Vorobeychik"]
 publication_types: ["1"]
 abstract: ""
-featured: True
+featured: false
 publication: "*Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*"
 url_code: "https://github.com/shinington/facesec"
 ---
