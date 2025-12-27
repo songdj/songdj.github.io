@@ -3,13 +3,13 @@
 * [**Dongjin Song**](https://songdj.github.io/)
 
 **<span style="color:#DE3163">Graduate Students</span>**
-* **Jinyu Hong**, Ph.D. student, Fall 2025 -
+* **Jinyu Hong**, Ph.D. student, Fall 2025 - Present
   * BE from UESTC and MS from UESTC
   * **Award**:
     * **Eversource Fellowship** 2025
-* **Guiquan Sun**, Ph.D. student, Fall 2025 -
+* **Guiquan Sun**, Ph.D. student, Fall 2025 - Present
   * BS from South China Agricultural University
-* [**Kanghui Ning**](https://kanghui-learning.github.io/), Ph.D. student, Fall 2024 -
+* [**Kanghui Ning**](https://kanghui-learning.github.io/), Ph.D. student, Fall 2024 - Present
   * BE from UESTC and MS from Huazhong University of Science and Technology (HUST)
   * **NeurIPS** x 1, **ICDM** x 1, **KDD** x 1
   * **Tutorial** at **KDD** 2025
@@ -19,7 +19,7 @@
   * **Intern**
     * **Ant Financial**, Summer 2024
     * **Morgan Stanley**, Summer 2026
-* **Xuyang Shen**, Ph.D. student, Spring 2024 -
+* **Xuyang Shen**, Ph.D. student, Spring 2024 - Present
   * BE from UESTC and MS from University of California San Diego (UCSD)
   * **Tutorial** at **KDD** 2025
   * **Award**:
@@ -27,7 +27,7 @@
     * **UConn SoC Predoctoral Fellowship** 2025
   * **Intern**
     * **NEC Labs America** Summer 2025
-* [**Zijie Pan**](https://scholar.google.com/citations?user=-ZPcD5MAAAAJ&hl=en), Ph.D. student, Fall 2022 -
+* [**Zijie Pan**](https://scholar.google.com/citations?user=-ZPcD5MAAAAJ&hl=en), Ph.D. student, Fall 2022 - Present
   * BS and MS from University of Virginia (UVA)
   * **ICML** x 1, **IJCAI** x 1, **KDD** x 1,
   * **Tutorials** at **WWW** 2023, **SDM** 2023, **KDD** 2025, **AAAI** 2026
@@ -39,7 +39,7 @@
     * **Eversource Fellowship** Summer 2025
   * **Intern**
     * **Eversource Energy** Summer 2024
-* [**Yushan Jiang**](https://sites.google.com/view/jayjiang/home), Ph.D. student, Spring 2022 -
+* [**Yushan Jiang**](https://sites.google.com/view/jayjiang/home), Ph.D. student, Spring 2022 - Present
   * BS from CAUC and MS from Embry-Riddle Aeronautical University (ERAU)
   * **NeurIPS** x1, **KDD** x 2, **IJCAI** x 1, **CISS** x 1
   * **Tutorials** at **WWW** 2023, **SDM** 2023, **KDD** 2024, **AAAI** 2025, and **KDD** 2025
@@ -53,13 +53,13 @@
   * **Intern**
     * **NEC Labs America**, Summer 2024
     * **Mayo Clinic**, Summer 2025
-* **Yamila Garcia**, Master student, Spring 2024 -
+* **Yamila Garcia**, Master student, Spring 2024 - Present
   * BS from University of Connecticut (UConn)
-* **Xinhao Wang**, Master student, Spring 2024 -
+* **Xinhao Wang**, Master student, Spring 2024 - Present
   * BS from Shanghai Jiao Tong University (SJTU)
-* **Nikolas Anagnostou**, Master student, Fall 2024 -
+* **Nikolas Anagnostou**, Master student, Fall 2024 - Present
   * BS from University of Connecticut (UConn)
-* **Brendan Barnett**, Master student, Fall 2025 -
+* **Brendan Barnett**, Master student, Fall 2025 - Present
   * BS from University of Connecticut (UConn)
 
 
