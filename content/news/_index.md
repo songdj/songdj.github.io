@@ -1,19 +1,19 @@
 | News            |                                   |
 | --------------------| ---------------------------------------------------- |
-|`January 2026`| I am invited to give a talk about ``Retrieval, Language, and Vision: Towards Knowledge-Informed Time Series Analysis" at **Institute for Infocomm Research, A*STAR**! |
+|`January 2026`| I am invited to give a talk about ``Retrieval, Language, and Vision: Towards Knowledge-Informed Time Series Analysis" at **Institute for Infocomm Research, A*STAR**!|
 |`January 2026`| We are going to organize the **AI4TS Workshop @ AAAI 2026**! [[Link]](https://ai4ts.github.io/aaai2026)|
-|`January 2026`| I am invited to give a talk about ``Retrieval, Language, and Vision: Towards Knowledge-Informed Time Series Analysis" at **Nanyang Technological University (NTU)**! |
-|`January 2026`| We am going to present two tutorials about **Multimodal Time Series Analysis** and **Foundation Models for Time Series Analysis** at **AAAI 2026**![[Link]](https://aaai.org/conference/aaai/aaai-26/tutorial-and-lab-forum/)|
+|`January 2026`| I am invited to give a talk about ``Retrieval, Language, and Vision: Towards Knowledge-Informed Time Series Analysis" at **Nanyang Technological University (NTU)**!|
+|`January 2026`| We am going to present two tutorials about **Multimodal Time Series Analysis** and **Foundation Models for Time Series Analysis** at **AAAI 2026**! [[Link]](https://aaai.org/conference/aaai/aaai-26/tutorial-and-lab-forum/)|
 |`January 2026`| I am invited to serve as **Senior PC Member** for **IJCAI 2026**!|
 |`December 2025`| Congratulations to Zijie on accepting a full-time job offer from **PayPal**!|
 |`December 2025`| Congratulations to Brendan on accepting a full-time job offer from **SpaceX**!|
 |`December 2025`| I am Elected as **AAAI Senior Member** (as one of 11 members in class 2026)! [[AAAI Awards]](https://aaai.org/about-aaai/aaai-awards/aaai-senior-member-status/)[[CoE News]](https://today.uconn.edu/2025/12/uconn-professor-receives-senior-member-status-with-aaai/) [[SoC News]](https://computing.engineering.uconn.edu/2025/10/28/professor-dongjin-song-has-been-elected-to-senior-member-status-of-aaai/)|
 |`November 2025`| I am invited to give a virtual talk about ``Retrieval, Language, and Vision: Towards Knowledge-Informed Time Series Analysis" at **Ohio State University**! [[Link]](https://cse.osu.edu/events/2025/11/retrieval-language-and-vision-towards-knowledge-informed-time-series-analysis)|
-|`November 2025`| I am invited to give a keynote talk about ``Towards Knowledge-Informed Time Series Analysis: from Memorization to Generalization" at the 1st RRoG-DM Workshop at **ICDM 2025**![[Link]](https://sites.google.com/view/kaizhu-huang-homepage/icdm-rrog-workshop-2025)|
-|`November 2025`| We won **Best Paper Award (3rd Place CCC Award)** at BlueSky Track of **ICDM 2025**! Congratulations to Kanghui and the team! |
+|`November 2025`| I am invited to give a keynote talk about ``Towards Knowledge-Informed Time Series Analysis: from Memorization to Generalization" at the 1st RRoG-DM Workshop at **ICDM 2025**! [[Link]](https://sites.google.com/view/kaizhu-huang-homepage/icdm-rrog-workshop-2025)|
+|`November 2025`| We won **Best Paper Award (3rd Place CCC Award)** at BlueSky Track of **ICDM 2025**! Congratulations to Kanghui and the team!|
 |`November 2025`| I am invited to serve as **Area Chair** for **ICML 2026**!|
 |`October 2025`| I am delighted to receive the **NEC Research Faculty Award**!|
-|`October 2025`| Two tutorials are accepted to AAAi 2026! Congratulations to Yushan, Zijie, and all collaborators!|
+|`October 2025`| Two tutorials are accepted to AAAI 2026! Congratulations to Yushan, Zijie, and all collaborators!|
 |`September 2025`| Three papers from our group, TS-RAG [[Paper]](https://arxiv.org/pdf/2503.07649), Time-XL [[Paper]](https://arxiv.org/pdf/2503.01013), and DMMV [[Paper]](https://arxiv.org/abs/2505.24003) are accepted to **NeurIPS 2025**! Congratulations to Yushan, Kanghui, Zijie, and all collaborators!|
 |`September 2025`| Congratulations to Kanghui on receiving the 2026 summer internship offer from **Morgan Stanley**!|
 |`September 2025`| Congratulations to Xikun on receiving the faculty job offer - Lecturer (Assistant Professor) at The **Royal Melbourne Institute of Technology (RMIT)**!|
